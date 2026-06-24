@@ -1,0 +1,13 @@
+indicator,method,RMSE,MAE,coverage80
+asfr_15_19,BayesHier,22.737,17.457,0.75
+asfr_15_19,Linear,23.307,18.653,0.75
+asfr_15_19,LogLinear,23.67,18.238,0.625
+asfr_15_19,RWD,27.597,24.01,0.562
+asfr_15_19,LeeCarter,27.996,23.87,0.25
+asfr_15_19,LSTM,32.198,28.992,0.312
+tfr_15_49,LeeCarter,0.516,0.381,0.625
+tfr_15_49,RWD,0.523,0.398,0.875
+tfr_15_49,BayesHier,0.561,0.44,0.938
+tfr_15_49,LogLinear,0.58,0.456,0.812
+tfr_15_49,LSTM,0.597,0.45,0.75
+tfr_15_49,Linear,0.655,0.517,0.812

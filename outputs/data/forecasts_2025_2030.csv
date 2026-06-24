@@ -1,0 +1,385 @@
+region,indicator,method,year,point,lo80,hi80
+Ahafo,tfr_15_49,RWD,2025,4.009,2.963,5.054
+Ahafo,tfr_15_49,RWD,2030,3.524,1.816,5.231
+Ashanti,tfr_15_49,RWD,2025,3.253,2.811,3.695
+Ashanti,tfr_15_49,RWD,2030,2.841,2.119,3.564
+Bono,tfr_15_49,RWD,2025,3.356,2.289,4.423
+Bono,tfr_15_49,RWD,2030,2.782,1.04,4.525
+Bono East,tfr_15_49,RWD,2025,4.444,3.377,5.511
+Bono East,tfr_15_49,RWD,2030,4.018,2.275,5.76
+Central,tfr_15_49,RWD,2025,3.335,2.763,3.907
+Central,tfr_15_49,RWD,2030,2.894,1.96,3.828
+Eastern,tfr_15_49,RWD,2025,3.279,2.75,3.809
+Eastern,tfr_15_49,RWD,2030,2.912,2.047,3.777
+Greater Accra,tfr_15_49,RWD,2025,2.741,2.106,3.376
+Greater Accra,tfr_15_49,RWD,2030,2.476,1.44,3.513
+North East,tfr_15_49,RWD,2025,6.574,5.944,7.203
+North East,tfr_15_49,RWD,2030,6.529,5.501,7.558
+Northern,tfr_15_49,RWD,2025,5.485,4.951,6.019
+Northern,tfr_15_49,RWD,2030,5.294,4.422,6.166
+Oti,tfr_15_49,RWD,2025,5.024,4.129,5.918
+Oti,tfr_15_49,RWD,2030,4.729,3.268,6.19
+Savannah,tfr_15_49,RWD,2025,5.703,5.176,6.23
+Savannah,tfr_15_49,RWD,2030,5.541,4.681,6.402
+Upper East,tfr_15_49,RWD,2025,4.397,3.637,5.157
+Upper East,tfr_15_49,RWD,2030,4.059,2.817,5.301
+Upper West,tfr_15_49,RWD,2025,4.288,3.498,5.078
+Upper West,tfr_15_49,RWD,2030,3.935,2.645,5.226
+Volta,tfr_15_49,RWD,2025,2.847,2.139,3.555
+Volta,tfr_15_49,RWD,2030,2.259,1.103,3.415
+Western,tfr_15_49,RWD,2025,3.353,2.732,3.974
+Western,tfr_15_49,RWD,2030,2.941,1.927,3.955
+Western North,tfr_15_49,RWD,2025,3.571,2.947,4.194
+Western North,tfr_15_49,RWD,2030,3.188,2.17,4.206
+Ahafo,tfr_15_49,Linear,2025,3.793,2.574,5.013
+Ahafo,tfr_15_49,Linear,2030,3.484,2.188,4.779
+Ashanti,tfr_15_49,Linear,2025,3.044,2.387,3.701
+Ashanti,tfr_15_49,Linear,2030,2.678,1.98,3.375
+Bono,tfr_15_49,Linear,2025,3.583,2.382,4.783
+Bono,tfr_15_49,Linear,2030,3.233,1.958,4.509
+Bono East,tfr_15_49,Linear,2025,3.934,2.666,5.202
+Bono East,tfr_15_49,Linear,2030,3.651,2.304,4.997
+Central,tfr_15_49,Linear,2025,3.57,2.855,4.285
+Central,tfr_15_49,Linear,2030,3.229,2.47,3.989
+Eastern,tfr_15_49,Linear,2025,3.026,2.447,3.604
+Eastern,tfr_15_49,Linear,2030,2.697,2.082,3.312
+Greater Accra,tfr_15_49,Linear,2025,2.486,1.63,3.341
+Greater Accra,tfr_15_49,Linear,2030,2.317,1.408,3.225
+North East,tfr_15_49,Linear,2025,6.476,5.959,6.993
+North East,tfr_15_49,Linear,2030,6.433,5.884,6.983
+Northern,tfr_15_49,Linear,2025,6.125,5.47,6.78
+Northern,tfr_15_49,Linear,2030,6.016,5.32,6.712
+Oti,tfr_15_49,Linear,2025,3.815,2.455,5.174
+Oti,tfr_15_49,Linear,2030,3.553,2.109,4.998
+Savannah,tfr_15_49,Linear,2025,6.195,5.595,6.796
+Savannah,tfr_15_49,Linear,2030,6.099,5.461,6.737
+Upper East,tfr_15_49,Linear,2025,3.906,2.895,4.916
+Upper East,tfr_15_49,Linear,2030,3.639,2.565,4.712
+Upper West,tfr_15_49,Linear,2025,4.104,3.415,4.792
+Upper West,tfr_15_49,Linear,2030,3.803,3.071,4.534
+Volta,tfr_15_49,Linear,2025,3.112,2.044,4.179
+Volta,tfr_15_49,Linear,2030,2.718,1.585,3.852
+Western,tfr_15_49,Linear,2025,3.265,2.553,3.977
+Western,tfr_15_49,Linear,2030,2.935,2.179,3.692
+Western North,tfr_15_49,Linear,2025,3.335,2.605,4.066
+Western North,tfr_15_49,Linear,2030,3.019,2.243,3.795
+Ahafo,tfr_15_49,LogLinear,2025,3.96,3.141,4.78
+Ahafo,tfr_15_49,LogLinear,2030,3.748,2.924,4.572
+Ashanti,tfr_15_49,LogLinear,2025,3.218,2.783,3.654
+Ashanti,tfr_15_49,LogLinear,2030,2.974,2.546,3.402
+Bono,tfr_15_49,LogLinear,2025,3.756,2.977,4.536
+Bono,tfr_15_49,LogLinear,2030,3.52,2.744,4.296
+Bono East,tfr_15_49,LogLinear,2025,4.086,3.195,4.977
+Bono East,tfr_15_49,LogLinear,2030,3.89,2.989,4.79
+Central,tfr_15_49,LogLinear,2025,3.666,3.142,4.19
+Central,tfr_15_49,LogLinear,2030,3.418,2.899,3.937
+Eastern,tfr_15_49,LogLinear,2025,3.166,2.776,3.556
+Eastern,tfr_15_49,LogLinear,2030,2.94,2.555,3.324
+Greater Accra,tfr_15_49,LogLinear,2025,2.571,1.935,3.207
+Greater Accra,tfr_15_49,LogLinear,2030,2.454,1.809,3.099
+North East,tfr_15_49,LogLinear,2025,6.465,5.946,6.983
+North East,tfr_15_49,LogLinear,2030,6.421,5.874,6.968
+Northern,tfr_15_49,LogLinear,2025,6.102,5.47,6.734
+Northern,tfr_15_49,LogLinear,2030,5.995,5.336,6.655
+Oti,tfr_15_49,LogLinear,2025,3.936,2.918,4.953
+Oti,tfr_15_49,LogLinear,2030,3.753,2.722,4.784
+Savannah,tfr_15_49,LogLinear,2025,6.177,5.598,6.756
+Savannah,tfr_15_49,LogLinear,2030,6.084,5.478,6.69
+Upper East,tfr_15_49,LogLinear,2025,4.026,3.259,4.792
+Upper East,tfr_15_49,LogLinear,2030,3.833,3.057,4.608
+Upper West,tfr_15_49,LogLinear,2025,4.191,3.67,4.713
+Upper West,tfr_15_49,LogLinear,2030,3.963,3.439,4.486
+Volta,tfr_15_49,LogLinear,2025,3.318,2.651,3.985
+Volta,tfr_15_49,LogLinear,2030,3.064,2.41,3.719
+Western,tfr_15_49,LogLinear,2025,3.413,2.936,3.89
+Western,tfr_15_49,LogLinear,2030,3.185,2.712,3.658
+Western North,tfr_15_49,LogLinear,2025,3.479,2.979,3.978
+Western North,tfr_15_49,LogLinear,2030,3.257,2.761,3.754
+Ahafo,tfr_15_49,LSTM,2025,4.057,3.546,4.677
+Ahafo,tfr_15_49,LSTM,2030,3.416,2.462,4.201
+Ashanti,tfr_15_49,LSTM,2025,3.311,3.034,3.489
+Ashanti,tfr_15_49,LSTM,2030,3.055,1.965,4.062
+Bono,tfr_15_49,LSTM,2025,3.943,3.495,4.463
+Bono,tfr_15_49,LSTM,2030,3.331,2.385,4.626
+Bono East,tfr_15_49,LSTM,2025,4.201,3.745,4.747
+Bono East,tfr_15_49,LSTM,2030,3.563,2.393,4.835
+Central,tfr_15_49,LSTM,2025,3.366,3.117,3.653
+Central,tfr_15_49,LSTM,2030,3.005,1.713,4.448
+Eastern,tfr_15_49,LSTM,2025,3.187,2.821,3.443
+Eastern,tfr_15_49,LSTM,2030,2.969,2.018,3.835
+Greater Accra,tfr_15_49,LSTM,2025,2.824,2.761,2.958
+Greater Accra,tfr_15_49,LSTM,2030,2.291,1.769,2.813
+North East,tfr_15_49,LSTM,2025,6.024,5.694,6.778
+North East,tfr_15_49,LSTM,2030,6.193,3.875,8.15
+Northern,tfr_15_49,LSTM,2025,6.384,5.423,7.153
+Northern,tfr_15_49,LSTM,2030,5.68,4.142,7.139
+Oti,tfr_15_49,LSTM,2025,4.183,3.494,4.976
+Oti,tfr_15_49,LSTM,2030,4.02,3.099,4.874
+Savannah,tfr_15_49,LSTM,2025,6.431,5.785,7.232
+Savannah,tfr_15_49,LSTM,2030,5.761,4.245,7.077
+Upper East,tfr_15_49,LSTM,2025,4.563,4.204,4.932
+Upper East,tfr_15_49,LSTM,2030,4.045,2.082,5.58
+Upper West,tfr_15_49,LSTM,2025,4.461,4.06,4.901
+Upper West,tfr_15_49,LSTM,2030,3.764,2.821,4.75
+Volta,tfr_15_49,LSTM,2025,3.761,3.25,4.032
+Volta,tfr_15_49,LSTM,2030,3.287,2.662,4.255
+Western,tfr_15_49,LSTM,2025,3.459,3.256,3.55
+Western,tfr_15_49,LSTM,2030,3.055,2.282,4.093
+Western North,tfr_15_49,LSTM,2025,3.477,3.209,3.614
+Western North,tfr_15_49,LSTM,2030,3.09,2.364,4.11
+Ahafo,asfr_15_19,RWD,2025,52.147,31.303,72.991
+Ahafo,asfr_15_19,RWD,2030,39.059,5.02,73.097
+Ashanti,asfr_15_19,RWD,2025,57.147,24.374,89.92
+Ashanti,asfr_15_19,RWD,2030,49.059,0.0,102.576
+Bono,asfr_15_19,RWD,2025,26.029,0.0,55.171
+Bono,asfr_15_19,RWD,2030,9.412,0.0,57.001
+Bono East,asfr_15_19,RWD,2025,86.971,72.243,101.698
+Bono East,asfr_15_19,RWD,2030,78.588,54.538,102.638
+Central,asfr_15_19,RWD,2025,50.206,24.777,75.635
+Central,asfr_15_19,RWD,2030,33.882,0.0,75.408
+Eastern,asfr_15_19,RWD,2025,59.353,33.18,85.526
+Eastern,asfr_15_19,RWD,2030,49.941,7.201,92.681
+Greater Accra,asfr_15_19,RWD,2025,34.853,20.381,49.325
+Greater Accra,asfr_15_19,RWD,2030,27.941,4.309,51.574
+North East,asfr_15_19,RWD,2025,123.471,99.264,147.677
+North East,asfr_15_19,RWD,2030,127.588,88.059,167.117
+Northern,asfr_15_19,RWD,2025,71.235,47.294,95.177
+Northern,asfr_15_19,RWD,2030,68.294,29.198,107.39
+Oti,asfr_15_19,RWD,2025,67.0,29.938,104.062
+Oti,asfr_15_19,RWD,2030,57.0,0.0,117.521
+Savannah,asfr_15_19,RWD,2025,118.029,94.698,141.361
+Savannah,asfr_15_19,RWD,2030,121.412,83.311,159.512
+Upper East,asfr_15_19,RWD,2025,67.971,32.634,103.307
+Upper East,asfr_15_19,RWD,2030,64.588,6.884,122.293
+Upper West,asfr_15_19,RWD,2025,53.824,19.382,88.265
+Upper West,asfr_15_19,RWD,2030,48.529,0.0,104.772
+Volta,asfr_15_19,RWD,2025,35.441,0.0,76.209
+Volta,asfr_15_19,RWD,2030,21.176,0.0,87.749
+Western,asfr_15_19,RWD,2025,70.882,41.228,100.537
+Western,asfr_15_19,RWD,2030,62.353,13.927,110.779
+Western North,asfr_15_19,RWD,2025,49.118,16.559,81.676
+Western North,asfr_15_19,RWD,2030,37.647,0.0,90.815
+Ahafo,asfr_15_19,Linear,2025,77.341,51.191,103.492
+Ahafo,asfr_15_19,Linear,2030,70.697,42.918,98.476
+Ashanti,asfr_15_19,Linear,2025,45.991,4.048,87.934
+Ashanti,asfr_15_19,Linear,2030,35.104,0.0,79.659
+Bono,asfr_15_19,Linear,2025,68.903,34.992,102.815
+Bono,asfr_15_19,Linear,2030,60.676,24.653,96.699
+Bono East,asfr_15_19,Linear,2025,88.591,66.98,110.203
+Bono East,asfr_15_19,Linear,2030,84.059,61.102,107.016
+Central,asfr_15_19,Linear,2025,74.422,45.214,103.63
+Central,asfr_15_19,Linear,2030,64.69,33.664,95.717
+Eastern,asfr_15_19,Linear,2025,51.266,28.37,74.163
+Eastern,asfr_15_19,Linear,2030,40.76,16.438,65.082
+Greater Accra,asfr_15_19,Linear,2025,23.632,4.049,43.216
+Greater Accra,asfr_15_19,Linear,2030,17.373,0.0,38.176
+North East,asfr_15_19,Linear,2025,100.585,72.446,128.725
+North East,asfr_15_19,Linear,2030,99.191,69.299,129.083
+Northern,asfr_15_19,Linear,2025,83.71,57.343,110.078
+Northern,asfr_15_19,Linear,2030,79.149,51.139,107.158
+Oti,asfr_15_19,Linear,2025,74.275,40.234,108.315
+Oti,asfr_15_19,Linear,2030,69.899,33.739,106.059
+Savannah,asfr_15_19,Linear,2025,98.828,71.749,125.906
+Savannah,asfr_15_19,Linear,2030,97.103,68.339,125.868
+Upper East,asfr_15_19,Linear,2025,63.351,31.179,95.522
+Upper East,asfr_15_19,Linear,2030,59.971,25.797,94.146
+Upper West,asfr_15_19,Linear,2025,55.049,28.084,82.015
+Upper West,asfr_15_19,Linear,2030,49.453,20.809,78.098
+Volta,asfr_15_19,Linear,2025,64.079,26.357,101.801
+Volta,asfr_15_19,Linear,2030,57.79,17.719,97.861
+Western,asfr_15_19,Linear,2025,61.876,23.777,99.976
+Western,asfr_15_19,Linear,2030,53.489,13.017,93.96
+Western North,asfr_15_19,Linear,2025,54.845,17.129,92.561
+Western North,asfr_15_19,Linear,2030,45.138,5.073,85.203
+Ahafo,asfr_15_19,LogLinear,2025,77.98,56.478,99.482
+Ahafo,asfr_15_19,LogLinear,2030,72.989,51.61,94.369
+Ashanti,asfr_15_19,LogLinear,2025,52.482,25.746,79.219
+Ashanti,asfr_15_19,LogLinear,2030,46.873,21.508,72.239
+Bono,asfr_15_19,LogLinear,2025,65.161,33.494,96.828
+Bono,asfr_15_19,LogLinear,2030,58.969,28.527,89.412
+Bono East,asfr_15_19,LogLinear,2025,90.625,74.26,106.99
+Bono East,asfr_15_19,LogLinear,2030,87.251,70.515,103.988
+Central,asfr_15_19,LogLinear,2025,76.87,54.9,98.839
+Central,asfr_15_19,LogLinear,2030,70.322,48.973,91.671
+Eastern,asfr_15_19,LogLinear,2025,56.204,41.518,70.89
+Eastern,asfr_15_19,LogLinear,2030,50.085,36.183,63.987
+Greater Accra,asfr_15_19,LogLinear,2025,28.418,17.113,39.724
+Greater Accra,asfr_15_19,LogLinear,2030,25.289,14.602,35.976
+North East,asfr_15_19,LogLinear,2025,100.398,74.565,126.23
+North East,asfr_15_19,LogLinear,2030,99.32,72.173,126.466
+Northern,asfr_15_19,LogLinear,2025,84.056,62.774,105.337
+Northern,asfr_15_19,LogLinear,2030,80.427,58.796,102.057
+Oti,asfr_15_19,LogLinear,2025,75.819,49.091,102.548
+Oti,asfr_15_19,LogLinear,2030,72.817,45.549,100.086
+Savannah,asfr_15_19,LogLinear,2025,98.919,74.365,123.473
+Savannah,asfr_15_19,LogLinear,2030,97.585,71.854,123.316
+Upper East,asfr_15_19,LogLinear,2025,64.528,34.872,94.185
+Upper East,asfr_15_19,LogLinear,2030,62.405,31.938,92.871
+Upper West,asfr_15_19,LogLinear,2025,55.308,34.666,75.951
+Upper West,asfr_15_19,LogLinear,2030,51.308,30.966,71.65
+Volta,asfr_15_19,LogLinear,2025,63.457,34.879,92.035
+Volta,asfr_15_19,LogLinear,2030,58.942,30.745,87.14
+Western,asfr_15_19,LogLinear,2025,66.097,39.128,93.065
+Western,asfr_15_19,LogLinear,2030,61.048,34.588,87.508
+Western North,asfr_15_19,LogLinear,2025,59.368,34.954,83.782
+Western North,asfr_15_19,LogLinear,2030,53.74,30.264,77.215
+Ahafo,asfr_15_19,LSTM,2025,46.683,22.539,66.76
+Ahafo,asfr_15_19,LSTM,2030,24.152,1.371,43.313
+Ashanti,asfr_15_19,LSTM,2025,61.42,32.99,86.544
+Ashanti,asfr_15_19,LSTM,2030,40.255,21.822,68.559
+Bono,asfr_15_19,LSTM,2025,44.801,15.763,63.441
+Bono,asfr_15_19,LSTM,2030,10.4,0.0,31.973
+Bono East,asfr_15_19,LSTM,2025,50.338,32.726,64.531
+Bono East,asfr_15_19,LSTM,2030,44.016,24.208,80.119
+Central,asfr_15_19,LSTM,2025,46.774,15.95,77.997
+Central,asfr_15_19,LSTM,2030,29.316,4.0,61.011
+Eastern,asfr_15_19,LSTM,2025,56.409,41.65,74.958
+Eastern,asfr_15_19,LSTM,2030,44.486,23.149,54.324
+Greater Accra,asfr_15_19,LSTM,2025,36.447,30.904,40.367
+Greater Accra,asfr_15_19,LSTM,2030,21.462,16.741,26.707
+North East,asfr_15_19,LSTM,2025,88.862,61.003,130.125
+North East,asfr_15_19,LSTM,2030,63.539,2.433,143.698
+Northern,asfr_15_19,LSTM,2025,60.634,40.176,75.091
+Northern,asfr_15_19,LSTM,2030,23.736,0.0,50.559
+Oti,asfr_15_19,LSTM,2025,49.454,37.809,68.781
+Oti,asfr_15_19,LSTM,2030,43.643,20.13,81.033
+Savannah,asfr_15_19,LSTM,2025,87.661,64.319,125.168
+Savannah,asfr_15_19,LSTM,2030,60.27,0.0,148.806
+Upper East,asfr_15_19,LSTM,2025,66.174,53.352,82.109
+Upper East,asfr_15_19,LSTM,2030,43.642,24.575,74.442
+Upper West,asfr_15_19,LSTM,2025,65.132,49.165,76.415
+Upper West,asfr_15_19,LSTM,2030,37.299,15.561,65.667
+Volta,asfr_15_19,LSTM,2025,54.276,51.08,64.551
+Volta,asfr_15_19,LSTM,2030,21.06,0.0,42.566
+Western,asfr_15_19,LSTM,2025,56.963,33.036,79.153
+Western,asfr_15_19,LSTM,2030,43.758,27.136,76.208
+Western North,asfr_15_19,LSTM,2025,55.944,34.767,73.232
+Western North,asfr_15_19,LSTM,2030,24.438,0.594,55.92
+Ahafo,tfr_15_49,LeeCarter,2025,4.07,3.299,5.135
+Ahafo,tfr_15_49,LeeCarter,2030,3.714,2.649,5.397
+Ashanti,tfr_15_49,LeeCarter,2025,3.401,3.036,3.843
+Ashanti,tfr_15_49,LeeCarter,2030,3.2,2.667,3.887
+Bono,tfr_15_49,LeeCarter,2025,3.48,2.953,4.107
+Bono,tfr_15_49,LeeCarter,2030,3.16,2.408,4.126
+Bono East,tfr_15_49,LeeCarter,2025,4.544,3.635,5.869
+Bono East,tfr_15_49,LeeCarter,2030,4.222,2.944,6.442
+Central,tfr_15_49,LeeCarter,2025,3.477,2.935,4.101
+Central,tfr_15_49,LeeCarter,2030,3.222,2.413,4.214
+Eastern,tfr_15_49,LeeCarter,2025,3.351,3.01,3.727
+Eastern,tfr_15_49,LeeCarter,2030,3.09,2.579,3.668
+Greater Accra,tfr_15_49,LeeCarter,2025,2.91,2.436,7.822
+Greater Accra,tfr_15_49,LeeCarter,2030,2.811,2.117,46.621
+North East,tfr_15_49,LeeCarter,2025,6.793,6.514,7.251
+North East,tfr_15_49,LeeCarter,2030,6.749,6.371,7.594
+Northern,tfr_15_49,LeeCarter,2025,5.563,5.517,5.785
+Northern,tfr_15_49,LeeCarter,2030,5.587,5.518,6.081
+Oti,tfr_15_49,LeeCarter,2025,4.973,4.108,6.519
+Oti,tfr_15_49,LeeCarter,2030,4.586,3.469,7.077
+Savannah,tfr_15_49,LeeCarter,2025,5.798,5.577,6.155
+Savannah,tfr_15_49,LeeCarter,2030,5.738,5.456,6.356
+Upper East,tfr_15_49,LeeCarter,2025,4.539,4.299,4.85
+Upper East,tfr_15_49,LeeCarter,2030,4.428,4.081,4.921
+Upper West,tfr_15_49,LeeCarter,2025,4.466,4.142,4.888
+Upper West,tfr_15_49,LeeCarter,2030,4.322,3.858,4.993
+Volta,tfr_15_49,LeeCarter,2025,3.016,2.403,3.776
+Volta,tfr_15_49,LeeCarter,2030,2.721,1.851,3.917
+Western,tfr_15_49,LeeCarter,2025,3.587,3.241,4.095
+Western,tfr_15_49,LeeCarter,2030,3.669,3.192,4.804
+Western North,tfr_15_49,LeeCarter,2025,3.79,3.774,3.876
+Western North,tfr_15_49,LeeCarter,2030,3.809,3.775,4.019
+Ahafo,tfr_15_49,BayesHier,2025,3.951,3.319,4.726
+Ahafo,tfr_15_49,BayesHier,2030,3.753,3.114,4.464
+Ashanti,tfr_15_49,BayesHier,2025,3.226,2.724,3.825
+Ashanti,tfr_15_49,BayesHier,2030,2.964,2.474,3.599
+Bono,tfr_15_49,BayesHier,2025,3.779,3.155,4.461
+Bono,tfr_15_49,BayesHier,2030,3.499,2.927,4.242
+Bono East,tfr_15_49,BayesHier,2025,4.086,3.447,4.843
+Bono East,tfr_15_49,BayesHier,2030,3.914,3.259,4.684
+Central,tfr_15_49,BayesHier,2025,3.667,3.08,4.384
+Central,tfr_15_49,BayesHier,2030,3.411,2.817,4.128
+Eastern,tfr_15_49,BayesHier,2025,3.181,2.693,3.803
+Eastern,tfr_15_49,BayesHier,2030,2.972,2.452,3.571
+Greater Accra,tfr_15_49,BayesHier,2025,2.614,2.173,3.116
+Greater Accra,tfr_15_49,BayesHier,2030,2.498,2.072,2.989
+North East,tfr_15_49,BayesHier,2025,6.408,5.381,7.569
+North East,tfr_15_49,BayesHier,2030,6.387,5.228,7.613
+Northern,tfr_15_49,BayesHier,2025,6.043,5.102,7.142
+Northern,tfr_15_49,BayesHier,2030,5.89,4.93,7.145
+Oti,tfr_15_49,BayesHier,2025,3.92,3.331,4.72
+Oti,tfr_15_49,BayesHier,2030,3.765,3.136,4.518
+Savannah,tfr_15_49,BayesHier,2025,6.103,5.116,7.27
+Savannah,tfr_15_49,BayesHier,2030,6.007,4.997,7.218
+Upper East,tfr_15_49,BayesHier,2025,4.026,3.368,4.792
+Upper East,tfr_15_49,BayesHier,2030,3.848,3.174,4.621
+Upper West,tfr_15_49,BayesHier,2025,4.174,3.503,4.964
+Upper West,tfr_15_49,BayesHier,2030,3.952,3.29,4.732
+Volta,tfr_15_49,BayesHier,2025,3.333,2.802,3.974
+Volta,tfr_15_49,BayesHier,2030,3.08,2.564,3.695
+Western,tfr_15_49,BayesHier,2025,3.424,2.884,4.061
+Western,tfr_15_49,BayesHier,2030,3.204,2.67,3.882
+Western North,tfr_15_49,BayesHier,2025,3.517,2.941,4.177
+Western North,tfr_15_49,BayesHier,2030,3.267,2.717,3.936
+Ahafo,asfr_15_19,LeeCarter,2025,57.607,47.595,69.299
+Ahafo,asfr_15_19,LeeCarter,2030,53.133,38.283,71.777
+Ashanti,asfr_15_19,LeeCarter,2025,58.461,47.157,71.977
+Ashanti,asfr_15_19,LeeCarter,2030,52.235,36.119,73.278
+Bono,asfr_15_19,LeeCarter,2025,32.116,22.161,45.992
+Bono,asfr_15_19,LeeCarter,2030,25.888,13.692,46.445
+Bono East,asfr_15_19,LeeCarter,2025,89.96,77.376,104.086
+Bono East,asfr_15_19,LeeCarter,2030,85.775,66.222,108.756
+Central,asfr_15_19,LeeCarter,2025,56.907,45.147,71.198
+Central,asfr_15_19,LeeCarter,2030,51.286,34.466,73.853
+Eastern,asfr_15_19,LeeCarter,2025,60.798,51.664,71.173
+Eastern,asfr_15_19,LeeCarter,2030,53.789,40.673,69.513
+Greater Accra,asfr_15_19,LeeCarter,2025,38.031,24.917,57.261
+Greater Accra,asfr_15_19,LeeCarter,2030,35.431,17.144,68.971
+North East,asfr_15_19,LeeCarter,2025,121.488,108.406,136.665
+North East,asfr_15_19,LeeCarter,2030,123.292,102.423,150.906
+Northern,asfr_15_19,LeeCarter,2025,72.497,60.905,86.796
+Northern,asfr_15_19,LeeCarter,2030,72.552,54.638,98.826
+Oti,asfr_15_19,LeeCarter,2025,70.619,59.434,83.444
+Oti,asfr_15_19,LeeCarter,2030,66.039,49.117,86.65
+Savannah,asfr_15_19,LeeCarter,2025,117.455,103.352,134.051
+Savannah,asfr_15_19,LeeCarter,2030,121.006,98.262,151.829
+Upper East,asfr_15_19,LeeCarter,2025,68.723,63.131,74.606
+Upper East,asfr_15_19,LeeCarter,2030,66.262,57.277,75.74
+Upper West,asfr_15_19,LeeCarter,2025,56.807,55.876,57.722
+Upper West,asfr_15_19,LeeCarter,2030,56.422,54.844,57.91
+Volta,asfr_15_19,LeeCarter,2025,40.568,28.477,57.138
+Volta,asfr_15_19,LeeCarter,2030,34.587,18.839,60.396
+Western,asfr_15_19,LeeCarter,2025,75.314,56.6,101.17
+Western,asfr_15_19,LeeCarter,2030,75.693,47.548,125.637
+Western North,asfr_15_19,LeeCarter,2025,54.817,42.797,69.656
+Western North,asfr_15_19,LeeCarter,2030,52.015,34.007,76.82
+Ahafo,asfr_15_19,BayesHier,2025,76.335,53.127,110.852
+Ahafo,asfr_15_19,BayesHier,2030,71.964,48.848,103.223
+Ashanti,asfr_15_19,BayesHier,2025,52.994,37.295,75.75
+Ashanti,asfr_15_19,BayesHier,2030,46.954,32.094,70.388
+Bono,asfr_15_19,BayesHier,2025,65.455,44.965,92.666
+Bono,asfr_15_19,BayesHier,2030,57.843,39.753,86.474
+Bono East,asfr_15_19,BayesHier,2025,88.042,61.871,126.382
+Bono East,asfr_15_19,BayesHier,2030,85.803,58.533,124.837
+Central,asfr_15_19,BayesHier,2025,74.938,52.062,108.826
+Central,asfr_15_19,BayesHier,2030,68.128,45.621,101.579
+Eastern,asfr_15_19,BayesHier,2025,56.484,39.71,82.174
+Eastern,asfr_15_19,BayesHier,2030,50.92,34.148,74.855
+Greater Accra,asfr_15_19,BayesHier,2025,31.268,21.261,45.389
+Greater Accra,asfr_15_19,BayesHier,2030,27.877,18.906,40.621
+North East,asfr_15_19,BayesHier,2025,98.105,67.937,139.303
+North East,asfr_15_19,BayesHier,2030,97.687,64.203,140.602
+Northern,asfr_15_19,BayesHier,2025,82.944,58.388,117.63
+Northern,asfr_15_19,BayesHier,2030,78.127,53.676,116.709
+Oti,asfr_15_19,BayesHier,2025,74.691,52.99,109.954
+Oti,asfr_15_19,BayesHier,2030,72.776,49.521,106.122
+Savannah,asfr_15_19,BayesHier,2025,96.116,66.411,138.007
+Savannah,asfr_15_19,BayesHier,2030,94.51,64.258,138.879
+Upper East,asfr_15_19,BayesHier,2025,65.792,45.173,94.864
+Upper East,asfr_15_19,BayesHier,2030,63.965,42.948,94.096
+Upper West,asfr_15_19,BayesHier,2025,56.385,39.26,80.891
+Upper West,asfr_15_19,BayesHier,2030,52.351,35.906,76.309
+Volta,asfr_15_19,BayesHier,2025,63.809,44.656,92.085
+Volta,asfr_15_19,BayesHier,2030,59.305,40.4,86.96
+Western,asfr_15_19,BayesHier,2025,65.892,45.941,94.436
+Western,asfr_15_19,BayesHier,2030,61.246,41.759,91.327
+Western North,asfr_15_19,BayesHier,2025,60.64,41.573,86.75
+Western North,asfr_15_19,BayesHier,2030,53.91,36.792,79.565

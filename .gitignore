@@ -1,0 +1,23 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+pytest-cache-files-*/
+.ipynb_checkpoints/
+_archive/
+.claude/
+
+# Manuscripts are NEVER committed to repos (Tenet 20) — kept locally, excluded from git:
+manuscript/
+*.docx
+*.tex
+*.pdf
+
+# Session / process artefacts — never pushed (PRE-COMMIT gate G2):
+task_plan.md
+findings.md
+progress.md
+FLOW.md
+QUESTION.md
+AIPOCH_Learning_Log*.md
+docs/Phase*.md
+docs/PHASE*.md

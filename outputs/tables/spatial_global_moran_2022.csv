@@ -1,0 +1,6 @@
+variable,morans_I,expected_I,z_sim,p_analytic,n_exceed,n_perm,p_sim,p_sim_floored,p_sim_report,autocorrelation,significant_0.05
+poverty_rate,0.6359,-0.0038,19.34,2.5610758482043934e-83,0,9999,0.0001,True,<1.0e-04,positive,True
+illiteracy_rate,0.7603,-0.0038,23.03,2.4467819812262374e-117,0,9999,0.0001,True,<1.0e-04,positive,True
+uninsured_rate,0.445,-0.0038,13.39,7.170951814744688e-41,0,9999,0.0001,True,<1.0e-04,positive,True
+under15_share,0.7358,-0.0038,22.26,8.377097522561714e-110,0,9999,0.0001,True,<1.0e-04,positive,True
+women_15_64_share,0.695,-0.0038,21.06,1.8719109028569838e-98,0,9999,0.0001,True,<1.0e-04,positive,True

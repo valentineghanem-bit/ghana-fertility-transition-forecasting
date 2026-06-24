@@ -1,0 +1,22 @@
+pre2022_or_legacy_label,region_2022_16,boundary_change_year,note
+Western (pre 2022),Western (post 2022),2018.0,2018 split
+Western (pre 2022),Western North,2018.0,2018 split
+Volta (pre 2022),Volta (post 2022),2018.0,2018 split
+Volta (pre 2022),Oti,2018.0,2018 split
+Brong-Ahafo,Ahafo,2018.0,2018 split (3-way)
+Brong-Ahafo,Bono,2018.0,2018 split (3-way)
+Brong-Ahafo,Bono East,2018.0,2018 split (3-way)
+Northern (pre 2022),Northern (post 2022),2018.0,2018 split (3-way)
+Northern (pre 2022),Savannah,2018.0,2018 split (3-way)
+Northern (pre 2022),North East,2018.0,2018 split (3-way)
+Central,Central,,No split — direct carry-forward
+Greater Accra,Greater Accra,,No split — direct carry-forward
+Eastern,Eastern,,No split — direct carry-forward
+Ashanti,Ashanti,,No split — direct carry-forward
+Upper East,Upper East,,No split — direct carry-forward
+Upper West,Upper West,,No split — direct carry-forward
+Northern+UpperEast+UpperWest (1988 combined),Northern (post 2022),2022.0,CORRECTED: 1988 inherits combined-North; 1993-2019 inherits old 'Northern (pre 2022)'; own value only from 2022
+Northern+UpperEast+UpperWest (1988 combined),Savannah,2022.0,CORRECTED: 1988 inherits combined-North; 1993-2019 inherits old 'Northern (pre 2022)'; own value only from 2022
+Northern+UpperEast+UpperWest (1988 combined),North East,2022.0,CORRECTED: 1988 inherits combined-North; 1993-2019 inherits old 'Northern (pre 2022)'; own value only from 2022
+Northern+UpperEast+UpperWest (1988 combined),Upper East,1993.0,1988 inherits combined-North; own value from 1993 onward (pre-existing region, not a 2018 split)
+Northern+UpperEast+UpperWest (1988 combined),Upper West,1993.0,1988 inherits combined-North; own value from 1993 onward (pre-existing region, not a 2018 split)

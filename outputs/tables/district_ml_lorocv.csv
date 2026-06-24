@@ -1,0 +1,3 @@
+target,LOROCV_R2,LOROCV_RMSE,n_regions
+Adolescent ASFR 15-19,0.02,23.056,16
+TFR 15-49,0.699,0.555,16

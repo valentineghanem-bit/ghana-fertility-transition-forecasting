@@ -1,0 +1,262 @@
+district,region,is_structural_gap,poverty_rate__LISA,poverty_rate__p,illiteracy_rate__LISA,illiteracy_rate__p,uninsured_rate__LISA,uninsured_rate__p,under15_share__LISA,under15_share__p,women_15_64_share__LISA,women_15_64_share__p
+Asunafo North Municipal,Ahafo,False,NS,0.673,NS,0.844,NS,0.515,NS,0.793,NS,0.185
+Asunafo South,Ahafo,False,NS,0.686,NS,0.94,NS,0.077,NS,0.946,NS,0.629
+Asutifi North,Ahafo,False,NS,0.225,NS,0.369,LL,0.016,NS,0.459,NS,0.623
+Asutifi South,Ahafo,False,NS,0.693,NS,0.676,NS,0.244,NS,0.862,NS,0.418
+Tano North Municipal,Ahafo,False,NS,0.152,NS,0.208,LL,0.039,NS,0.483,NS,0.413
+Tano South Municipal,Ahafo,False,NS,0.745,NS,0.749,NS,0.672,NS,0.48,NS,0.716
+Adansi Asokwa,Ashanti,False,NS,0.265,NS,0.12,NS,0.954,NS,0.622,NS,0.519
+Adansi North,Ashanti,False,NS,0.355,NS,0.226,NS,0.712,NS,0.67,NS,0.849
+Adansi South,Ashanti,False,NS,0.776,NS,0.404,NS,0.289,NS,0.961,NS,0.735
+Afigya Kwabre North,Ashanti,False,NS,0.081,NS,0.057,NS,0.422,NS,0.967,NS,0.415
+Afigya Kwabre South,Ashanti,False,LL,0.003,LL,0.005,NS,0.129,NS,0.146,HH,0.017
+Ahafo Ano North Municipal,Ashanti,False,NS,0.584,NS,0.613,NS,0.256,NS,0.772,NS,0.548
+Ahafo Ano South East,Ashanti,False,NS,0.284,NS,0.331,NS,0.516,NS,0.582,NS,0.942
+Ahafo Ano South West,Ashanti,False,NS,0.194,NS,0.215,NS,0.402,NS,0.631,NS,0.751
+Akrofuom,Ashanti,False,NS,0.522,NS,0.286,NS,0.789,NS,0.65,NS,0.783
+Amansie Central,Ashanti,False,NS,0.451,NS,0.269,NS,0.703,NS,0.362,NS,0.991
+Amansie South,Ashanti,False,NS,0.563,NS,0.338,NS,0.813,NS,0.743,NS,0.46
+Amansie West,Ashanti,False,NS,0.197,NS,0.147,NS,0.951,NS,0.355,NS,0.632
+Asante Akim Central Municipal,Ashanti,False,NS,0.13,NS,0.125,NS,0.584,NS,0.421,NS,0.478
+Asante Akim North Municipal,Ashanti,False,NS,0.62,NS,0.229,NS,0.844,NS,0.786,NS,0.874
+Asante Akim South Municipal,Ashanti,False,NS,0.218,NS,0.239,NS,0.386,NS,0.933,NS,0.984
+Asokore Mampong Municipal,Ashanti,False,LL,0.001,LL,0.001,NS,0.099,LL,0.014,HH,0.002
+Asokwa Municipal,Ashanti,False,LL,0.003,LL,0.006,NS,0.132,LL,0.003,HH,0.001
+Atwima Kwanwoma,Ashanti,False,LL,0.004,LL,0.008,NS,0.075,HL,0.018,HH,0.002
+Atwima Mponua,Ashanti,False,NS,0.849,NS,0.607,NS,0.391,NS,0.937,NS,0.35
+Atwima Nwabiagya North,Ashanti,False,NS,0.112,NS,0.128,NS,0.547,NS,0.831,NS,0.503
+Atwima Nwabiagya South Municipal,Ashanti,False,NS,0.843,NS,0.799,NS,0.575,NS,0.529,NS,0.539
+Bekwai Municipal,Ashanti,False,NS,0.097,NS,0.06,NS,0.946,NS,0.102,NS,0.154
+Bosome Freho,Ashanti,False,NS,0.243,NS,0.161,NS,0.746,NS,0.712,NS,0.531
+Bosomtwi,Ashanti,False,NS,0.054,LL,0.044,NS,0.168,HL,0.034,HH,0.019
+Ejisu Municipal,Ashanti,False,LL,0.002,LL,0.004,NS,0.096,LL,0.01,HH,0.001
+Ejura Sekyedumase Municipal,Ashanti,False,NS,0.936,NS,0.991,NS,0.747,NS,0.668,NS,0.67
+Juaben Municipal,Ashanti,False,LL,0.045,LL,0.03,NS,0.243,NS,0.056,NS,0.063
+"Kumasi Metropolitan Area (KMA)-Bantama, Manhyia North, Manhyia South, Nhyiaeso, & Subin",Ashanti,False,LL,0.001,LL,0.007,NS,0.063,LL,0.01,HH,0.001
+Kwabre East,Ashanti,False,LL,0.003,LL,0.01,NS,0.16,NS,0.057,HH,0.007
+Kwadaso Municipal,Ashanti,False,LL,0.001,LL,0.008,NS,0.093,NS,0.06,HH,0.005
+Mampong Municipal,Ashanti,False,NS,0.109,LL,0.047,NS,0.558,NS,0.669,NS,0.665
+Obuasi East,Ashanti,False,NS,0.599,NS,0.312,NS,0.624,NS,0.498,NS,0.927
+Obuasi Municipal,Ashanti,False,NS,0.644,NS,0.341,NS,0.675,NS,0.629,NS,0.898
+Offinso Municipal,Ashanti,False,NS,0.457,NS,0.356,NS,0.63,NS,0.323,NS,0.632
+Offinso North,Ashanti,False,NS,0.122,NS,0.416,NS,0.098,NS,0.686,NS,0.7
+Oforikrom Municipal,Ashanti,False,LL,0.002,LL,0.007,NS,0.079,LL,0.038,HH,0.004
+Old Tafo Municipal,Ashanti,False,LL,0.001,LL,0.007,NS,0.079,LL,0.019,HH,0.001
+Sekyere Afram Plains,Ashanti,False,NS,0.179,NS,0.237,NS,0.202,NS,0.355,LL,0.043
+Sekyere Central,Ashanti,False,NS,0.419,NS,0.288,NS,0.955,NS,0.989,NS,0.617
+Sekyere East,Ashanti,False,LL,0.015,LL,0.025,NS,0.229,NS,0.15,NS,0.057
+Sekyere Kumawu,Ashanti,False,NS,0.089,NS,0.058,NS,0.431,NS,0.597,NS,0.206
+Sekyere South,Ashanti,False,NS,0.073,NS,0.068,NS,0.468,NS,0.672,NS,0.675
+Suame Municipal,Ashanti,False,LL,0.002,LL,0.003,NS,0.078,LL,0.003,HH,0.001
+Banda,Bono,False,NS,0.437,NS,0.288,LL,0.014,NS,0.608,NS,0.514
+Berekum East Municipal,Bono,False,LL,0.021,NS,0.238,LL,0.002,NS,0.193,NS,0.118
+Berekum West,Bono,False,LL,0.028,NS,0.167,LL,0.002,NS,0.152,NS,0.081
+Dormaa Central Municipal,Bono,False,NS,0.099,NS,0.445,LL,0.004,NS,0.521,NS,0.528
+Dormaa East,Bono,False,LL,0.046,NS,0.155,LL,0.004,NS,0.15,NS,0.107
+Dormaa West,Bono,False,NS,0.532,NS,0.543,LL,0.021,NS,0.993,NS,0.478
+Jaman North,Bono,False,NS,0.193,NS,0.957,LL,0.004,NS,0.757,NS,0.684
+Jaman South,Bono,False,LL,0.03,NS,0.248,LL,0.001,NS,0.238,NS,0.119
+Sunyani Municipal,Bono,False,NS,0.165,NS,0.306,LL,0.005,NS,0.357,NS,0.305
+Sunyani West Municipal,Bono,False,NS,0.057,NS,0.164,LL,0.003,NS,0.21,NS,0.158
+Tain,Bono,False,NS,0.423,NS,0.345,LL,0.023,NS,0.551,NS,0.476
+Wenchi Municipal,Bono,False,NS,0.209,NS,0.414,LL,0.016,NS,0.59,NS,0.489
+Atebubu Amantin Municipal,Bono East,False,NS,0.519,HH,0.03,NS,0.787,NS,0.088,LL,0.049
+Kintampo North Municipal,Bono East,False,NS,0.643,NS,0.205,NS,0.105,NS,0.382,NS,0.228
+Kintampo South,Bono East,False,NS,0.697,NS,0.224,NS,0.133,NS,0.41,NS,0.336
+Nkoranza North,Bono East,False,NS,0.185,NS,0.508,LL,0.035,NS,0.407,NS,0.648
+Nkoranza South Municipal,Bono East,False,NS,0.285,NS,0.783,NS,0.195,NS,0.438,NS,0.818
+Pru East,Bono East,False,NS,0.562,HH,0.018,NS,0.592,HH,0.046,LL,0.026
+Pru West,Bono East,False,NS,0.708,HH,0.027,NS,0.182,NS,0.081,LL,0.049
+Sene East,Bono East,False,HH,0.016,HH,0.005,HH,0.035,HH,0.028,LL,0.002
+Sene West,Bono East,False,LH,0.031,HH,0.003,NS,0.361,HH,0.015,LL,0.003
+Techiman Municipal,Bono East,False,NS,0.45,NS,0.654,LL,0.04,NS,0.534,NS,0.736
+Techiman North,Bono East,False,NS,0.23,NS,0.479,LL,0.006,NS,0.571,NS,0.476
+Abura Asebu Kwamankese,Central,False,NS,0.653,NS,0.382,NS,0.052,NS,0.78,NS,0.361
+Agona East,Central,False,NS,0.317,NS,0.236,HH,0.022,NS,0.57,NS,0.377
+Agona West Municipal,Central,False,NS,0.411,NS,0.187,NS,0.319,NS,0.315,NS,0.378
+Ajumako Enyan Essiam,Central,False,NS,0.937,NS,0.786,HH,0.028,NS,0.636,NS,0.665
+Asikuma Odoben Brakwa,Central,False,NS,0.834,NS,0.371,NS,0.273,NS,0.948,NS,0.695
+Assin Central Municipal,Central,False,NS,0.472,NS,0.697,HH,0.017,NS,0.523,NS,0.612
+Assin North,Central,False,NS,0.768,NS,0.57,NS,0.179,NS,0.73,NS,0.51
+Assin South,Central,False,NS,0.929,NS,0.426,HH,0.046,NS,0.816,NS,0.993
+Awutu Senya West,Central,True,NS,0.087,LL,0.047,HH,0.008,NS,0.282,NS,0.099
+Awutu Senya East Municipal,Central,False,NS,0.094,NS,0.067,HH,0.009,NS,0.257,NS,0.095
+Cape Cape Metropolitan Area (CCMA)-Cape Coast South & Cape Coast North,Central,False,NS,0.867,NS,0.602,LH,0.044,NS,0.83,NS,0.62
+Effutu Municipal,Central,False,NS,0.176,NS,0.156,LH,0.001,NS,0.978,NS,0.229
+Ekumfi,Central,False,NS,0.86,NS,0.471,NS,0.127,NS,0.499,NS,0.222
+Gomoa Central,Central,False,NS,0.241,NS,0.204,HH,0.004,NS,0.392,NS,0.122
+Gomoa East,Central,False,NS,0.241,NS,0.192,HH,0.006,NS,0.383,NS,0.11
+Gomoa West,Central,False,NS,0.414,NS,0.262,HH,0.02,NS,0.483,NS,0.183
+Komenda Edina Eguafo Abirem Municipal,Central,False,NS,0.505,NS,0.193,NS,0.256,NS,0.438,NS,0.373
+Mfantsiman Municipal,Central,False,NS,0.797,NS,0.492,HH,0.041,NS,0.882,NS,0.44
+Twifo Ati Morkwa,Central,False,NS,0.863,NS,0.446,HH,0.035,NS,0.688,NS,0.598
+Twifo Heman Lower Denkyira,Central,False,NS,0.771,NS,0.557,HH,0.018,NS,0.582,NS,0.585
+Upper Denkyira East Municipal,Central,False,NS,0.476,NS,0.852,NS,0.073,NS,0.978,NS,0.317
+Upper Denkyira West,Central,False,NS,0.922,NS,0.551,NS,0.578,NS,0.461,NS,0.527
+Abuakwa North Municipal,Eastern,False,LL,0.044,LL,0.02,NS,0.074,NS,0.075,NS,0.188
+Abuakwa South Municipal,Eastern,False,NS,0.097,NS,0.08,NS,0.547,NS,0.263,NS,0.652
+Achiase,Eastern,False,NS,0.324,NS,0.236,NS,0.233,NS,0.522,NS,0.377
+Akwapim North Municipal,Eastern,False,LL,0.012,LL,0.005,NS,0.915,LL,0.018,HH,0.011
+Akwapim South Municipal,Eastern,False,NS,0.074,NS,0.155,LH,0.01,NS,0.146,NS,0.263
+Akyemansa,Eastern,False,NS,0.436,NS,0.195,NS,0.357,NS,0.545,NS,0.475
+Asene Manso Akroso,Eastern,False,NS,0.338,NS,0.177,NS,0.615,NS,0.32,NS,0.147
+Asuogyaman,Eastern,False,NS,0.803,NS,0.367,NS,0.827,NS,0.432,NS,0.381
+Atiwa East,Eastern,False,NS,0.16,NS,0.114,NS,0.215,NS,0.299,NS,0.993
+Atiwa West,Eastern,False,NS,0.091,NS,0.079,NS,0.058,NS,0.222,NS,0.409
+Ayensuano,Eastern,False,NS,0.108,NS,0.109,NS,0.661,NS,0.18,NS,0.234
+Birim Central Municipal,Eastern,False,NS,0.488,NS,0.331,NS,0.295,NS,0.611,NS,0.721
+Birim North,Eastern,False,NS,0.3,NS,0.29,NS,0.518,NS,0.926,NS,0.768
+Birim South,Eastern,False,NS,0.4,NS,0.309,NS,0.268,NS,0.588,NS,0.436
+Denkyembuor,Eastern,False,NS,0.204,NS,0.13,NS,0.264,NS,0.438,NS,0.54
+Fanteakwa North,Eastern,False,NS,0.206,NS,0.129,NS,0.316,NS,0.339,NS,0.799
+Fanteakwa South,Eastern,False,NS,0.204,NS,0.151,NS,0.301,NS,0.176,NS,0.444
+Kwaebibirem Municipal,Eastern,False,NS,0.057,NS,0.1,LL,0.036,NS,0.495,NS,0.63
+Kwahu Afram Plains North,Eastern,False,NS,0.74,NS,0.59,NS,0.607,NS,0.295,NS,0.762
+Kwahu Afram Plains South,Eastern,False,NS,0.287,NS,0.697,NS,0.24,NS,0.707,NS,0.12
+Kwahu East,Eastern,False,NS,0.464,NS,0.482,NS,0.498,NS,0.879,NS,0.455
+Kwahu South Municipal,Eastern,False,NS,0.071,NS,0.18,LH,0.009,NS,0.142,NS,0.27
+Kwahu West Municipal,Eastern,False,NS,0.327,NS,0.284,NS,0.234,NS,0.69,NS,0.397
+Lower Manya Krobo Municipal,Eastern,False,NS,0.396,NS,0.274,NS,0.939,NS,0.539,NS,0.506
+New Juaben North Municipal,Eastern,False,NS,0.069,LL,0.037,NS,0.198,NS,0.137,NS,0.152
+New Juaben South Municipal,Eastern,False,LL,0.039,LL,0.026,NS,0.234,NS,0.051,HH,0.043
+Nsawam Adoagyiri Municipal,Eastern,False,NS,0.057,LL,0.014,LH,0.026,NS,0.229,NS,0.171
+Okere,Eastern,False,NS,0.066,LL,0.042,NS,0.21,NS,0.086,HH,0.02
+Suhum Municipal,Eastern,False,NS,0.058,LL,0.044,NS,0.215,LL,0.049,NS,0.171
+Upper Manya Krobo,Eastern,False,NS,0.266,NS,0.125,NS,0.324,NS,0.212,NS,0.214
+Upper West Akim,Eastern,False,NS,0.299,NS,0.26,NS,0.08,NS,0.636,NS,0.503
+West Akim Municipal,Eastern,False,NS,0.551,NS,0.358,NS,0.258,NS,0.618,NS,0.629
+Yilo Krobo Municipal,Eastern,False,LL,0.046,LL,0.027,NS,0.137,NS,0.062,HH,0.034
+Ablekuma Central Municipal,Greater Accra,False,LL,0.002,LL,0.007,NS,0.146,LL,0.001,HH,0.001
+Ablekuma North Municipal,Greater Accra,False,LL,0.003,LL,0.002,NS,0.225,LL,0.001,HH,0.001
+Ablekuma West Municipal,Greater Accra,False,LL,0.003,LL,0.002,NS,0.187,LL,0.001,HH,0.001
+"Accra Metropolitan Area (AMA)-Ablekuma South, Ashiedu Keteke & Okaikoi South",Greater Accra,False,LL,0.005,LL,0.005,NS,0.222,LL,0.001,HH,0.001
+Ada East,Greater Accra,False,NS,0.257,NS,0.857,NS,0.108,NS,0.802,NS,0.982
+Ada West,Greater Accra,False,NS,0.727,NS,0.775,NS,0.265,NS,0.98,NS,0.779
+Adentan Municipal,Greater Accra,False,LL,0.004,LL,0.001,NS,0.28,LL,0.001,HH,0.001
+Ashaiman Municipal,Greater Accra,False,LL,0.001,LL,0.001,NS,0.104,LL,0.002,HH,0.002
+Ayawaso Central Municipal,Greater Accra,False,LL,0.006,LL,0.006,NS,0.347,LL,0.001,HH,0.001
+Ayawaso East Municipal,Greater Accra,False,LL,0.002,LL,0.002,NS,0.251,LL,0.001,HH,0.001
+Ayawaso North Municipal,Greater Accra,False,LL,0.005,LL,0.002,NS,0.222,LL,0.001,HH,0.001
+Ayawaso West Municipal,Greater Accra,False,LL,0.005,LL,0.002,NS,0.218,LL,0.001,HH,0.001
+Ga Central Municipal,Greater Accra,False,NS,0.975,NS,0.415,HH,0.045,NS,0.458,NS,0.861
+Ga East Municipal,Greater Accra,False,LL,0.004,LL,0.001,NS,0.112,LL,0.005,HH,0.003
+Ga North Municipal,Greater Accra,False,LL,0.005,LL,0.002,NS,0.121,LL,0.006,HH,0.002
+Ga South Municipal,Greater Accra,False,LL,0.002,LL,0.002,NS,0.153,LL,0.004,HH,0.001
+Ga West Municipal,Greater Accra,False,LL,0.001,LL,0.001,NS,0.13,LL,0.001,HH,0.001
+Korle Klottey Municipal,Greater Accra,False,LL,0.006,LL,0.006,NS,0.184,LL,0.001,HH,0.001
+Kpone Katamanso Municipal,Greater Accra,False,LL,0.005,LL,0.003,NS,0.417,LL,0.002,HH,0.001
+Krowor Municipal,Greater Accra,False,LL,0.002,LL,0.001,NS,0.2,LL,0.001,HH,0.001
+La Dade-Kotopon Municipal,Greater Accra,False,LL,0.005,LL,0.002,NS,0.249,LL,0.001,HH,0.001
+La Nkwantanang Madina Municipal,Greater Accra,False,LL,0.002,LL,0.001,NS,0.341,LL,0.001,HH,0.001
+Ledzokuku Municipal,Greater Accra,False,LL,0.004,LL,0.002,NS,0.205,LL,0.001,HH,0.001
+Ningo-Prampram,Greater Accra,False,NS,0.055,LL,0.014,NS,0.083,NS,0.087,HH,0.048
+Okaikoi North Municipal,Greater Accra,False,LL,0.004,LL,0.002,NS,0.249,LL,0.001,HH,0.001
+Shai-Osudoku,Greater Accra,False,NS,0.712,NS,0.209,NS,0.113,NS,0.646,NS,0.411
+Tema Metropolitan Area (TMA)-Tema Central & Tema East,Greater Accra,False,LL,0.003,LL,0.003,NS,0.182,LL,0.002,HH,0.001
+Tema West Municipal,Greater Accra,False,LL,0.003,LL,0.002,NS,0.147,LL,0.001,HH,0.001
+Weija Gbawe Municipal,Greater Accra,False,LL,0.003,LL,0.001,NS,0.191,LL,0.001,HH,0.001
+Bunkpurugu Nakpanduri,North East,False,HH,0.001,HH,0.001,LL,0.027,HH,0.003,LL,0.003
+Chereponi,North East,False,HH,0.001,HH,0.001,NS,0.739,HH,0.001,LL,0.001
+East Mamprusi Municipal,North East,False,HH,0.001,HH,0.003,LL,0.026,HH,0.018,LL,0.013
+Mamprugu Moagduri,North East,False,HH,0.007,HH,0.019,HL,0.004,NS,0.461,NS,0.187
+West Mamprusi Municipal,North East,False,HH,0.009,HH,0.005,NS,0.409,HH,0.014,NS,0.081
+Yunyoo Nasuan,North East,False,HH,0.001,HH,0.001,NS,0.303,HH,0.001,LL,0.003
+Gushegu Municipal,Northern,False,HH,0.001,HH,0.001,NS,0.613,HH,0.001,LL,0.001
+Karaga,Northern,False,HH,0.001,HH,0.001,NS,0.744,HH,0.001,LL,0.001
+Kpandai,Northern,False,HH,0.01,HH,0.01,HH,0.002,HH,0.002,LL,0.025
+Kumbungu,Northern,False,NS,0.11,HH,0.013,NS,0.872,HH,0.008,LL,0.045
+Mion,Northern,False,HH,0.002,HH,0.001,HH,0.005,HH,0.001,LL,0.001
+Nanton,Northern,False,NS,0.054,HH,0.002,NS,0.601,HH,0.001,LL,0.011
+Nanumba North Municipal,Northern,False,HH,0.001,HH,0.001,HH,0.004,HH,0.001,LL,0.001
+Nanumba South,Northern,False,HH,0.001,HH,0.001,HH,0.001,HH,0.001,LL,0.001
+Saboba,Northern,False,HH,0.002,HH,0.001,NS,0.103,HH,0.001,LL,0.001
+Sagnarigu Municipal,Northern,True,LH,0.004,LH,0.001,NS,0.186,HH,0.001,LL,0.004
+Savelugu Municipal,Northern,False,HH,0.035,HH,0.002,NS,0.383,HH,0.001,LL,0.01
+Tamale Metropolitan Area (TMA)-Tamale Central & Tamale South,Northern,False,LH,0.011,HH,0.001,NS,0.273,HH,0.001,HL,0.002
+Tatale Sanguli,Northern,False,HH,0.001,HH,0.001,NS,0.394,HH,0.001,LL,0.001
+Tolon,Northern,False,NS,0.239,HH,0.023,NS,0.535,HH,0.004,LL,0.037
+Yendi Municipal,Northern,False,HH,0.001,HH,0.001,NS,0.096,HH,0.001,LL,0.001
+Zabzugu,Northern,False,HH,0.003,HH,0.001,NS,0.252,HH,0.001,LL,0.001
+Biakoye,Oti,False,NS,0.917,NS,0.488,NS,0.824,NS,0.566,NS,0.291
+Guan,Oti,True,NS,0.927,NS,0.22,NS,0.568,NS,0.254,NS,0.798
+Jasikan Municipal,Oti,False,NS,0.645,NS,0.627,NS,0.922,NS,0.981,NS,0.17
+Kadjebi,Oti,False,NS,0.215,NS,0.65,NS,0.14,NS,0.708,NS,0.12
+Krachi East Municipal,Oti,False,NS,0.079,NS,0.17,NS,0.154,NS,0.19,LL,0.014
+Krachi Nchumuru,Oti,False,HH,0.006,HH,0.012,HH,0.007,HH,0.015,LL,0.012
+Krachi West Municipal,Oti,False,NS,0.076,HH,0.048,NS,0.109,NS,0.051,LL,0.008
+Nkwanta North (Kpassa),Oti,False,NS,0.114,NS,0.219,NS,0.081,NS,0.122,NS,0.36
+Nkwanta South Municipal,Oti,False,NS,0.185,NS,0.454,NS,0.065,NS,0.367,NS,0.538
+Bole,Savannah,False,NS,0.498,HH,0.029,NS,0.231,NS,0.245,NS,0.177
+Central Gonja,Savannah,False,HH,0.014,HH,0.002,NS,0.271,HH,0.003,LL,0.007
+East Gonja Municipal,Savannah,False,HH,0.033,HH,0.001,NS,0.285,HH,0.009,LL,0.011
+North East Gonja,Savannah,False,HH,0.003,HH,0.001,NS,0.083,HH,0.001,LL,0.003
+North Gonja,Savannah,False,HH,0.003,HH,0.001,NS,0.103,HH,0.001,LL,0.001
+Sawla Tuna Kalba,Savannah,False,HH,0.016,HH,0.003,HL,0.021,NS,0.201,NS,0.163
+West Gonja,Savannah,False,HH,0.016,HH,0.007,NS,0.368,HH,0.001,LL,0.013
+Bawku Municipal,Upper East,False,LH,0.002,HH,0.001,LL,0.002,HH,0.026,LL,0.018
+Bawku West,Upper East,False,HH,0.001,HH,0.002,LL,0.006,NS,0.282,NS,0.165
+Binduri,Upper East,False,HH,0.02,HH,0.001,LL,0.002,HH,0.044,LL,0.034
+Bolgatanga East,Upper East,False,LH,0.001,HH,0.02,LL,0.005,NS,0.765,NS,0.334
+Bolgatanga Municipal,Upper East,False,LH,0.001,LH,0.018,LL,0.003,NS,0.73,NS,0.32
+Bongo,Upper East,False,HH,0.001,HH,0.021,LL,0.002,NS,0.634,NS,0.462
+Builsa North Municipal,Upper East,False,HH,0.035,HH,0.04,NS,0.067,NS,0.623,NS,0.537
+Builsa South,Upper East,False,NS,0.111,NS,0.092,LL,0.016,NS,0.778,NS,0.566
+Garu,Upper East,False,HH,0.011,HH,0.002,LL,0.002,HH,0.046,LL,0.049
+Kasena Nankana Municipal,Upper East,False,HH,0.017,NS,0.069,LL,0.001,NS,0.915,NS,0.694
+Kasena Nankana West,Upper East,False,HH,0.011,NS,0.075,LL,0.002,NS,0.923,NS,0.707
+Nabdam,Upper East,False,HH,0.004,HH,0.026,LL,0.001,NS,0.474,NS,0.461
+Pusiga,Upper East,False,HH,0.006,HH,0.002,LL,0.003,NS,0.059,LL,0.037
+Talensi,Upper East,False,HH,0.002,HH,0.02,LL,0.003,NS,0.282,NS,0.613
+Tempane,Upper East,False,HH,0.008,HH,0.002,LL,0.001,NS,0.052,LL,0.04
+Daffiama Bussie Issa,Upper West,False,NS,0.112,HH,0.006,LL,0.008,NS,0.227,NS,0.299
+Jirapa Municipal,Upper West,False,HH,0.046,HH,0.002,LL,0.001,NS,0.312,NS,0.11
+Lambussie Karni,Upper West,False,HH,0.034,HH,0.001,LL,0.001,NS,0.463,NS,0.236
+Lawra Municipal,Upper West,False,HH,0.034,HH,0.002,LL,0.001,NS,0.288,NS,0.145
+Nadowli Kaleo,Upper West,False,HH,0.008,HH,0.003,LL,0.038,NS,0.29,NS,0.365
+Nandom,Upper West,False,HH,0.013,HH,0.002,LL,0.002,NS,0.23,NS,0.202
+Sissala East Municipal,Upper West,False,HH,0.004,HH,0.008,LL,0.004,NS,0.64,NS,0.169
+Sissala West,Upper West,False,HH,0.03,HH,0.002,LL,0.004,NS,0.366,NS,0.243
+Wa East,Upper West,False,HH,0.006,HH,0.001,NS,0.133,NS,0.218,NS,0.568
+Wa Municipal,Upper West,False,LH,0.001,LH,0.001,NS,0.386,NS,0.086,NS,0.183
+Wa West,Upper West,False,HH,0.009,HH,0.001,NS,0.155,NS,0.201,NS,0.364
+Adaklu,Volta,False,NS,0.882,NS,0.528,NS,0.733,NS,0.149,NS,0.259
+Afadzato South,Volta,False,NS,0.488,NS,0.066,NS,0.185,LL,0.02,NS,0.507
+Agortime-Ziope,Volta,False,NS,0.761,NS,0.701,NS,0.852,NS,0.255,NS,0.302
+Akatsi North,Volta,False,NS,0.806,NS,0.837,NS,0.72,NS,0.526,NS,0.546
+Akatsi South Municipal,Volta,False,NS,0.066,NS,0.156,HH,0.007,NS,0.146,NS,0.258
+Anloga,Volta,False,NS,0.779,NS,0.878,NS,0.273,NS,0.663,NS,0.422
+Central Tongu,Volta,False,NS,0.339,NS,0.798,NS,0.267,NS,0.935,NS,0.859
+Ho Municipal,Volta,False,NS,0.914,NS,0.32,NS,0.208,NS,0.123,NS,0.861
+Ho West,Volta,False,NS,0.693,NS,0.208,NS,0.094,NS,0.081,NS,0.269
+Hohoe Municipal,Volta,False,NS,0.706,NS,0.241,NS,0.741,NS,0.193,NS,0.354
+Keta Municipal,Volta,False,NS,0.587,NS,0.781,LH,0.025,NS,0.77,NS,0.589
+Ketu North Municipal,Volta,False,NS,0.583,NS,0.736,NS,0.181,NS,0.417,NS,0.453
+Ketu South Municipal,Volta,False,NS,0.434,NS,0.723,NS,0.236,NS,0.36,NS,0.37
+Kpando Municipal,Volta,False,NS,0.42,NS,0.441,NS,0.997,NS,0.417,NS,0.221
+North Dayi,Volta,False,NS,0.976,NS,0.19,NS,0.266,NS,0.169,NS,0.631
+North Tongu,Volta,False,NS,0.871,NS,0.445,NS,0.538,NS,0.601,NS,0.395
+South Dayi,Volta,False,NS,0.824,NS,0.262,NS,0.341,NS,0.099,NS,0.324
+South Tongu,Volta,False,NS,0.288,NS,0.781,NS,0.051,NS,0.962,NS,0.832
+Ahanta West Municipal,Western,False,NS,0.317,NS,0.13,NS,0.52,NS,0.236,NS,0.261
+Effia Kwesimintsim Municipal,Western,False,NS,0.307,NS,0.142,NS,0.447,NS,0.32,NS,0.317
+Ellembelle,Western,False,NS,0.586,NS,0.248,NS,0.106,NS,0.347,NS,0.404
+Jomoro Municipal,Western,False,NS,0.856,NS,0.742,NS,0.143,NS,0.601,NS,0.897
+Mpohor,Western,False,NS,0.259,NS,0.131,NS,0.541,NS,0.268,NS,0.191
+Nzema East Municipal,Western,False,NS,0.432,NS,0.138,NS,0.14,NS,0.268,NS,0.289
+Prestea/Huni Valley Municipal,Western,False,NS,0.761,NS,0.662,HH,0.011,NS,0.568,NS,0.646
+"Sekondi Takoradi Metropolitan Area (STMA)- Takoradi, Sekondi & Essikado-Ketan",Western,False,NS,0.363,NS,0.182,NS,0.176,NS,0.459,NS,0.414
+Shama,Western,False,NS,0.348,NS,0.157,NS,0.205,NS,0.255,NS,0.369
+Tarkwa-Nsuaem Municipal,Western,False,NS,0.739,NS,0.249,LH,0.012,NS,0.342,NS,0.689
+Wassa Amenfi Central,Western,False,NS,0.597,NS,0.408,NS,0.078,NS,0.452,NS,0.781
+Wassa Amenfi East Municipal,Western,False,NS,0.59,NS,0.979,HH,0.042,NS,0.753,NS,0.084
+Wassa Amenfi West Municipal,Western,False,NS,0.415,NS,0.374,NS,0.199,NS,0.961,NS,0.129
+Wassa East,Western,False,NS,0.842,NS,0.404,NS,0.103,NS,0.827,NS,0.877
+Aowin Municipal,Western North,False,NS,0.897,NS,0.066,NS,0.392,NS,0.907,NS,0.411
+Bia East,Western North,False,NS,0.354,NS,0.767,NS,0.178,NS,0.922,NS,0.378
+Bia West,Western North,False,NS,0.797,LH,0.022,NS,0.458,NS,0.905,NS,0.15
+Bibiani Anhwiaso Bekwai Municipal,Western North,False,NS,0.873,NS,0.945,NS,0.121,NS,0.904,NS,0.198
+Bodi,Western North,False,NS,0.984,NS,0.354,NS,0.675,NS,0.941,NS,0.314
+Juaboso,Western North,False,NS,0.981,NS,0.194,NS,0.603,NS,0.887,NS,0.317
+Sefwi Akontombra,Western North,False,NS,0.875,HH,0.027,NS,0.32,NS,0.738,NS,0.362
+Sefwi Wiawso Municipal,Western North,False,NS,0.426,NS,0.204,NS,0.841,NS,0.778,NS,0.286
+Suaman,Western North,False,NS,0.796,NS,0.171,NS,0.52,NS,0.83,NS,0.348

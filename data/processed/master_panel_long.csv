@@ -1,0 +1,1297 @@
+region,year,indicator,value,unit,theme,source_csv,source_label,inherited,survey_type,dt_years
+Ashanti,1988,tfr_15_49,6.3,children/woman,fertility,fertility-rates,Ashanti,False,DHS,
+Ashanti,1993,tfr_15_49,5.4,children/woman,fertility,fertility-rates,Ashanti,False,DHS,5.0
+Ashanti,1998,tfr_15_49,4.9,children/woman,fertility,fertility-rates,Ashanti,False,DHS,5.0
+Ashanti,2003,tfr_15_49,4.1,children/woman,fertility,fertility-rates,Ashanti,False,DHS,5.0
+Ashanti,2008,tfr_15_49,3.6,children/woman,fertility,fertility-rates,Ashanti,False,DHS,5.0
+Ashanti,2014,tfr_15_49,4.2,children/woman,fertility,fertility-rates,Ashanti,False,DHS,6.0
+Ashanti,2016,tfr_15_49,3.9,children/woman,fertility,fertility-rates,Ashanti,False,MIS,2.0
+Ashanti,2019,tfr_15_49,3.5,children/woman,fertility,fertility-rates,Ashanti,False,MIS,3.0
+Ashanti,2022,tfr_15_49,3.5,children/woman,fertility,fertility-rates,Ashanti,False,DHS,3.0
+Central,1988,tfr_15_49,6.6,children/woman,fertility,fertility-rates,Central,False,DHS,
+Central,1993,tfr_15_49,5.4,children/woman,fertility,fertility-rates,Central,False,DHS,5.0
+Central,1998,tfr_15_49,4.7,children/woman,fertility,fertility-rates,Central,False,DHS,5.0
+Central,2003,tfr_15_49,5.0,children/woman,fertility,fertility-rates,Central,False,DHS,5.0
+Central,2008,tfr_15_49,5.4,children/woman,fertility,fertility-rates,Central,False,DHS,5.0
+Central,2014,tfr_15_49,4.7,children/woman,fertility,fertility-rates,Central,False,DHS,6.0
+Central,2016,tfr_15_49,4.0,children/woman,fertility,fertility-rates,Central,False,MIS,2.0
+Central,2019,tfr_15_49,3.9,children/woman,fertility,fertility-rates,Central,False,MIS,3.0
+Central,2022,tfr_15_49,3.6,children/woman,fertility,fertility-rates,Central,False,DHS,3.0
+Greater Accra,1988,tfr_15_49,4.7,children/woman,fertility,fertility-rates,Greater Accra,False,DHS,
+Greater Accra,1993,tfr_15_49,3.4,children/woman,fertility,fertility-rates,Greater Accra,False,DHS,5.0
+Greater Accra,1998,tfr_15_49,2.7,children/woman,fertility,fertility-rates,Greater Accra,False,DHS,5.0
+Greater Accra,2003,tfr_15_49,2.9,children/woman,fertility,fertility-rates,Greater Accra,False,DHS,5.0
+Greater Accra,2008,tfr_15_49,2.5,children/woman,fertility,fertility-rates,Greater Accra,False,DHS,5.0
+Greater Accra,2014,tfr_15_49,2.8,children/woman,fertility,fertility-rates,Greater Accra,False,DHS,6.0
+Greater Accra,2016,tfr_15_49,3.3,children/woman,fertility,fertility-rates,Greater Accra,False,MIS,2.0
+Greater Accra,2019,tfr_15_49,2.7,children/woman,fertility,fertility-rates,Greater Accra,False,MIS,3.0
+Greater Accra,2022,tfr_15_49,2.9,children/woman,fertility,fertility-rates,Greater Accra,False,DHS,3.0
+Eastern,1988,tfr_15_49,6.0,children/woman,fertility,fertility-rates,Eastern,False,DHS,
+Eastern,1993,tfr_15_49,5.0,children/woman,fertility,fertility-rates,Eastern,False,DHS,5.0
+Eastern,1998,tfr_15_49,4.5,children/woman,fertility,fertility-rates,Eastern,False,DHS,5.0
+Eastern,2003,tfr_15_49,4.3,children/woman,fertility,fertility-rates,Eastern,False,DHS,5.0
+Eastern,2008,tfr_15_49,3.6,children/woman,fertility,fertility-rates,Eastern,False,DHS,5.0
+Eastern,2014,tfr_15_49,4.2,children/woman,fertility,fertility-rates,Eastern,False,DHS,6.0
+Eastern,2016,tfr_15_49,3.6,children/woman,fertility,fertility-rates,Eastern,False,MIS,2.0
+Eastern,2019,tfr_15_49,3.3,children/woman,fertility,fertility-rates,Eastern,False,MIS,3.0
+Eastern,2022,tfr_15_49,3.5,children/woman,fertility,fertility-rates,Eastern,False,DHS,3.0
+Upper East,1988,tfr_15_49,6.9,children/woman,fertility,fertility-rates,"Northern, Upper West, Upper East",True,DHS,
+Upper East,1993,tfr_15_49,5.7,children/woman,fertility,fertility-rates,Upper East,False,DHS,5.0
+Upper East,1998,tfr_15_49,4.4,children/woman,fertility,fertility-rates,Upper East,False,DHS,5.0
+Upper East,2003,tfr_15_49,4.7,children/woman,fertility,fertility-rates,Upper East,False,DHS,5.0
+Upper East,2008,tfr_15_49,4.1,children/woman,fertility,fertility-rates,Upper East,False,DHS,5.0
+Upper East,2014,tfr_15_49,4.9,children/woman,fertility,fertility-rates,Upper East,False,DHS,6.0
+Upper East,2016,tfr_15_49,4.2,children/woman,fertility,fertility-rates,Upper East,False,MIS,2.0
+Upper East,2019,tfr_15_49,4.4,children/woman,fertility,fertility-rates,Upper East,False,MIS,3.0
+Upper East,2022,tfr_15_49,4.6,children/woman,fertility,fertility-rates,Upper East,False,DHS,3.0
+Upper West,1988,tfr_15_49,6.9,children/woman,fertility,fertility-rates,"Northern, Upper West, Upper East",True,DHS,
+Upper West,1993,tfr_15_49,5.2,children/woman,fertility,fertility-rates,Upper West,False,DHS,5.0
+Upper West,1998,tfr_15_49,5.9,children/woman,fertility,fertility-rates,Upper West,False,DHS,5.0
+Upper West,2003,tfr_15_49,5.5,children/woman,fertility,fertility-rates,Upper West,False,DHS,5.0
+Upper West,2008,tfr_15_49,5.0,children/woman,fertility,fertility-rates,Upper West,False,DHS,5.0
+Upper West,2014,tfr_15_49,5.2,children/woman,fertility,fertility-rates,Upper West,False,DHS,6.0
+Upper West,2016,tfr_15_49,4.3,children/woman,fertility,fertility-rates,Upper West,False,MIS,2.0
+Upper West,2019,tfr_15_49,4.3,children/woman,fertility,fertility-rates,Upper West,False,MIS,3.0
+Upper West,2022,tfr_15_49,4.5,children/woman,fertility,fertility-rates,Upper West,False,DHS,3.0
+Western,1988,tfr_15_49,6.4,children/woman,fertility,fertility-rates,Western (pre 2022),True,DHS,
+Western,1993,tfr_15_49,5.4,children/woman,fertility,fertility-rates,Western (pre 2022),True,DHS,5.0
+Western,1998,tfr_15_49,4.3,children/woman,fertility,fertility-rates,Western (pre 2022),True,DHS,5.0
+Western,2003,tfr_15_49,4.5,children/woman,fertility,fertility-rates,Western (pre 2022),True,DHS,5.0
+Western,2008,tfr_15_49,4.2,children/woman,fertility,fertility-rates,Western (pre 2022),True,DHS,5.0
+Western,2014,tfr_15_49,3.6,children/woman,fertility,fertility-rates,Western (pre 2022),True,DHS,6.0
+Western,2016,tfr_15_49,4.3,children/woman,fertility,fertility-rates,Western (pre 2022),True,MIS,2.0
+Western,2019,tfr_15_49,3.9,children/woman,fertility,fertility-rates,Western (pre 2022),True,MIS,3.0
+Western,2022,tfr_15_49,3.6,children/woman,fertility,fertility-rates,Western (post 2022),True,DHS,3.0
+Western North,1988,tfr_15_49,6.4,children/woman,fertility,fertility-rates,Western (pre 2022),True,DHS,
+Western North,1993,tfr_15_49,5.4,children/woman,fertility,fertility-rates,Western (pre 2022),True,DHS,5.0
+Western North,1998,tfr_15_49,4.3,children/woman,fertility,fertility-rates,Western (pre 2022),True,DHS,5.0
+Western North,2003,tfr_15_49,4.5,children/woman,fertility,fertility-rates,Western (pre 2022),True,DHS,5.0
+Western North,2008,tfr_15_49,4.2,children/woman,fertility,fertility-rates,Western (pre 2022),True,DHS,5.0
+Western North,2014,tfr_15_49,3.6,children/woman,fertility,fertility-rates,Western (pre 2022),True,DHS,6.0
+Western North,2016,tfr_15_49,4.3,children/woman,fertility,fertility-rates,Western (pre 2022),True,MIS,2.0
+Western North,2019,tfr_15_49,3.9,children/woman,fertility,fertility-rates,Western (pre 2022),True,MIS,3.0
+Western North,2022,tfr_15_49,3.8,children/woman,fertility,fertility-rates,Western North,False,DHS,3.0
+Volta,1988,tfr_15_49,7.2,children/woman,fertility,fertility-rates,Volta (pre 2022),True,DHS,
+Volta,1993,tfr_15_49,5.4,children/woman,fertility,fertility-rates,Volta (pre 2022),True,DHS,5.0
+Volta,1998,tfr_15_49,4.3,children/woman,fertility,fertility-rates,Volta (pre 2022),True,DHS,5.0
+Volta,2003,tfr_15_49,4.4,children/woman,fertility,fertility-rates,Volta (pre 2022),True,DHS,5.0
+Volta,2008,tfr_15_49,3.8,children/woman,fertility,fertility-rates,Volta (pre 2022),True,DHS,5.0
+Volta,2014,tfr_15_49,4.3,children/woman,fertility,fertility-rates,Volta (pre 2022),True,DHS,6.0
+Volta,2016,tfr_15_49,4.2,children/woman,fertility,fertility-rates,Volta (pre 2022),True,MIS,2.0
+Volta,2019,tfr_15_49,4.1,children/woman,fertility,fertility-rates,Volta (pre 2022),True,MIS,3.0
+Volta,2022,tfr_15_49,3.2,children/woman,fertility,fertility-rates,Volta (post 2022),True,DHS,3.0
+Oti,1988,tfr_15_49,7.2,children/woman,fertility,fertility-rates,Volta (pre 2022),True,DHS,
+Oti,1993,tfr_15_49,5.4,children/woman,fertility,fertility-rates,Volta (pre 2022),True,DHS,5.0
+Oti,1998,tfr_15_49,4.3,children/woman,fertility,fertility-rates,Volta (pre 2022),True,DHS,5.0
+Oti,2003,tfr_15_49,4.4,children/woman,fertility,fertility-rates,Volta (pre 2022),True,DHS,5.0
+Oti,2008,tfr_15_49,3.8,children/woman,fertility,fertility-rates,Volta (pre 2022),True,DHS,5.0
+Oti,2014,tfr_15_49,4.3,children/woman,fertility,fertility-rates,Volta (pre 2022),True,DHS,6.0
+Oti,2016,tfr_15_49,4.2,children/woman,fertility,fertility-rates,Volta (pre 2022),True,MIS,2.0
+Oti,2019,tfr_15_49,4.1,children/woman,fertility,fertility-rates,Volta (pre 2022),True,MIS,3.0
+Oti,2022,tfr_15_49,5.2,children/woman,fertility,fertility-rates,Oti,False,DHS,3.0
+Ahafo,1988,tfr_15_49,7.6,children/woman,fertility,fertility-rates,Brong-Ahafo,True,DHS,
+Ahafo,1993,tfr_15_49,4.7,children/woman,fertility,fertility-rates,Brong-Ahafo,True,DHS,5.0
+Ahafo,1998,tfr_15_49,5.2,children/woman,fertility,fertility-rates,Brong-Ahafo,True,DHS,5.0
+Ahafo,2003,tfr_15_49,4.8,children/woman,fertility,fertility-rates,Brong-Ahafo,True,DHS,5.0
+Ahafo,2008,tfr_15_49,4.1,children/woman,fertility,fertility-rates,Brong-Ahafo,True,DHS,5.0
+Ahafo,2014,tfr_15_49,4.8,children/woman,fertility,fertility-rates,Brong-Ahafo,True,DHS,6.0
+Ahafo,2016,tfr_15_49,4.3,children/woman,fertility,fertility-rates,Brong-Ahafo,True,MIS,2.0
+Ahafo,2019,tfr_15_49,4.5,children/woman,fertility,fertility-rates,Brong-Ahafo,True,MIS,3.0
+Ahafo,2022,tfr_15_49,4.3,children/woman,fertility,fertility-rates,Ahafo,False,DHS,3.0
+Bono,1988,tfr_15_49,7.6,children/woman,fertility,fertility-rates,Brong-Ahafo,True,DHS,
+Bono,1993,tfr_15_49,4.7,children/woman,fertility,fertility-rates,Brong-Ahafo,True,DHS,5.0
+Bono,1998,tfr_15_49,5.2,children/woman,fertility,fertility-rates,Brong-Ahafo,True,DHS,5.0
+Bono,2003,tfr_15_49,4.8,children/woman,fertility,fertility-rates,Brong-Ahafo,True,DHS,5.0
+Bono,2008,tfr_15_49,4.1,children/woman,fertility,fertility-rates,Brong-Ahafo,True,DHS,5.0
+Bono,2014,tfr_15_49,4.8,children/woman,fertility,fertility-rates,Brong-Ahafo,True,DHS,6.0
+Bono,2016,tfr_15_49,4.3,children/woman,fertility,fertility-rates,Brong-Ahafo,True,MIS,2.0
+Bono,2019,tfr_15_49,4.5,children/woman,fertility,fertility-rates,Brong-Ahafo,True,MIS,3.0
+Bono,2022,tfr_15_49,3.7,children/woman,fertility,fertility-rates,Bono,False,DHS,3.0
+Bono East,1988,tfr_15_49,7.6,children/woman,fertility,fertility-rates,Brong-Ahafo,True,DHS,
+Bono East,1993,tfr_15_49,4.7,children/woman,fertility,fertility-rates,Brong-Ahafo,True,DHS,5.0
+Bono East,1998,tfr_15_49,5.2,children/woman,fertility,fertility-rates,Brong-Ahafo,True,DHS,5.0
+Bono East,2003,tfr_15_49,4.8,children/woman,fertility,fertility-rates,Brong-Ahafo,True,DHS,5.0
+Bono East,2008,tfr_15_49,4.1,children/woman,fertility,fertility-rates,Brong-Ahafo,True,DHS,5.0
+Bono East,2014,tfr_15_49,4.8,children/woman,fertility,fertility-rates,Brong-Ahafo,True,DHS,6.0
+Bono East,2016,tfr_15_49,4.3,children/woman,fertility,fertility-rates,Brong-Ahafo,True,MIS,2.0
+Bono East,2019,tfr_15_49,4.5,children/woman,fertility,fertility-rates,Brong-Ahafo,True,MIS,3.0
+Bono East,2022,tfr_15_49,4.7,children/woman,fertility,fertility-rates,Bono East,False,DHS,3.0
+Northern,1988,tfr_15_49,6.9,children/woman,fertility,fertility-rates,"Northern, Upper West, Upper East",True,DHS,
+Northern,1993,tfr_15_49,6.4,children/woman,fertility,fertility-rates,Northern (pre 2022),True,DHS,5.0
+Northern,1998,tfr_15_49,6.6,children/woman,fertility,fertility-rates,Northern (pre 2022),True,DHS,5.0
+Northern,2003,tfr_15_49,7.0,children/woman,fertility,fertility-rates,Northern (pre 2022),True,DHS,5.0
+Northern,2008,tfr_15_49,6.8,children/woman,fertility,fertility-rates,Northern (pre 2022),True,DHS,5.0
+Northern,2014,tfr_15_49,6.6,children/woman,fertility,fertility-rates,Northern (pre 2022),True,DHS,6.0
+Northern,2016,tfr_15_49,6.9,children/woman,fertility,fertility-rates,Northern (pre 2022),True,MIS,2.0
+Northern,2019,tfr_15_49,5.9,children/woman,fertility,fertility-rates,Northern (pre 2022),True,MIS,3.0
+Northern,2022,tfr_15_49,5.6,children/woman,fertility,fertility-rates,Northern(post 2022),True,DHS,3.0
+Savannah,1988,tfr_15_49,6.9,children/woman,fertility,fertility-rates,"Northern, Upper West, Upper East",True,DHS,
+Savannah,1993,tfr_15_49,6.4,children/woman,fertility,fertility-rates,Northern (pre 2022),True,DHS,5.0
+Savannah,1998,tfr_15_49,6.6,children/woman,fertility,fertility-rates,Northern (pre 2022),True,DHS,5.0
+Savannah,2003,tfr_15_49,7.0,children/woman,fertility,fertility-rates,Northern (pre 2022),True,DHS,5.0
+Savannah,2008,tfr_15_49,6.8,children/woman,fertility,fertility-rates,Northern (pre 2022),True,DHS,5.0
+Savannah,2014,tfr_15_49,6.6,children/woman,fertility,fertility-rates,Northern (pre 2022),True,DHS,6.0
+Savannah,2016,tfr_15_49,6.9,children/woman,fertility,fertility-rates,Northern (pre 2022),True,MIS,2.0
+Savannah,2019,tfr_15_49,5.9,children/woman,fertility,fertility-rates,Northern (pre 2022),True,MIS,3.0
+Savannah,2022,tfr_15_49,5.8,children/woman,fertility,fertility-rates,Savannah,False,DHS,3.0
+North East,1988,tfr_15_49,6.9,children/woman,fertility,fertility-rates,"Northern, Upper West, Upper East",True,DHS,
+North East,1993,tfr_15_49,6.4,children/woman,fertility,fertility-rates,Northern (pre 2022),True,DHS,5.0
+North East,1998,tfr_15_49,6.6,children/woman,fertility,fertility-rates,Northern (pre 2022),True,DHS,5.0
+North East,2003,tfr_15_49,7.0,children/woman,fertility,fertility-rates,Northern (pre 2022),True,DHS,5.0
+North East,2008,tfr_15_49,6.8,children/woman,fertility,fertility-rates,Northern (pre 2022),True,DHS,5.0
+North East,2014,tfr_15_49,6.6,children/woman,fertility,fertility-rates,Northern (pre 2022),True,DHS,6.0
+North East,2016,tfr_15_49,6.9,children/woman,fertility,fertility-rates,Northern (pre 2022),True,MIS,2.0
+North East,2019,tfr_15_49,5.9,children/woman,fertility,fertility-rates,Northern (pre 2022),True,MIS,3.0
+North East,2022,tfr_15_49,6.6,children/woman,fertility,fertility-rates,Northeast,True,DHS,3.0
+Ashanti,1988,asfr_15_19,117.0,births/1000,adolescent,fertility-rates,Ashanti,False,DHS,
+Ashanti,1993,asfr_15_19,154.0,births/1000,adolescent,fertility-rates,Ashanti,False,DHS,5.0
+Ashanti,1998,asfr_15_19,121.0,births/1000,adolescent,fertility-rates,Ashanti,False,DHS,5.0
+Ashanti,2003,asfr_15_19,58.0,births/1000,adolescent,fertility-rates,Ashanti,False,DHS,5.0
+Ashanti,2008,asfr_15_19,43.0,births/1000,adolescent,fertility-rates,Ashanti,False,DHS,5.0
+Ashanti,2014,asfr_15_19,73.0,births/1000,adolescent,fertility-rates,Ashanti,False,DHS,6.0
+Ashanti,2016,asfr_15_19,61.0,births/1000,adolescent,fertility-rates,Ashanti,False,MIS,2.0
+Ashanti,2019,asfr_15_19,82.0,births/1000,adolescent,fertility-rates,Ashanti,False,MIS,3.0
+Ashanti,2022,asfr_15_19,62.0,births/1000,adolescent,fertility-rates,Ashanti,False,DHS,3.0
+Central,1988,asfr_15_19,171.0,births/1000,adolescent,fertility-rates,Central,False,DHS,
+Central,1993,asfr_15_19,124.0,births/1000,adolescent,fertility-rates,Central,False,DHS,5.0
+Central,1998,asfr_15_19,99.0,births/1000,adolescent,fertility-rates,Central,False,DHS,5.0
+Central,2003,asfr_15_19,121.0,births/1000,adolescent,fertility-rates,Central,False,DHS,5.0
+Central,2008,asfr_15_19,104.0,births/1000,adolescent,fertility-rates,Central,False,DHS,5.0
+Central,2014,asfr_15_19,98.0,births/1000,adolescent,fertility-rates,Central,False,DHS,6.0
+Central,2016,asfr_15_19,113.0,births/1000,adolescent,fertility-rates,Central,False,MIS,2.0
+Central,2019,asfr_15_19,99.0,births/1000,adolescent,fertility-rates,Central,False,MIS,3.0
+Central,2022,asfr_15_19,60.0,births/1000,adolescent,fertility-rates,Central,False,DHS,3.0
+Greater Accra,1988,asfr_15_19,86.0,births/1000,adolescent,fertility-rates,Greater Accra,False,DHS,
+Greater Accra,1993,asfr_15_19,69.0,births/1000,adolescent,fertility-rates,Greater Accra,False,DHS,5.0
+Greater Accra,1998,asfr_15_19,48.0,births/1000,adolescent,fertility-rates,Greater Accra,False,DHS,5.0
+Greater Accra,2003,asfr_15_19,37.0,births/1000,adolescent,fertility-rates,Greater Accra,False,DHS,5.0
+Greater Accra,2008,asfr_15_19,29.0,births/1000,adolescent,fertility-rates,Greater Accra,False,DHS,5.0
+Greater Accra,2014,asfr_15_19,30.0,births/1000,adolescent,fertility-rates,Greater Accra,False,DHS,6.0
+Greater Accra,2016,asfr_15_19,47.0,births/1000,adolescent,fertility-rates,Greater Accra,False,MIS,2.0
+Greater Accra,2019,asfr_15_19,33.0,births/1000,adolescent,fertility-rates,Greater Accra,False,MIS,3.0
+Greater Accra,2022,asfr_15_19,39.0,births/1000,adolescent,fertility-rates,Greater Accra,False,DHS,3.0
+Eastern,1988,asfr_15_19,129.0,births/1000,adolescent,fertility-rates,Eastern,False,DHS,
+Eastern,1993,asfr_15_19,134.0,births/1000,adolescent,fertility-rates,Eastern,False,DHS,5.0
+Eastern,1998,asfr_15_19,106.0,births/1000,adolescent,fertility-rates,Eastern,False,DHS,5.0
+Eastern,2003,asfr_15_19,74.0,births/1000,adolescent,fertility-rates,Eastern,False,DHS,5.0
+Eastern,2008,asfr_15_19,83.0,births/1000,adolescent,fertility-rates,Eastern,False,DHS,5.0
+Eastern,2014,asfr_15_19,98.0,births/1000,adolescent,fertility-rates,Eastern,False,DHS,6.0
+Eastern,2016,asfr_15_19,58.0,births/1000,adolescent,fertility-rates,Eastern,False,MIS,2.0
+Eastern,2019,asfr_15_19,59.0,births/1000,adolescent,fertility-rates,Eastern,False,MIS,3.0
+Eastern,2022,asfr_15_19,65.0,births/1000,adolescent,fertility-rates,Eastern,False,DHS,3.0
+Upper East,1988,asfr_15_19,93.0,births/1000,adolescent,fertility-rates,"Northern, Upper West, Upper East",True,DHS,
+Upper East,1993,asfr_15_19,115.0,births/1000,adolescent,fertility-rates,"Northern, Upper West, Upper East",True,DHS,5.0
+Upper East,1998,asfr_15_19,42.0,births/1000,adolescent,fertility-rates,Upper East,False,DHS,5.0
+Upper East,2003,asfr_15_19,83.0,births/1000,adolescent,fertility-rates,Upper East,False,DHS,5.0
+Upper East,2008,asfr_15_19,64.0,births/1000,adolescent,fertility-rates,Upper East,False,DHS,5.0
+Upper East,2014,asfr_15_19,71.0,births/1000,adolescent,fertility-rates,Upper East,False,DHS,6.0
+Upper East,2016,asfr_15_19,57.0,births/1000,adolescent,fertility-rates,Upper East,False,MIS,2.0
+Upper East,2019,asfr_15_19,86.0,births/1000,adolescent,fertility-rates,Upper East,False,MIS,3.0
+Upper East,2022,asfr_15_19,70.0,births/1000,adolescent,fertility-rates,Upper East,False,DHS,3.0
+Upper West,1988,asfr_15_19,93.0,births/1000,adolescent,fertility-rates,"Northern, Upper West, Upper East",True,DHS,
+Upper West,1993,asfr_15_19,115.0,births/1000,adolescent,fertility-rates,"Northern, Upper West, Upper East",True,DHS,5.0
+Upper West,1998,asfr_15_19,74.0,births/1000,adolescent,fertility-rates,Upper West,False,DHS,5.0
+Upper West,2003,asfr_15_19,68.0,births/1000,adolescent,fertility-rates,Upper West,False,DHS,5.0
+Upper West,2008,asfr_15_19,70.0,births/1000,adolescent,fertility-rates,Upper West,False,DHS,5.0
+Upper West,2014,asfr_15_19,70.0,births/1000,adolescent,fertility-rates,Upper West,False,DHS,6.0
+Upper West,2016,asfr_15_19,42.0,births/1000,adolescent,fertility-rates,Upper West,False,MIS,2.0
+Upper West,2019,asfr_15_19,90.0,births/1000,adolescent,fertility-rates,Upper West,False,MIS,3.0
+Upper West,2022,asfr_15_19,57.0,births/1000,adolescent,fertility-rates,Upper West,False,DHS,3.0
+Western,1988,asfr_15_19,134.0,births/1000,adolescent,fertility-rates,Western (pre 2022),True,DHS,
+Western,1993,asfr_15_19,150.0,births/1000,adolescent,fertility-rates,Western (pre 2022),True,DHS,5.0
+Western,1998,asfr_15_19,87.0,births/1000,adolescent,fertility-rates,Western (pre 2022),True,DHS,5.0
+Western,2003,asfr_15_19,76.0,births/1000,adolescent,fertility-rates,Western (pre 2022),True,DHS,5.0
+Western,2008,asfr_15_19,58.0,births/1000,adolescent,fertility-rates,Western (pre 2022),True,DHS,5.0
+Western,2014,asfr_15_19,63.0,births/1000,adolescent,fertility-rates,Western (pre 2022),True,DHS,6.0
+Western,2016,asfr_15_19,94.0,births/1000,adolescent,fertility-rates,Western (pre 2022),True,MIS,2.0
+Western,2019,asfr_15_19,94.0,births/1000,adolescent,fertility-rates,Western (pre 2022),True,MIS,3.0
+Western,2022,asfr_15_19,76.0,births/1000,adolescent,fertility-rates,Western (post 2022),True,DHS,3.0
+Western North,1988,asfr_15_19,134.0,births/1000,adolescent,fertility-rates,Western (pre 2022),True,DHS,
+Western North,1993,asfr_15_19,150.0,births/1000,adolescent,fertility-rates,Western (pre 2022),True,DHS,5.0
+Western North,1998,asfr_15_19,87.0,births/1000,adolescent,fertility-rates,Western (pre 2022),True,DHS,5.0
+Western North,2003,asfr_15_19,76.0,births/1000,adolescent,fertility-rates,Western (pre 2022),True,DHS,5.0
+Western North,2008,asfr_15_19,58.0,births/1000,adolescent,fertility-rates,Western (pre 2022),True,DHS,5.0
+Western North,2014,asfr_15_19,63.0,births/1000,adolescent,fertility-rates,Western (pre 2022),True,DHS,6.0
+Western North,2016,asfr_15_19,94.0,births/1000,adolescent,fertility-rates,Western (pre 2022),True,MIS,2.0
+Western North,2019,asfr_15_19,94.0,births/1000,adolescent,fertility-rates,Western (pre 2022),True,MIS,3.0
+Western North,2022,asfr_15_19,56.0,births/1000,adolescent,fertility-rates,Western North,False,DHS,3.0
+Volta,1988,asfr_15_19,141.0,births/1000,adolescent,fertility-rates,Volta (pre 2022),True,DHS,
+Volta,1993,asfr_15_19,71.0,births/1000,adolescent,fertility-rates,Volta (pre 2022),True,DHS,5.0
+Volta,1998,asfr_15_19,80.0,births/1000,adolescent,fertility-rates,Volta (pre 2022),True,DHS,5.0
+Volta,2003,asfr_15_19,103.0,births/1000,adolescent,fertility-rates,Volta (pre 2022),True,DHS,5.0
+Volta,2008,asfr_15_19,79.0,births/1000,adolescent,fertility-rates,Volta (pre 2022),True,DHS,5.0
+Volta,2014,asfr_15_19,107.0,births/1000,adolescent,fertility-rates,Volta (pre 2022),True,DHS,6.0
+Volta,2016,asfr_15_19,68.0,births/1000,adolescent,fertility-rates,Volta (pre 2022),True,MIS,2.0
+Volta,2019,asfr_15_19,90.0,births/1000,adolescent,fertility-rates,Volta (pre 2022),True,MIS,3.0
+Volta,2022,asfr_15_19,44.0,births/1000,adolescent,fertility-rates,Volta (post 2022),True,DHS,3.0
+Oti,1988,asfr_15_19,141.0,births/1000,adolescent,fertility-rates,Volta (pre 2022),True,DHS,
+Oti,1993,asfr_15_19,71.0,births/1000,adolescent,fertility-rates,Volta (pre 2022),True,DHS,5.0
+Oti,1998,asfr_15_19,80.0,births/1000,adolescent,fertility-rates,Volta (pre 2022),True,DHS,5.0
+Oti,2003,asfr_15_19,103.0,births/1000,adolescent,fertility-rates,Volta (pre 2022),True,DHS,5.0
+Oti,2008,asfr_15_19,79.0,births/1000,adolescent,fertility-rates,Volta (pre 2022),True,DHS,5.0
+Oti,2014,asfr_15_19,107.0,births/1000,adolescent,fertility-rates,Volta (pre 2022),True,DHS,6.0
+Oti,2016,asfr_15_19,68.0,births/1000,adolescent,fertility-rates,Volta (pre 2022),True,MIS,2.0
+Oti,2019,asfr_15_19,90.0,births/1000,adolescent,fertility-rates,Volta (pre 2022),True,MIS,3.0
+Oti,2022,asfr_15_19,73.0,births/1000,adolescent,fertility-rates,Oti,False,DHS,3.0
+Ahafo,1988,asfr_15_19,149.0,births/1000,adolescent,fertility-rates,Brong-Ahafo,True,DHS,
+Ahafo,1993,asfr_15_19,107.0,births/1000,adolescent,fertility-rates,Brong-Ahafo,True,DHS,5.0
+Ahafo,1998,asfr_15_19,93.0,births/1000,adolescent,fertility-rates,Brong-Ahafo,True,DHS,5.0
+Ahafo,2003,asfr_15_19,102.0,births/1000,adolescent,fertility-rates,Brong-Ahafo,True,DHS,5.0
+Ahafo,2008,asfr_15_19,97.0,births/1000,adolescent,fertility-rates,Brong-Ahafo,True,DHS,5.0
+Ahafo,2014,asfr_15_19,105.0,births/1000,adolescent,fertility-rates,Brong-Ahafo,True,DHS,6.0
+Ahafo,2016,asfr_15_19,102.0,births/1000,adolescent,fertility-rates,Brong-Ahafo,True,MIS,2.0
+Ahafo,2019,asfr_15_19,99.0,births/1000,adolescent,fertility-rates,Brong-Ahafo,True,MIS,3.0
+Ahafo,2022,asfr_15_19,60.0,births/1000,adolescent,fertility-rates,Ahafo,False,DHS,3.0
+Bono,1988,asfr_15_19,149.0,births/1000,adolescent,fertility-rates,Brong-Ahafo,True,DHS,
+Bono,1993,asfr_15_19,107.0,births/1000,adolescent,fertility-rates,Brong-Ahafo,True,DHS,5.0
+Bono,1998,asfr_15_19,93.0,births/1000,adolescent,fertility-rates,Brong-Ahafo,True,DHS,5.0
+Bono,2003,asfr_15_19,102.0,births/1000,adolescent,fertility-rates,Brong-Ahafo,True,DHS,5.0
+Bono,2008,asfr_15_19,97.0,births/1000,adolescent,fertility-rates,Brong-Ahafo,True,DHS,5.0
+Bono,2014,asfr_15_19,105.0,births/1000,adolescent,fertility-rates,Brong-Ahafo,True,DHS,6.0
+Bono,2016,asfr_15_19,102.0,births/1000,adolescent,fertility-rates,Brong-Ahafo,True,MIS,2.0
+Bono,2019,asfr_15_19,99.0,births/1000,adolescent,fertility-rates,Brong-Ahafo,True,MIS,3.0
+Bono,2022,asfr_15_19,36.0,births/1000,adolescent,fertility-rates,Bono,False,DHS,3.0
+Bono East,1988,asfr_15_19,149.0,births/1000,adolescent,fertility-rates,Brong-Ahafo,True,DHS,
+Bono East,1993,asfr_15_19,107.0,births/1000,adolescent,fertility-rates,Brong-Ahafo,True,DHS,5.0
+Bono East,1998,asfr_15_19,93.0,births/1000,adolescent,fertility-rates,Brong-Ahafo,True,DHS,5.0
+Bono East,2003,asfr_15_19,102.0,births/1000,adolescent,fertility-rates,Brong-Ahafo,True,DHS,5.0
+Bono East,2008,asfr_15_19,97.0,births/1000,adolescent,fertility-rates,Brong-Ahafo,True,DHS,5.0
+Bono East,2014,asfr_15_19,105.0,births/1000,adolescent,fertility-rates,Brong-Ahafo,True,DHS,6.0
+Bono East,2016,asfr_15_19,102.0,births/1000,adolescent,fertility-rates,Brong-Ahafo,True,MIS,2.0
+Bono East,2019,asfr_15_19,99.0,births/1000,adolescent,fertility-rates,Brong-Ahafo,True,MIS,3.0
+Bono East,2022,asfr_15_19,92.0,births/1000,adolescent,fertility-rates,Bono East,False,DHS,3.0
+Northern,1988,asfr_15_19,93.0,births/1000,adolescent,fertility-rates,"Northern, Upper West, Upper East",True,DHS,
+Northern,1993,asfr_15_19,133.0,births/1000,adolescent,fertility-rates,Northern (pre 2022),True,DHS,5.0
+Northern,1998,asfr_15_19,131.0,births/1000,adolescent,fertility-rates,Northern (pre 2022),True,DHS,5.0
+Northern,2003,asfr_15_19,87.0,births/1000,adolescent,fertility-rates,Northern (pre 2022),True,DHS,5.0
+Northern,2008,asfr_15_19,96.0,births/1000,adolescent,fertility-rates,Northern (pre 2022),True,DHS,5.0
+Northern,2014,asfr_15_19,93.0,births/1000,adolescent,fertility-rates,Northern (pre 2022),True,DHS,6.0
+Northern,2016,asfr_15_19,101.0,births/1000,adolescent,fertility-rates,Northern (pre 2022),True,MIS,2.0
+Northern,2019,asfr_15_19,96.0,births/1000,adolescent,fertility-rates,Northern (pre 2022),True,MIS,3.0
+Northern,2022,asfr_15_19,73.0,births/1000,adolescent,fertility-rates,Northern(post 2022),True,DHS,3.0
+Savannah,1988,asfr_15_19,93.0,births/1000,adolescent,fertility-rates,"Northern, Upper West, Upper East",True,DHS,
+Savannah,1993,asfr_15_19,133.0,births/1000,adolescent,fertility-rates,Northern (pre 2022),True,DHS,5.0
+Savannah,1998,asfr_15_19,131.0,births/1000,adolescent,fertility-rates,Northern (pre 2022),True,DHS,5.0
+Savannah,2003,asfr_15_19,87.0,births/1000,adolescent,fertility-rates,Northern (pre 2022),True,DHS,5.0
+Savannah,2008,asfr_15_19,96.0,births/1000,adolescent,fertility-rates,Northern (pre 2022),True,DHS,5.0
+Savannah,2014,asfr_15_19,93.0,births/1000,adolescent,fertility-rates,Northern (pre 2022),True,DHS,6.0
+Savannah,2016,asfr_15_19,101.0,births/1000,adolescent,fertility-rates,Northern (pre 2022),True,MIS,2.0
+Savannah,2019,asfr_15_19,96.0,births/1000,adolescent,fertility-rates,Northern (pre 2022),True,MIS,3.0
+Savannah,2022,asfr_15_19,116.0,births/1000,adolescent,fertility-rates,Savannah,False,DHS,3.0
+North East,1988,asfr_15_19,93.0,births/1000,adolescent,fertility-rates,"Northern, Upper West, Upper East",True,DHS,
+North East,1993,asfr_15_19,133.0,births/1000,adolescent,fertility-rates,Northern (pre 2022),True,DHS,5.0
+North East,1998,asfr_15_19,131.0,births/1000,adolescent,fertility-rates,Northern (pre 2022),True,DHS,5.0
+North East,2003,asfr_15_19,87.0,births/1000,adolescent,fertility-rates,Northern (pre 2022),True,DHS,5.0
+North East,2008,asfr_15_19,96.0,births/1000,adolescent,fertility-rates,Northern (pre 2022),True,DHS,5.0
+North East,2014,asfr_15_19,93.0,births/1000,adolescent,fertility-rates,Northern (pre 2022),True,DHS,6.0
+North East,2016,asfr_15_19,101.0,births/1000,adolescent,fertility-rates,Northern (pre 2022),True,MIS,2.0
+North East,2019,asfr_15_19,96.0,births/1000,adolescent,fertility-rates,Northern (pre 2022),True,MIS,3.0
+North East,2022,asfr_15_19,121.0,births/1000,adolescent,fertility-rates,Northeast,True,DHS,3.0
+Ashanti,1988,mcpr_all_women,5.6,percent,contraception,fp2020,Ashanti,False,DHS,
+Ashanti,1993,mcpr_all_women,6.8,percent,contraception,fp2020,Ashanti,False,DHS,5.0
+Ashanti,1998,mcpr_all_women,10.9,percent,contraception,fp2020,Ashanti,False,DHS,5.0
+Ashanti,2003,mcpr_all_women,16.2,percent,contraception,fp2020,Ashanti,False,DHS,5.0
+Ashanti,2008,mcpr_all_women,11.9,percent,contraception,fp2020,Ashanti,False,DHS,5.0
+Ashanti,2014,mcpr_all_women,15.5,percent,contraception,fp2020,Ashanti,False,DHS,6.0
+Ashanti,2016,mcpr_all_women,,percent,contraception,fp2020,,False,MIS,2.0
+Ashanti,2019,mcpr_all_women,,percent,contraception,fp2020,,False,MIS,3.0
+Ashanti,2022,mcpr_all_women,26.9,percent,contraception,fp2020,Ashanti,False,DHS,3.0
+Central,1988,mcpr_all_women,4.3,percent,contraception,fp2020,Central,False,DHS,
+Central,1993,mcpr_all_women,7.1,percent,contraception,fp2020,Central,False,DHS,5.0
+Central,1998,mcpr_all_women,9.6,percent,contraception,fp2020,Central,False,DHS,5.0
+Central,2003,mcpr_all_women,12.7,percent,contraception,fp2020,Central,False,DHS,5.0
+Central,2008,mcpr_all_women,14.7,percent,contraception,fp2020,Central,False,DHS,5.0
+Central,2014,mcpr_all_women,23.8,percent,contraception,fp2020,Central,False,DHS,6.0
+Central,2016,mcpr_all_women,,percent,contraception,fp2020,,False,MIS,2.0
+Central,2019,mcpr_all_women,,percent,contraception,fp2020,,False,MIS,3.0
+Central,2022,mcpr_all_women,27.1,percent,contraception,fp2020,Central,False,DHS,3.0
+Greater Accra,1988,mcpr_all_women,7.9,percent,contraception,fp2020,Greater Accra,False,DHS,
+Greater Accra,1993,mcpr_all_women,13.3,percent,contraception,fp2020,Greater Accra,False,DHS,5.0
+Greater Accra,1998,mcpr_all_women,12.4,percent,contraception,fp2020,Greater Accra,False,DHS,5.0
+Greater Accra,2003,mcpr_all_women,18.1,percent,contraception,fp2020,Greater Accra,False,DHS,5.0
+Greater Accra,2008,mcpr_all_women,16.9,percent,contraception,fp2020,Greater Accra,False,DHS,5.0
+Greater Accra,2014,mcpr_all_women,15.7,percent,contraception,fp2020,Greater Accra,False,DHS,6.0
+Greater Accra,2016,mcpr_all_women,,percent,contraception,fp2020,,False,MIS,2.0
+Greater Accra,2019,mcpr_all_women,,percent,contraception,fp2020,,False,MIS,3.0
+Greater Accra,2022,mcpr_all_women,19.0,percent,contraception,fp2020,Greater Accra,False,DHS,3.0
+Eastern,1988,mcpr_all_women,4.7,percent,contraception,fp2020,Eastern,False,DHS,
+Eastern,1993,mcpr_all_women,11.8,percent,contraception,fp2020,Eastern,False,DHS,5.0
+Eastern,1998,mcpr_all_women,15.1,percent,contraception,fp2020,Eastern,False,DHS,5.0
+Eastern,2003,mcpr_all_women,16.7,percent,contraception,fp2020,Eastern,False,DHS,5.0
+Eastern,2008,mcpr_all_women,16.6,percent,contraception,fp2020,Eastern,False,DHS,5.0
+Eastern,2014,mcpr_all_women,18.3,percent,contraception,fp2020,Eastern,False,DHS,6.0
+Eastern,2016,mcpr_all_women,,percent,contraception,fp2020,,False,MIS,2.0
+Eastern,2019,mcpr_all_women,,percent,contraception,fp2020,,False,MIS,3.0
+Eastern,2022,mcpr_all_women,24.6,percent,contraception,fp2020,Eastern,False,DHS,3.0
+Upper East,1988,mcpr_all_women,1.0,percent,contraception,fp2020,"Northern, Upper West, Upper East",True,DHS,
+Upper East,1993,mcpr_all_women,8.3,percent,contraception,fp2020,Upper East,False,DHS,5.0
+Upper East,1998,mcpr_all_women,7.4,percent,contraception,fp2020,Upper East,False,DHS,5.0
+Upper East,2003,mcpr_all_women,8.0,percent,contraception,fp2020,Upper East,False,DHS,5.0
+Upper East,2008,mcpr_all_women,11.3,percent,contraception,fp2020,Upper East,False,DHS,5.0
+Upper East,2014,mcpr_all_women,18.3,percent,contraception,fp2020,Upper East,False,DHS,6.0
+Upper East,2016,mcpr_all_women,,percent,contraception,fp2020,,False,MIS,2.0
+Upper East,2019,mcpr_all_women,,percent,contraception,fp2020,,False,MIS,3.0
+Upper East,2022,mcpr_all_women,24.7,percent,contraception,fp2020,Upper East,False,DHS,3.0
+Upper West,1988,mcpr_all_women,1.0,percent,contraception,fp2020,"Northern, Upper West, Upper East",True,DHS,
+Upper West,1993,mcpr_all_women,5.0,percent,contraception,fp2020,Upper West,False,DHS,5.0
+Upper West,1998,mcpr_all_women,7.9,percent,contraception,fp2020,Upper West,False,DHS,5.0
+Upper West,2003,mcpr_all_women,15.8,percent,contraception,fp2020,Upper West,False,DHS,5.0
+Upper West,2008,mcpr_all_women,17.0,percent,contraception,fp2020,Upper West,False,DHS,5.0
+Upper West,2014,mcpr_all_women,19.4,percent,contraception,fp2020,Upper West,False,DHS,6.0
+Upper West,2016,mcpr_all_women,,percent,contraception,fp2020,,False,MIS,2.0
+Upper West,2019,mcpr_all_women,,percent,contraception,fp2020,,False,MIS,3.0
+Upper West,2022,mcpr_all_women,26.8,percent,contraception,fp2020,Upper West,False,DHS,3.0
+Western,1988,mcpr_all_women,3.8,percent,contraception,fp2020,Western (pre 2022),True,DHS,
+Western,1993,mcpr_all_women,10.6,percent,contraception,fp2020,Western (pre 2022),True,DHS,5.0
+Western,1998,mcpr_all_women,7.5,percent,contraception,fp2020,Western (pre 2022),True,DHS,5.0
+Western,2003,mcpr_all_women,14.4,percent,contraception,fp2020,Western (pre 2022),True,DHS,5.0
+Western,2008,mcpr_all_women,10.9,percent,contraception,fp2020,Western (pre 2022),True,DHS,5.0
+Western,2014,mcpr_all_women,20.4,percent,contraception,fp2020,Western (pre 2022),True,DHS,6.0
+Western,2016,mcpr_all_women,,percent,contraception,fp2020,,False,MIS,2.0
+Western,2019,mcpr_all_women,,percent,contraception,fp2020,,False,MIS,3.0
+Western,2022,mcpr_all_women,28.1,percent,contraception,fp2020,Western (post 2022),True,DHS,3.0
+Western North,1988,mcpr_all_women,3.8,percent,contraception,fp2020,Western (pre 2022),True,DHS,
+Western North,1993,mcpr_all_women,10.6,percent,contraception,fp2020,Western (pre 2022),True,DHS,5.0
+Western North,1998,mcpr_all_women,7.5,percent,contraception,fp2020,Western (pre 2022),True,DHS,5.0
+Western North,2003,mcpr_all_women,14.4,percent,contraception,fp2020,Western (pre 2022),True,DHS,5.0
+Western North,2008,mcpr_all_women,10.9,percent,contraception,fp2020,Western (pre 2022),True,DHS,5.0
+Western North,2014,mcpr_all_women,20.4,percent,contraception,fp2020,Western (pre 2022),True,DHS,6.0
+Western North,2016,mcpr_all_women,,percent,contraception,fp2020,,False,MIS,2.0
+Western North,2019,mcpr_all_women,,percent,contraception,fp2020,,False,MIS,3.0
+Western North,2022,mcpr_all_women,25.2,percent,contraception,fp2020,Western North,False,DHS,3.0
+Volta,1988,mcpr_all_women,4.0,percent,contraception,fp2020,Volta (pre 2022),True,DHS,
+Volta,1993,mcpr_all_women,8.4,percent,contraception,fp2020,Volta (pre 2022),True,DHS,5.0
+Volta,1998,mcpr_all_women,11.2,percent,contraception,fp2020,Volta (pre 2022),True,DHS,5.0
+Volta,2003,mcpr_all_women,16.3,percent,contraception,fp2020,Volta (pre 2022),True,DHS,5.0
+Volta,2008,mcpr_all_women,15.7,percent,contraception,fp2020,Volta (pre 2022),True,DHS,5.0
+Volta,2014,mcpr_all_women,24.0,percent,contraception,fp2020,Volta (pre 2022),True,DHS,6.0
+Volta,2016,mcpr_all_women,,percent,contraception,fp2020,,False,MIS,2.0
+Volta,2019,mcpr_all_women,,percent,contraception,fp2020,,False,MIS,3.0
+Volta,2022,mcpr_all_women,23.7,percent,contraception,fp2020,Volta (post 2022),True,DHS,3.0
+Oti,1988,mcpr_all_women,4.0,percent,contraception,fp2020,Volta (pre 2022),True,DHS,
+Oti,1993,mcpr_all_women,8.4,percent,contraception,fp2020,Volta (pre 2022),True,DHS,5.0
+Oti,1998,mcpr_all_women,11.2,percent,contraception,fp2020,Volta (pre 2022),True,DHS,5.0
+Oti,2003,mcpr_all_women,16.3,percent,contraception,fp2020,Volta (pre 2022),True,DHS,5.0
+Oti,2008,mcpr_all_women,15.7,percent,contraception,fp2020,Volta (pre 2022),True,DHS,5.0
+Oti,2014,mcpr_all_women,24.0,percent,contraception,fp2020,Volta (pre 2022),True,DHS,6.0
+Oti,2016,mcpr_all_women,,percent,contraception,fp2020,,False,MIS,2.0
+Oti,2019,mcpr_all_women,,percent,contraception,fp2020,,False,MIS,3.0
+Oti,2022,mcpr_all_women,23.6,percent,contraception,fp2020,Oti,False,DHS,3.0
+Ahafo,1988,mcpr_all_women,4.8,percent,contraception,fp2020,Brong-Ahafo,True,DHS,
+Ahafo,1993,mcpr_all_women,13.4,percent,contraception,fp2020,Brong-Ahafo,True,DHS,5.0
+Ahafo,1998,mcpr_all_women,11.3,percent,contraception,fp2020,Brong-Ahafo,True,DHS,5.0
+Ahafo,2003,mcpr_all_women,20.1,percent,contraception,fp2020,Brong-Ahafo,True,DHS,5.0
+Ahafo,2008,mcpr_all_women,15.7,percent,contraception,fp2020,Brong-Ahafo,True,DHS,5.0
+Ahafo,2014,mcpr_all_women,23.5,percent,contraception,fp2020,Brong-Ahafo,True,DHS,6.0
+Ahafo,2016,mcpr_all_women,,percent,contraception,fp2020,,False,MIS,2.0
+Ahafo,2019,mcpr_all_women,,percent,contraception,fp2020,,False,MIS,3.0
+Ahafo,2022,mcpr_all_women,29.8,percent,contraception,fp2020,Ahafo,False,DHS,3.0
+Bono,1988,mcpr_all_women,4.8,percent,contraception,fp2020,Brong-Ahafo,True,DHS,
+Bono,1993,mcpr_all_women,13.4,percent,contraception,fp2020,Brong-Ahafo,True,DHS,5.0
+Bono,1998,mcpr_all_women,11.3,percent,contraception,fp2020,Brong-Ahafo,True,DHS,5.0
+Bono,2003,mcpr_all_women,20.1,percent,contraception,fp2020,Brong-Ahafo,True,DHS,5.0
+Bono,2008,mcpr_all_women,15.7,percent,contraception,fp2020,Brong-Ahafo,True,DHS,5.0
+Bono,2014,mcpr_all_women,23.5,percent,contraception,fp2020,Brong-Ahafo,True,DHS,6.0
+Bono,2016,mcpr_all_women,,percent,contraception,fp2020,,False,MIS,2.0
+Bono,2019,mcpr_all_women,,percent,contraception,fp2020,,False,MIS,3.0
+Bono,2022,mcpr_all_women,22.2,percent,contraception,fp2020,Bono,False,DHS,3.0
+Bono East,1988,mcpr_all_women,4.8,percent,contraception,fp2020,Brong-Ahafo,True,DHS,
+Bono East,1993,mcpr_all_women,13.4,percent,contraception,fp2020,Brong-Ahafo,True,DHS,5.0
+Bono East,1998,mcpr_all_women,11.3,percent,contraception,fp2020,Brong-Ahafo,True,DHS,5.0
+Bono East,2003,mcpr_all_women,20.1,percent,contraception,fp2020,Brong-Ahafo,True,DHS,5.0
+Bono East,2008,mcpr_all_women,15.7,percent,contraception,fp2020,Brong-Ahafo,True,DHS,5.0
+Bono East,2014,mcpr_all_women,23.5,percent,contraception,fp2020,Brong-Ahafo,True,DHS,6.0
+Bono East,2016,mcpr_all_women,,percent,contraception,fp2020,,False,MIS,2.0
+Bono East,2019,mcpr_all_women,,percent,contraception,fp2020,,False,MIS,3.0
+Bono East,2022,mcpr_all_women,17.7,percent,contraception,fp2020,Bono East,False,DHS,3.0
+Northern,1988,mcpr_all_women,1.0,percent,contraception,fp2020,"Northern, Upper West, Upper East",True,DHS,
+Northern,1993,mcpr_all_women,4.7,percent,contraception,fp2020,Northern (pre 2022),True,DHS,5.0
+Northern,1998,mcpr_all_women,5.5,percent,contraception,fp2020,Northern (pre 2022),True,DHS,5.0
+Northern,2003,mcpr_all_women,7.0,percent,contraception,fp2020,Northern (pre 2022),True,DHS,5.0
+Northern,2008,mcpr_all_women,4.9,percent,contraception,fp2020,Northern (pre 2022),True,DHS,5.0
+Northern,2014,mcpr_all_women,9.3,percent,contraception,fp2020,Northern (pre 2022),True,DHS,6.0
+Northern,2016,mcpr_all_women,,percent,contraception,fp2020,,False,MIS,2.0
+Northern,2019,mcpr_all_women,,percent,contraception,fp2020,,False,MIS,3.0
+Northern,2022,mcpr_all_women,16.6,percent,contraception,fp2020,Northern(post 2022),True,DHS,3.0
+Savannah,1988,mcpr_all_women,1.0,percent,contraception,fp2020,"Northern, Upper West, Upper East",True,DHS,
+Savannah,1993,mcpr_all_women,4.7,percent,contraception,fp2020,Northern (pre 2022),True,DHS,5.0
+Savannah,1998,mcpr_all_women,5.5,percent,contraception,fp2020,Northern (pre 2022),True,DHS,5.0
+Savannah,2003,mcpr_all_women,7.0,percent,contraception,fp2020,Northern (pre 2022),True,DHS,5.0
+Savannah,2008,mcpr_all_women,4.9,percent,contraception,fp2020,Northern (pre 2022),True,DHS,5.0
+Savannah,2014,mcpr_all_women,9.3,percent,contraception,fp2020,Northern (pre 2022),True,DHS,6.0
+Savannah,2016,mcpr_all_women,,percent,contraception,fp2020,,False,MIS,2.0
+Savannah,2019,mcpr_all_women,,percent,contraception,fp2020,,False,MIS,3.0
+Savannah,2022,mcpr_all_women,16.6,percent,contraception,fp2020,Savannah,False,DHS,3.0
+North East,1988,mcpr_all_women,1.0,percent,contraception,fp2020,"Northern, Upper West, Upper East",True,DHS,
+North East,1993,mcpr_all_women,4.7,percent,contraception,fp2020,Northern (pre 2022),True,DHS,5.0
+North East,1998,mcpr_all_women,5.5,percent,contraception,fp2020,Northern (pre 2022),True,DHS,5.0
+North East,2003,mcpr_all_women,7.0,percent,contraception,fp2020,Northern (pre 2022),True,DHS,5.0
+North East,2008,mcpr_all_women,4.9,percent,contraception,fp2020,Northern (pre 2022),True,DHS,5.0
+North East,2014,mcpr_all_women,9.3,percent,contraception,fp2020,Northern (pre 2022),True,DHS,6.0
+North East,2016,mcpr_all_women,,percent,contraception,fp2020,,False,MIS,2.0
+North East,2019,mcpr_all_women,,percent,contraception,fp2020,,False,MIS,3.0
+North East,2022,mcpr_all_women,14.8,percent,contraception,fp2020,Northeast,True,DHS,3.0
+Ashanti,1988,mcpr_married,6.5,percent,contraception,fp2020,Ashanti,False,DHS,
+Ashanti,1993,mcpr_married,8.0,percent,contraception,fp2020,Ashanti,False,DHS,5.0
+Ashanti,1998,mcpr_married,14.0,percent,contraception,fp2020,Ashanti,False,DHS,5.0
+Ashanti,2003,mcpr_married,21.0,percent,contraception,fp2020,Ashanti,False,DHS,5.0
+Ashanti,2008,mcpr_married,15.7,percent,contraception,fp2020,Ashanti,False,DHS,5.0
+Ashanti,2014,mcpr_married,20.8,percent,contraception,fp2020,Ashanti,False,DHS,6.0
+Ashanti,2016,mcpr_married,,percent,contraception,fp2020,,False,MIS,2.0
+Ashanti,2019,mcpr_married,,percent,contraception,fp2020,,False,MIS,3.0
+Ashanti,2022,mcpr_married,32.1,percent,contraception,fp2020,Ashanti,False,DHS,3.0
+Central,1988,mcpr_married,4.9,percent,contraception,fp2020,Central,False,DHS,
+Central,1993,mcpr_married,7.6,percent,contraception,fp2020,Central,False,DHS,5.0
+Central,1998,mcpr_married,13.1,percent,contraception,fp2020,Central,False,DHS,5.0
+Central,2003,mcpr_married,13.2,percent,contraception,fp2020,Central,False,DHS,5.0
+Central,2008,mcpr_married,17.0,percent,contraception,fp2020,Central,False,DHS,5.0
+Central,2014,mcpr_married,27.5,percent,contraception,fp2020,Central,False,DHS,6.0
+Central,2016,mcpr_married,,percent,contraception,fp2020,,False,MIS,2.0
+Central,2019,mcpr_married,,percent,contraception,fp2020,,False,MIS,3.0
+Central,2022,mcpr_married,34.5,percent,contraception,fp2020,Central,False,DHS,3.0
+Greater Accra,1988,mcpr_married,10.6,percent,contraception,fp2020,Greater Accra,False,DHS,
+Greater Accra,1993,mcpr_married,18.0,percent,contraception,fp2020,Greater Accra,False,DHS,5.0
+Greater Accra,1998,mcpr_married,17.4,percent,contraception,fp2020,Greater Accra,False,DHS,5.0
+Greater Accra,2003,mcpr_married,26.0,percent,contraception,fp2020,Greater Accra,False,DHS,5.0
+Greater Accra,2008,mcpr_married,22.2,percent,contraception,fp2020,Greater Accra,False,DHS,5.0
+Greater Accra,2014,mcpr_married,19.4,percent,contraception,fp2020,Greater Accra,False,DHS,6.0
+Greater Accra,2016,mcpr_married,,percent,contraception,fp2020,,False,MIS,2.0
+Greater Accra,2019,mcpr_married,,percent,contraception,fp2020,,False,MIS,3.0
+Greater Accra,2022,mcpr_married,23.8,percent,contraception,fp2020,Greater Accra,False,DHS,3.0
+Eastern,1988,mcpr_married,5.8,percent,contraception,fp2020,Eastern,False,DHS,
+Eastern,1993,mcpr_married,12.9,percent,contraception,fp2020,Eastern,False,DHS,5.0
+Eastern,1998,mcpr_married,19.6,percent,contraception,fp2020,Eastern,False,DHS,5.0
+Eastern,2003,mcpr_married,21.5,percent,contraception,fp2020,Eastern,False,DHS,5.0
+Eastern,2008,mcpr_married,17.0,percent,contraception,fp2020,Eastern,False,DHS,5.0
+Eastern,2014,mcpr_married,25.6,percent,contraception,fp2020,Eastern,False,DHS,6.0
+Eastern,2016,mcpr_married,,percent,contraception,fp2020,,False,MIS,2.0
+Eastern,2019,mcpr_married,,percent,contraception,fp2020,,False,MIS,3.0
+Eastern,2022,mcpr_married,28.6,percent,contraception,fp2020,Eastern,False,DHS,3.0
+Upper East,1988,mcpr_married,0.7,percent,contraception,fp2020,"Northern, Upper West, Upper East",True,DHS,
+Upper East,1993,mcpr_married,7.2,percent,contraception,fp2020,Upper East,False,DHS,5.0
+Upper East,1998,mcpr_married,7.5,percent,contraception,fp2020,Upper East,False,DHS,5.0
+Upper East,2003,mcpr_married,9.7,percent,contraception,fp2020,Upper East,False,DHS,5.0
+Upper East,2008,mcpr_married,14.3,percent,contraception,fp2020,Upper East,False,DHS,5.0
+Upper East,2014,mcpr_married,23.3,percent,contraception,fp2020,Upper East,False,DHS,6.0
+Upper East,2016,mcpr_married,,percent,contraception,fp2020,,False,MIS,2.0
+Upper East,2019,mcpr_married,,percent,contraception,fp2020,,False,MIS,3.0
+Upper East,2022,mcpr_married,30.9,percent,contraception,fp2020,Upper East,False,DHS,3.0
+Upper West,1988,mcpr_married,0.7,percent,contraception,fp2020,"Northern, Upper West, Upper East",True,DHS,
+Upper West,1993,mcpr_married,5.1,percent,contraception,fp2020,Upper West,False,DHS,5.0
+Upper West,1998,mcpr_married,9.1,percent,contraception,fp2020,Upper West,False,DHS,5.0
+Upper West,2003,mcpr_married,19.5,percent,contraception,fp2020,Upper West,False,DHS,5.0
+Upper West,2008,mcpr_married,20.5,percent,contraception,fp2020,Upper West,False,DHS,5.0
+Upper West,2014,mcpr_married,24.8,percent,contraception,fp2020,Upper West,False,DHS,6.0
+Upper West,2016,mcpr_married,,percent,contraception,fp2020,,False,MIS,2.0
+Upper West,2019,mcpr_married,,percent,contraception,fp2020,,False,MIS,3.0
+Upper West,2022,mcpr_married,33.8,percent,contraception,fp2020,Upper West,False,DHS,3.0
+Western,1988,mcpr_married,3.2,percent,contraception,fp2020,Western (pre 2022),True,DHS,
+Western,1993,mcpr_married,14.4,percent,contraception,fp2020,Western (pre 2022),True,DHS,5.0
+Western,1998,mcpr_married,8.7,percent,contraception,fp2020,Western (pre 2022),True,DHS,5.0
+Western,2003,mcpr_married,17.7,percent,contraception,fp2020,Western (pre 2022),True,DHS,5.0
+Western,2008,mcpr_married,13.2,percent,contraception,fp2020,Western (pre 2022),True,DHS,5.0
+Western,2014,mcpr_married,23.3,percent,contraception,fp2020,Western (pre 2022),True,DHS,6.0
+Western,2016,mcpr_married,,percent,contraception,fp2020,,False,MIS,2.0
+Western,2019,mcpr_married,,percent,contraception,fp2020,,False,MIS,3.0
+Western,2022,mcpr_married,35.5,percent,contraception,fp2020,Western (post 2022),True,DHS,3.0
+Western North,1988,mcpr_married,3.2,percent,contraception,fp2020,Western (pre 2022),True,DHS,
+Western North,1993,mcpr_married,14.4,percent,contraception,fp2020,Western (pre 2022),True,DHS,5.0
+Western North,1998,mcpr_married,8.7,percent,contraception,fp2020,Western (pre 2022),True,DHS,5.0
+Western North,2003,mcpr_married,17.7,percent,contraception,fp2020,Western (pre 2022),True,DHS,5.0
+Western North,2008,mcpr_married,13.2,percent,contraception,fp2020,Western (pre 2022),True,DHS,5.0
+Western North,2014,mcpr_married,23.3,percent,contraception,fp2020,Western (pre 2022),True,DHS,6.0
+Western North,2016,mcpr_married,,percent,contraception,fp2020,,False,MIS,2.0
+Western North,2019,mcpr_married,,percent,contraception,fp2020,,False,MIS,3.0
+Western North,2022,mcpr_married,29.1,percent,contraception,fp2020,Western North,False,DHS,3.0
+Volta,1988,mcpr_married,3.9,percent,contraception,fp2020,Volta (pre 2022),True,DHS,
+Volta,1993,mcpr_married,7.7,percent,contraception,fp2020,Volta (pre 2022),True,DHS,5.0
+Volta,1998,mcpr_married,12.1,percent,contraception,fp2020,Volta (pre 2022),True,DHS,5.0
+Volta,2003,mcpr_married,19.3,percent,contraception,fp2020,Volta (pre 2022),True,DHS,5.0
+Volta,2008,mcpr_married,20.5,percent,contraception,fp2020,Volta (pre 2022),True,DHS,5.0
+Volta,2014,mcpr_married,29.5,percent,contraception,fp2020,Volta (pre 2022),True,DHS,6.0
+Volta,2016,mcpr_married,,percent,contraception,fp2020,,False,MIS,2.0
+Volta,2019,mcpr_married,,percent,contraception,fp2020,,False,MIS,3.0
+Volta,2022,mcpr_married,29.3,percent,contraception,fp2020,Volta (post 2022),True,DHS,3.0
+Oti,1988,mcpr_married,3.9,percent,contraception,fp2020,Volta (pre 2022),True,DHS,
+Oti,1993,mcpr_married,7.7,percent,contraception,fp2020,Volta (pre 2022),True,DHS,5.0
+Oti,1998,mcpr_married,12.1,percent,contraception,fp2020,Volta (pre 2022),True,DHS,5.0
+Oti,2003,mcpr_married,19.3,percent,contraception,fp2020,Volta (pre 2022),True,DHS,5.0
+Oti,2008,mcpr_married,20.5,percent,contraception,fp2020,Volta (pre 2022),True,DHS,5.0
+Oti,2014,mcpr_married,29.5,percent,contraception,fp2020,Volta (pre 2022),True,DHS,6.0
+Oti,2016,mcpr_married,,percent,contraception,fp2020,,False,MIS,2.0
+Oti,2019,mcpr_married,,percent,contraception,fp2020,,False,MIS,3.0
+Oti,2022,mcpr_married,28.5,percent,contraception,fp2020,Oti,False,DHS,3.0
+Ahafo,1988,mcpr_married,5.2,percent,contraception,fp2020,Brong-Ahafo,True,DHS,
+Ahafo,1993,mcpr_married,14.0,percent,contraception,fp2020,Brong-Ahafo,True,DHS,5.0
+Ahafo,1998,mcpr_married,14.8,percent,contraception,fp2020,Brong-Ahafo,True,DHS,5.0
+Ahafo,2003,mcpr_married,24.8,percent,contraception,fp2020,Brong-Ahafo,True,DHS,5.0
+Ahafo,2008,mcpr_married,21.6,percent,contraception,fp2020,Brong-Ahafo,True,DHS,5.0
+Ahafo,2014,mcpr_married,26.2,percent,contraception,fp2020,Brong-Ahafo,True,DHS,6.0
+Ahafo,2016,mcpr_married,,percent,contraception,fp2020,,False,MIS,2.0
+Ahafo,2019,mcpr_married,,percent,contraception,fp2020,,False,MIS,3.0
+Ahafo,2022,mcpr_married,35.8,percent,contraception,fp2020,Ahafo,False,DHS,3.0
+Bono,1988,mcpr_married,5.2,percent,contraception,fp2020,Brong-Ahafo,True,DHS,
+Bono,1993,mcpr_married,14.0,percent,contraception,fp2020,Brong-Ahafo,True,DHS,5.0
+Bono,1998,mcpr_married,14.8,percent,contraception,fp2020,Brong-Ahafo,True,DHS,5.0
+Bono,2003,mcpr_married,24.8,percent,contraception,fp2020,Brong-Ahafo,True,DHS,5.0
+Bono,2008,mcpr_married,21.6,percent,contraception,fp2020,Brong-Ahafo,True,DHS,5.0
+Bono,2014,mcpr_married,26.2,percent,contraception,fp2020,Brong-Ahafo,True,DHS,6.0
+Bono,2016,mcpr_married,,percent,contraception,fp2020,,False,MIS,2.0
+Bono,2019,mcpr_married,,percent,contraception,fp2020,,False,MIS,3.0
+Bono,2022,mcpr_married,28.3,percent,contraception,fp2020,Bono,False,DHS,3.0
+Bono East,1988,mcpr_married,5.2,percent,contraception,fp2020,Brong-Ahafo,True,DHS,
+Bono East,1993,mcpr_married,14.0,percent,contraception,fp2020,Brong-Ahafo,True,DHS,5.0
+Bono East,1998,mcpr_married,14.8,percent,contraception,fp2020,Brong-Ahafo,True,DHS,5.0
+Bono East,2003,mcpr_married,24.8,percent,contraception,fp2020,Brong-Ahafo,True,DHS,5.0
+Bono East,2008,mcpr_married,21.6,percent,contraception,fp2020,Brong-Ahafo,True,DHS,5.0
+Bono East,2014,mcpr_married,26.2,percent,contraception,fp2020,Brong-Ahafo,True,DHS,6.0
+Bono East,2016,mcpr_married,,percent,contraception,fp2020,,False,MIS,2.0
+Bono East,2019,mcpr_married,,percent,contraception,fp2020,,False,MIS,3.0
+Bono East,2022,mcpr_married,20.7,percent,contraception,fp2020,Bono East,False,DHS,3.0
+Northern,1988,mcpr_married,0.7,percent,contraception,fp2020,"Northern, Upper West, Upper East",True,DHS,
+Northern,1993,mcpr_married,5.1,percent,contraception,fp2020,Northern (pre 2022),True,DHS,5.0
+Northern,1998,mcpr_married,5.6,percent,contraception,fp2020,Northern (pre 2022),True,DHS,5.0
+Northern,2003,mcpr_married,7.7,percent,contraception,fp2020,Northern (pre 2022),True,DHS,5.0
+Northern,2008,mcpr_married,5.7,percent,contraception,fp2020,Northern (pre 2022),True,DHS,5.0
+Northern,2014,mcpr_married,10.8,percent,contraception,fp2020,Northern (pre 2022),True,DHS,6.0
+Northern,2016,mcpr_married,,percent,contraception,fp2020,,False,MIS,2.0
+Northern,2019,mcpr_married,,percent,contraception,fp2020,,False,MIS,3.0
+Northern,2022,mcpr_married,17.2,percent,contraception,fp2020,Northern(post 2022),True,DHS,3.0
+Savannah,1988,mcpr_married,0.7,percent,contraception,fp2020,"Northern, Upper West, Upper East",True,DHS,
+Savannah,1993,mcpr_married,5.1,percent,contraception,fp2020,Northern (pre 2022),True,DHS,5.0
+Savannah,1998,mcpr_married,5.6,percent,contraception,fp2020,Northern (pre 2022),True,DHS,5.0
+Savannah,2003,mcpr_married,7.7,percent,contraception,fp2020,Northern (pre 2022),True,DHS,5.0
+Savannah,2008,mcpr_married,5.7,percent,contraception,fp2020,Northern (pre 2022),True,DHS,5.0
+Savannah,2014,mcpr_married,10.8,percent,contraception,fp2020,Northern (pre 2022),True,DHS,6.0
+Savannah,2016,mcpr_married,,percent,contraception,fp2020,,False,MIS,2.0
+Savannah,2019,mcpr_married,,percent,contraception,fp2020,,False,MIS,3.0
+Savannah,2022,mcpr_married,19.1,percent,contraception,fp2020,Savannah,False,DHS,3.0
+North East,1988,mcpr_married,0.7,percent,contraception,fp2020,"Northern, Upper West, Upper East",True,DHS,
+North East,1993,mcpr_married,5.1,percent,contraception,fp2020,Northern (pre 2022),True,DHS,5.0
+North East,1998,mcpr_married,5.6,percent,contraception,fp2020,Northern (pre 2022),True,DHS,5.0
+North East,2003,mcpr_married,7.7,percent,contraception,fp2020,Northern (pre 2022),True,DHS,5.0
+North East,2008,mcpr_married,5.7,percent,contraception,fp2020,Northern (pre 2022),True,DHS,5.0
+North East,2014,mcpr_married,10.8,percent,contraception,fp2020,Northern (pre 2022),True,DHS,6.0
+North East,2016,mcpr_married,,percent,contraception,fp2020,,False,MIS,2.0
+North East,2019,mcpr_married,,percent,contraception,fp2020,,False,MIS,3.0
+North East,2022,mcpr_married,14.9,percent,contraception,fp2020,Northeast,True,DHS,3.0
+Ashanti,1988,any_contra_married,10.1,percent,contraception,mics-indicators,Ashanti,False,DHS,
+Ashanti,1993,any_contra_married,13.7,percent,contraception,mics-indicators,Ashanti,False,DHS,5.0
+Ashanti,1998,any_contra_married,24.6,percent,contraception,mics-indicators,Ashanti,False,DHS,5.0
+Ashanti,2003,any_contra_married,29.7,percent,contraception,mics-indicators,Ashanti,False,DHS,5.0
+Ashanti,2008,any_contra_married,27.0,percent,contraception,mics-indicators,Ashanti,False,DHS,5.0
+Ashanti,2014,any_contra_married,26.4,percent,contraception,mics-indicators,Ashanti,False,DHS,6.0
+Ashanti,2016,any_contra_married,,percent,contraception,mics-indicators,,False,MIS,2.0
+Ashanti,2019,any_contra_married,,percent,contraception,mics-indicators,,False,MIS,3.0
+Ashanti,2022,any_contra_married,44.4,percent,contraception,mics-indicators,Ashanti,False,DHS,3.0
+Central,1988,any_contra_married,9.7,percent,contraception,mics-indicators,Central,False,DHS,
+Central,1993,any_contra_married,15.6,percent,contraception,mics-indicators,Central,False,DHS,5.0
+Central,1998,any_contra_married,19.3,percent,contraception,mics-indicators,Central,False,DHS,5.0
+Central,2003,any_contra_married,15.2,percent,contraception,mics-indicators,Central,False,DHS,5.0
+Central,2008,any_contra_married,22.9,percent,contraception,mics-indicators,Central,False,DHS,5.0
+Central,2014,any_contra_married,31.1,percent,contraception,mics-indicators,Central,False,DHS,6.0
+Central,2016,any_contra_married,,percent,contraception,mics-indicators,,False,MIS,2.0
+Central,2019,any_contra_married,,percent,contraception,mics-indicators,,False,MIS,3.0
+Central,2022,any_contra_married,50.8,percent,contraception,mics-indicators,Central,False,DHS,3.0
+Greater Accra,1988,any_contra_married,27.2,percent,contraception,mics-indicators,Greater Accra,False,DHS,
+Greater Accra,1993,any_contra_married,36.8,percent,contraception,mics-indicators,Greater Accra,False,DHS,5.0
+Greater Accra,1998,any_contra_married,32.2,percent,contraception,mics-indicators,Greater Accra,False,DHS,5.0
+Greater Accra,2003,any_contra_married,34.0,percent,contraception,mics-indicators,Greater Accra,False,DHS,5.0
+Greater Accra,2008,any_contra_married,32.6,percent,contraception,mics-indicators,Greater Accra,False,DHS,5.0
+Greater Accra,2014,any_contra_married,28.7,percent,contraception,mics-indicators,Greater Accra,False,DHS,6.0
+Greater Accra,2016,any_contra_married,,percent,contraception,mics-indicators,,False,MIS,2.0
+Greater Accra,2019,any_contra_married,,percent,contraception,mics-indicators,,False,MIS,3.0
+Greater Accra,2022,any_contra_married,32.0,percent,contraception,mics-indicators,Greater Accra,False,DHS,3.0
+Eastern,1988,any_contra_married,11.4,percent,contraception,mics-indicators,Eastern,False,DHS,
+Eastern,1993,any_contra_married,25.9,percent,contraception,mics-indicators,Eastern,False,DHS,5.0
+Eastern,1998,any_contra_married,26.6,percent,contraception,mics-indicators,Eastern,False,DHS,5.0
+Eastern,2003,any_contra_married,27.1,percent,contraception,mics-indicators,Eastern,False,DHS,5.0
+Eastern,2008,any_contra_married,24.2,percent,contraception,mics-indicators,Eastern,False,DHS,5.0
+Eastern,2014,any_contra_married,29.4,percent,contraception,mics-indicators,Eastern,False,DHS,6.0
+Eastern,2016,any_contra_married,,percent,contraception,mics-indicators,,False,MIS,2.0
+Eastern,2019,any_contra_married,,percent,contraception,mics-indicators,,False,MIS,3.0
+Eastern,2022,any_contra_married,35.3,percent,contraception,mics-indicators,Eastern,False,DHS,3.0
+Upper East,1988,any_contra_married,10.7,percent,contraception,mics-indicators,"Northern, Upper West, Upper East",True,DHS,
+Upper East,1993,any_contra_married,10.2,percent,contraception,mics-indicators,Upper East,False,DHS,5.0
+Upper East,1998,any_contra_married,9.0,percent,contraception,mics-indicators,Upper East,False,DHS,5.0
+Upper East,2003,any_contra_married,11.9,percent,contraception,mics-indicators,Upper East,False,DHS,5.0
+Upper East,2008,any_contra_married,14.7,percent,contraception,mics-indicators,Upper East,False,DHS,5.0
+Upper East,2014,any_contra_married,23.7,percent,contraception,mics-indicators,Upper East,False,DHS,6.0
+Upper East,2016,any_contra_married,,percent,contraception,mics-indicators,,False,MIS,2.0
+Upper East,2019,any_contra_married,,percent,contraception,mics-indicators,,False,MIS,3.0
+Upper East,2022,any_contra_married,35.5,percent,contraception,mics-indicators,Upper East,False,DHS,3.0
+Upper West,1988,any_contra_married,10.7,percent,contraception,mics-indicators,"Northern, Upper West, Upper East",True,DHS,
+Upper West,1993,any_contra_married,6.6,percent,contraception,mics-indicators,Upper West,False,DHS,5.0
+Upper West,1998,any_contra_married,11.9,percent,contraception,mics-indicators,Upper West,False,DHS,5.0
+Upper West,2003,any_contra_married,26.3,percent,contraception,mics-indicators,Upper West,False,DHS,5.0
+Upper West,2008,any_contra_married,21.7,percent,contraception,mics-indicators,Upper West,False,DHS,5.0
+Upper West,2014,any_contra_married,25.2,percent,contraception,mics-indicators,Upper West,False,DHS,6.0
+Upper West,2016,any_contra_married,,percent,contraception,mics-indicators,,False,MIS,2.0
+Upper West,2019,any_contra_married,,percent,contraception,mics-indicators,,False,MIS,3.0
+Upper West,2022,any_contra_married,36.8,percent,contraception,mics-indicators,Upper West,False,DHS,3.0
+Western,1988,any_contra_married,8.2,percent,contraception,mics-indicators,Western (pre 2022),True,DHS,
+Western,1993,any_contra_married,26.4,percent,contraception,mics-indicators,Western (pre 2022),True,DHS,5.0
+Western,1998,any_contra_married,18.3,percent,contraception,mics-indicators,Western (pre 2022),True,DHS,5.0
+Western,2003,any_contra_married,28.2,percent,contraception,mics-indicators,Western (pre 2022),True,DHS,5.0
+Western,2008,any_contra_married,19.1,percent,contraception,mics-indicators,Western (pre 2022),True,DHS,5.0
+Western,2014,any_contra_married,27.1,percent,contraception,mics-indicators,Western (pre 2022),True,DHS,6.0
+Western,2016,any_contra_married,,percent,contraception,mics-indicators,,False,MIS,2.0
+Western,2019,any_contra_married,,percent,contraception,mics-indicators,,False,MIS,3.0
+Western,2022,any_contra_married,44.8,percent,contraception,mics-indicators,Western (post 2022),True,DHS,3.0
+Western North,1988,any_contra_married,8.2,percent,contraception,mics-indicators,Western (pre 2022),True,DHS,
+Western North,1993,any_contra_married,26.4,percent,contraception,mics-indicators,Western (pre 2022),True,DHS,5.0
+Western North,1998,any_contra_married,18.3,percent,contraception,mics-indicators,Western (pre 2022),True,DHS,5.0
+Western North,2003,any_contra_married,28.2,percent,contraception,mics-indicators,Western (pre 2022),True,DHS,5.0
+Western North,2008,any_contra_married,19.1,percent,contraception,mics-indicators,Western (pre 2022),True,DHS,5.0
+Western North,2014,any_contra_married,27.1,percent,contraception,mics-indicators,Western (pre 2022),True,DHS,6.0
+Western North,2016,any_contra_married,,percent,contraception,mics-indicators,,False,MIS,2.0
+Western North,2019,any_contra_married,,percent,contraception,mics-indicators,,False,MIS,3.0
+Western North,2022,any_contra_married,39.2,percent,contraception,mics-indicators,Western North,False,DHS,3.0
+Volta,1988,any_contra_married,14.6,percent,contraception,mics-indicators,Volta (pre 2022),True,DHS,
+Volta,1993,any_contra_married,25.2,percent,contraception,mics-indicators,Volta (pre 2022),True,DHS,5.0
+Volta,1998,any_contra_married,21.1,percent,contraception,mics-indicators,Volta (pre 2022),True,DHS,5.0
+Volta,2003,any_contra_married,23.6,percent,contraception,mics-indicators,Volta (pre 2022),True,DHS,5.0
+Volta,2008,any_contra_married,28.6,percent,contraception,mics-indicators,Volta (pre 2022),True,DHS,5.0
+Volta,2014,any_contra_married,32.2,percent,contraception,mics-indicators,Volta (pre 2022),True,DHS,6.0
+Volta,2016,any_contra_married,,percent,contraception,mics-indicators,,False,MIS,2.0
+Volta,2019,any_contra_married,,percent,contraception,mics-indicators,,False,MIS,3.0
+Volta,2022,any_contra_married,35.6,percent,contraception,mics-indicators,Volta (post 2022),True,DHS,3.0
+Oti,1988,any_contra_married,14.6,percent,contraception,mics-indicators,Volta (pre 2022),True,DHS,
+Oti,1993,any_contra_married,25.2,percent,contraception,mics-indicators,Volta (pre 2022),True,DHS,5.0
+Oti,1998,any_contra_married,21.1,percent,contraception,mics-indicators,Volta (pre 2022),True,DHS,5.0
+Oti,2003,any_contra_married,23.6,percent,contraception,mics-indicators,Volta (pre 2022),True,DHS,5.0
+Oti,2008,any_contra_married,28.6,percent,contraception,mics-indicators,Volta (pre 2022),True,DHS,5.0
+Oti,2014,any_contra_married,32.2,percent,contraception,mics-indicators,Volta (pre 2022),True,DHS,6.0
+Oti,2016,any_contra_married,,percent,contraception,mics-indicators,,False,MIS,2.0
+Oti,2019,any_contra_married,,percent,contraception,mics-indicators,,False,MIS,3.0
+Oti,2022,any_contra_married,32.0,percent,contraception,mics-indicators,Oti,False,DHS,3.0
+Ahafo,1988,any_contra_married,12.0,percent,contraception,mics-indicators,Brong-Ahafo,True,DHS,
+Ahafo,1993,any_contra_married,25.4,percent,contraception,mics-indicators,Brong-Ahafo,True,DHS,5.0
+Ahafo,1998,any_contra_married,24.7,percent,contraception,mics-indicators,Brong-Ahafo,True,DHS,5.0
+Ahafo,2003,any_contra_married,33.0,percent,contraception,mics-indicators,Brong-Ahafo,True,DHS,5.0
+Ahafo,2008,any_contra_married,29.0,percent,contraception,mics-indicators,Brong-Ahafo,True,DHS,5.0
+Ahafo,2014,any_contra_married,30.1,percent,contraception,mics-indicators,Brong-Ahafo,True,DHS,6.0
+Ahafo,2016,any_contra_married,,percent,contraception,mics-indicators,,False,MIS,2.0
+Ahafo,2019,any_contra_married,,percent,contraception,mics-indicators,,False,MIS,3.0
+Ahafo,2022,any_contra_married,42.8,percent,contraception,mics-indicators,Ahafo,False,DHS,3.0
+Bono,1988,any_contra_married,12.0,percent,contraception,mics-indicators,Brong-Ahafo,True,DHS,
+Bono,1993,any_contra_married,25.4,percent,contraception,mics-indicators,Brong-Ahafo,True,DHS,5.0
+Bono,1998,any_contra_married,24.7,percent,contraception,mics-indicators,Brong-Ahafo,True,DHS,5.0
+Bono,2003,any_contra_married,33.0,percent,contraception,mics-indicators,Brong-Ahafo,True,DHS,5.0
+Bono,2008,any_contra_married,29.0,percent,contraception,mics-indicators,Brong-Ahafo,True,DHS,5.0
+Bono,2014,any_contra_married,30.1,percent,contraception,mics-indicators,Brong-Ahafo,True,DHS,6.0
+Bono,2016,any_contra_married,,percent,contraception,mics-indicators,,False,MIS,2.0
+Bono,2019,any_contra_married,,percent,contraception,mics-indicators,,False,MIS,3.0
+Bono,2022,any_contra_married,38.5,percent,contraception,mics-indicators,Bono,False,DHS,3.0
+Bono East,1988,any_contra_married,12.0,percent,contraception,mics-indicators,Brong-Ahafo,True,DHS,
+Bono East,1993,any_contra_married,25.4,percent,contraception,mics-indicators,Brong-Ahafo,True,DHS,5.0
+Bono East,1998,any_contra_married,24.7,percent,contraception,mics-indicators,Brong-Ahafo,True,DHS,5.0
+Bono East,2003,any_contra_married,33.0,percent,contraception,mics-indicators,Brong-Ahafo,True,DHS,5.0
+Bono East,2008,any_contra_married,29.0,percent,contraception,mics-indicators,Brong-Ahafo,True,DHS,5.0
+Bono East,2014,any_contra_married,30.1,percent,contraception,mics-indicators,Brong-Ahafo,True,DHS,6.0
+Bono East,2016,any_contra_married,,percent,contraception,mics-indicators,,False,MIS,2.0
+Bono East,2019,any_contra_married,,percent,contraception,mics-indicators,,False,MIS,3.0
+Bono East,2022,any_contra_married,22.1,percent,contraception,mics-indicators,Bono East,False,DHS,3.0
+Northern,1988,any_contra_married,10.7,percent,contraception,mics-indicators,"Northern, Upper West, Upper East",True,DHS,
+Northern,1993,any_contra_married,11.2,percent,contraception,mics-indicators,Northern (pre 2022),True,DHS,5.0
+Northern,1998,any_contra_married,10.0,percent,contraception,mics-indicators,Northern (pre 2022),True,DHS,5.0
+Northern,2003,any_contra_married,12.1,percent,contraception,mics-indicators,Northern (pre 2022),True,DHS,5.0
+Northern,2008,any_contra_married,5.9,percent,contraception,mics-indicators,Northern (pre 2022),True,DHS,5.0
+Northern,2014,any_contra_married,11.2,percent,contraception,mics-indicators,Northern (pre 2022),True,DHS,6.0
+Northern,2016,any_contra_married,,percent,contraception,mics-indicators,,False,MIS,2.0
+Northern,2019,any_contra_married,,percent,contraception,mics-indicators,,False,MIS,3.0
+Northern,2022,any_contra_married,24.6,percent,contraception,mics-indicators,Northern(post 2022),True,DHS,3.0
+Savannah,1988,any_contra_married,10.7,percent,contraception,mics-indicators,"Northern, Upper West, Upper East",True,DHS,
+Savannah,1993,any_contra_married,11.2,percent,contraception,mics-indicators,Northern (pre 2022),True,DHS,5.0
+Savannah,1998,any_contra_married,10.0,percent,contraception,mics-indicators,Northern (pre 2022),True,DHS,5.0
+Savannah,2003,any_contra_married,12.1,percent,contraception,mics-indicators,Northern (pre 2022),True,DHS,5.0
+Savannah,2008,any_contra_married,5.9,percent,contraception,mics-indicators,Northern (pre 2022),True,DHS,5.0
+Savannah,2014,any_contra_married,11.2,percent,contraception,mics-indicators,Northern (pre 2022),True,DHS,6.0
+Savannah,2016,any_contra_married,,percent,contraception,mics-indicators,,False,MIS,2.0
+Savannah,2019,any_contra_married,,percent,contraception,mics-indicators,,False,MIS,3.0
+Savannah,2022,any_contra_married,23.4,percent,contraception,mics-indicators,Savannah,False,DHS,3.0
+North East,1988,any_contra_married,10.7,percent,contraception,mics-indicators,"Northern, Upper West, Upper East",True,DHS,
+North East,1993,any_contra_married,11.2,percent,contraception,mics-indicators,Northern (pre 2022),True,DHS,5.0
+North East,1998,any_contra_married,10.0,percent,contraception,mics-indicators,Northern (pre 2022),True,DHS,5.0
+North East,2003,any_contra_married,12.1,percent,contraception,mics-indicators,Northern (pre 2022),True,DHS,5.0
+North East,2008,any_contra_married,5.9,percent,contraception,mics-indicators,Northern (pre 2022),True,DHS,5.0
+North East,2014,any_contra_married,11.2,percent,contraception,mics-indicators,Northern (pre 2022),True,DHS,6.0
+North East,2016,any_contra_married,,percent,contraception,mics-indicators,,False,MIS,2.0
+North East,2019,any_contra_married,,percent,contraception,mics-indicators,,False,MIS,3.0
+North East,2022,any_contra_married,17.1,percent,contraception,mics-indicators,Northeast,True,DHS,3.0
+Ashanti,1988,unmet_need,,percent,contraception,mics-indicators,,False,DHS,
+Ashanti,1993,unmet_need,45.4,percent,contraception,mics-indicators,Ashanti,False,DHS,5.0
+Ashanti,1998,unmet_need,34.6,percent,contraception,mics-indicators,Ashanti,False,DHS,5.0
+Ashanti,2003,unmet_need,28.1,percent,contraception,mics-indicators,Ashanti,False,DHS,5.0
+Ashanti,2008,unmet_need,36.5,percent,contraception,mics-indicators,Ashanti,False,DHS,5.0
+Ashanti,2014,unmet_need,31.8,percent,contraception,mics-indicators,Ashanti,False,DHS,6.0
+Ashanti,2016,unmet_need,,percent,contraception,mics-indicators,,False,MIS,2.0
+Ashanti,2019,unmet_need,,percent,contraception,mics-indicators,,False,MIS,3.0
+Ashanti,2022,unmet_need,23.0,percent,contraception,mics-indicators,Ashanti,False,DHS,3.0
+Central,1988,unmet_need,,percent,contraception,mics-indicators,,False,DHS,
+Central,1993,unmet_need,42.5,percent,contraception,mics-indicators,Central,False,DHS,5.0
+Central,1998,unmet_need,39.1,percent,contraception,mics-indicators,Central,False,DHS,5.0
+Central,2003,unmet_need,49.6,percent,contraception,mics-indicators,Central,False,DHS,5.0
+Central,2008,unmet_need,50.1,percent,contraception,mics-indicators,Central,False,DHS,5.0
+Central,2014,unmet_need,29.4,percent,contraception,mics-indicators,Central,False,DHS,6.0
+Central,2016,unmet_need,,percent,contraception,mics-indicators,,False,MIS,2.0
+Central,2019,unmet_need,,percent,contraception,mics-indicators,,False,MIS,3.0
+Central,2022,unmet_need,21.3,percent,contraception,mics-indicators,Central,False,DHS,3.0
+Greater Accra,1988,unmet_need,,percent,contraception,mics-indicators,,False,DHS,
+Greater Accra,1993,unmet_need,27.8,percent,contraception,mics-indicators,Greater Accra,False,DHS,5.0
+Greater Accra,1998,unmet_need,29.9,percent,contraception,mics-indicators,Greater Accra,False,DHS,5.0
+Greater Accra,2003,unmet_need,32.1,percent,contraception,mics-indicators,Greater Accra,False,DHS,5.0
+Greater Accra,2008,unmet_need,26.7,percent,contraception,mics-indicators,Greater Accra,False,DHS,5.0
+Greater Accra,2014,unmet_need,28.3,percent,contraception,mics-indicators,Greater Accra,False,DHS,6.0
+Greater Accra,2016,unmet_need,,percent,contraception,mics-indicators,,False,MIS,2.0
+Greater Accra,2019,unmet_need,,percent,contraception,mics-indicators,,False,MIS,3.0
+Greater Accra,2022,unmet_need,26.0,percent,contraception,mics-indicators,Greater Accra,False,DHS,3.0
+Eastern,1988,unmet_need,,percent,contraception,mics-indicators,,False,DHS,
+Eastern,1993,unmet_need,37.9,percent,contraception,mics-indicators,Eastern,False,DHS,5.0
+Eastern,1998,unmet_need,33.6,percent,contraception,mics-indicators,Eastern,False,DHS,5.0
+Eastern,2003,unmet_need,35.9,percent,contraception,mics-indicators,Eastern,False,DHS,5.0
+Eastern,2008,unmet_need,38.8,percent,contraception,mics-indicators,Eastern,False,DHS,5.0
+Eastern,2014,unmet_need,35.1,percent,contraception,mics-indicators,Eastern,False,DHS,6.0
+Eastern,2016,unmet_need,,percent,contraception,mics-indicators,,False,MIS,2.0
+Eastern,2019,unmet_need,,percent,contraception,mics-indicators,,False,MIS,3.0
+Eastern,2022,unmet_need,27.3,percent,contraception,mics-indicators,Eastern,False,DHS,3.0
+Upper East,1988,unmet_need,,percent,contraception,mics-indicators,,False,DHS,
+Upper East,1993,unmet_need,29.2,percent,contraception,mics-indicators,Upper East,False,DHS,5.0
+Upper East,1998,unmet_need,26.6,percent,contraception,mics-indicators,Upper East,False,DHS,5.0
+Upper East,2003,unmet_need,38.9,percent,contraception,mics-indicators,Upper East,False,DHS,5.0
+Upper East,2008,unmet_need,33.7,percent,contraception,mics-indicators,Upper East,False,DHS,5.0
+Upper East,2014,unmet_need,26.5,percent,contraception,mics-indicators,Upper East,False,DHS,6.0
+Upper East,2016,unmet_need,,percent,contraception,mics-indicators,,False,MIS,2.0
+Upper East,2019,unmet_need,,percent,contraception,mics-indicators,,False,MIS,3.0
+Upper East,2022,unmet_need,17.9,percent,contraception,mics-indicators,Upper East,False,DHS,3.0
+Upper West,1988,unmet_need,,percent,contraception,mics-indicators,,False,DHS,
+Upper West,1993,unmet_need,30.1,percent,contraception,mics-indicators,Upper West,False,DHS,5.0
+Upper West,1998,unmet_need,32.4,percent,contraception,mics-indicators,Upper West,False,DHS,5.0
+Upper West,2003,unmet_need,25.3,percent,contraception,mics-indicators,Upper West,False,DHS,5.0
+Upper West,2008,unmet_need,28.6,percent,contraception,mics-indicators,Upper West,False,DHS,5.0
+Upper West,2014,unmet_need,27.5,percent,contraception,mics-indicators,Upper West,False,DHS,6.0
+Upper West,2016,unmet_need,,percent,contraception,mics-indicators,,False,MIS,2.0
+Upper West,2019,unmet_need,,percent,contraception,mics-indicators,,False,MIS,3.0
+Upper West,2022,unmet_need,17.8,percent,contraception,mics-indicators,Upper West,False,DHS,3.0
+Western,1988,unmet_need,,percent,contraception,mics-indicators,,False,DHS,
+Western,1993,unmet_need,32.8,percent,contraception,mics-indicators,Western (pre 2022),True,DHS,5.0
+Western,1998,unmet_need,40.5,percent,contraception,mics-indicators,Western (pre 2022),True,DHS,5.0
+Western,2003,unmet_need,32.0,percent,contraception,mics-indicators,Western (pre 2022),True,DHS,5.0
+Western,2008,unmet_need,40.1,percent,contraception,mics-indicators,Western (pre 2022),True,DHS,5.0
+Western,2014,unmet_need,27.4,percent,contraception,mics-indicators,Western (pre 2022),True,DHS,6.0
+Western,2016,unmet_need,,percent,contraception,mics-indicators,,False,MIS,2.0
+Western,2019,unmet_need,,percent,contraception,mics-indicators,,False,MIS,3.0
+Western,2022,unmet_need,18.5,percent,contraception,mics-indicators,Western (post 2022),True,DHS,3.0
+Western North,1988,unmet_need,,percent,contraception,mics-indicators,,False,DHS,
+Western North,1993,unmet_need,32.8,percent,contraception,mics-indicators,Western (pre 2022),True,DHS,5.0
+Western North,1998,unmet_need,40.5,percent,contraception,mics-indicators,Western (pre 2022),True,DHS,5.0
+Western North,2003,unmet_need,32.0,percent,contraception,mics-indicators,Western (pre 2022),True,DHS,5.0
+Western North,2008,unmet_need,40.1,percent,contraception,mics-indicators,Western (pre 2022),True,DHS,5.0
+Western North,2014,unmet_need,27.4,percent,contraception,mics-indicators,Western (pre 2022),True,DHS,6.0
+Western North,2016,unmet_need,,percent,contraception,mics-indicators,,False,MIS,2.0
+Western North,2019,unmet_need,,percent,contraception,mics-indicators,,False,MIS,3.0
+Western North,2022,unmet_need,22.7,percent,contraception,mics-indicators,Western North,False,DHS,3.0
+Volta,1988,unmet_need,,percent,contraception,mics-indicators,,False,DHS,
+Volta,1993,unmet_need,41.5,percent,contraception,mics-indicators,Volta (pre 2022),True,DHS,5.0
+Volta,1998,unmet_need,39.3,percent,contraception,mics-indicators,Volta (pre 2022),True,DHS,5.0
+Volta,2003,unmet_need,40.6,percent,contraception,mics-indicators,Volta (pre 2022),True,DHS,5.0
+Volta,2008,unmet_need,34.8,percent,contraception,mics-indicators,Volta (pre 2022),True,DHS,5.0
+Volta,2014,unmet_need,36.3,percent,contraception,mics-indicators,Volta (pre 2022),True,DHS,6.0
+Volta,2016,unmet_need,,percent,contraception,mics-indicators,,False,MIS,2.0
+Volta,2019,unmet_need,,percent,contraception,mics-indicators,,False,MIS,3.0
+Volta,2022,unmet_need,28.1,percent,contraception,mics-indicators,Volta (post 2022),True,DHS,3.0
+Oti,1988,unmet_need,,percent,contraception,mics-indicators,,False,DHS,
+Oti,1993,unmet_need,41.5,percent,contraception,mics-indicators,Volta (pre 2022),True,DHS,5.0
+Oti,1998,unmet_need,39.3,percent,contraception,mics-indicators,Volta (pre 2022),True,DHS,5.0
+Oti,2003,unmet_need,40.6,percent,contraception,mics-indicators,Volta (pre 2022),True,DHS,5.0
+Oti,2008,unmet_need,34.8,percent,contraception,mics-indicators,Volta (pre 2022),True,DHS,5.0
+Oti,2014,unmet_need,36.3,percent,contraception,mics-indicators,Volta (pre 2022),True,DHS,6.0
+Oti,2016,unmet_need,,percent,contraception,mics-indicators,,False,MIS,2.0
+Oti,2019,unmet_need,,percent,contraception,mics-indicators,,False,MIS,3.0
+Oti,2022,unmet_need,25.7,percent,contraception,mics-indicators,Oti,False,DHS,3.0
+Ahafo,1988,unmet_need,,percent,contraception,mics-indicators,,False,DHS,
+Ahafo,1993,unmet_need,40.1,percent,contraception,mics-indicators,Brong-Ahafo,True,DHS,5.0
+Ahafo,1998,unmet_need,35.9,percent,contraception,mics-indicators,Brong-Ahafo,True,DHS,5.0
+Ahafo,2003,unmet_need,32.5,percent,contraception,mics-indicators,Brong-Ahafo,True,DHS,5.0
+Ahafo,2008,unmet_need,35.3,percent,contraception,mics-indicators,Brong-Ahafo,True,DHS,5.0
+Ahafo,2014,unmet_need,26.5,percent,contraception,mics-indicators,Brong-Ahafo,True,DHS,6.0
+Ahafo,2016,unmet_need,,percent,contraception,mics-indicators,,False,MIS,2.0
+Ahafo,2019,unmet_need,,percent,contraception,mics-indicators,,False,MIS,3.0
+Ahafo,2022,unmet_need,24.1,percent,contraception,mics-indicators,Ahafo,False,DHS,3.0
+Bono,1988,unmet_need,,percent,contraception,mics-indicators,,False,DHS,
+Bono,1993,unmet_need,40.1,percent,contraception,mics-indicators,Brong-Ahafo,True,DHS,5.0
+Bono,1998,unmet_need,35.9,percent,contraception,mics-indicators,Brong-Ahafo,True,DHS,5.0
+Bono,2003,unmet_need,32.5,percent,contraception,mics-indicators,Brong-Ahafo,True,DHS,5.0
+Bono,2008,unmet_need,35.3,percent,contraception,mics-indicators,Brong-Ahafo,True,DHS,5.0
+Bono,2014,unmet_need,26.5,percent,contraception,mics-indicators,Brong-Ahafo,True,DHS,6.0
+Bono,2016,unmet_need,,percent,contraception,mics-indicators,,False,MIS,2.0
+Bono,2019,unmet_need,,percent,contraception,mics-indicators,,False,MIS,3.0
+Bono,2022,unmet_need,23.7,percent,contraception,mics-indicators,Bono,False,DHS,3.0
+Bono East,1988,unmet_need,,percent,contraception,mics-indicators,,False,DHS,
+Bono East,1993,unmet_need,40.1,percent,contraception,mics-indicators,Brong-Ahafo,True,DHS,5.0
+Bono East,1998,unmet_need,35.9,percent,contraception,mics-indicators,Brong-Ahafo,True,DHS,5.0
+Bono East,2003,unmet_need,32.5,percent,contraception,mics-indicators,Brong-Ahafo,True,DHS,5.0
+Bono East,2008,unmet_need,35.3,percent,contraception,mics-indicators,Brong-Ahafo,True,DHS,5.0
+Bono East,2014,unmet_need,26.5,percent,contraception,mics-indicators,Brong-Ahafo,True,DHS,6.0
+Bono East,2016,unmet_need,,percent,contraception,mics-indicators,,False,MIS,2.0
+Bono East,2019,unmet_need,,percent,contraception,mics-indicators,,False,MIS,3.0
+Bono East,2022,unmet_need,29.6,percent,contraception,mics-indicators,Bono East,False,DHS,3.0
+Northern,1988,unmet_need,,percent,contraception,mics-indicators,,False,DHS,
+Northern,1993,unmet_need,30.6,percent,contraception,mics-indicators,Northern (pre 2022),True,DHS,5.0
+Northern,1998,unmet_need,31.4,percent,contraception,mics-indicators,Northern (pre 2022),True,DHS,5.0
+Northern,2003,unmet_need,35.3,percent,contraception,mics-indicators,Northern (pre 2022),True,DHS,5.0
+Northern,2008,unmet_need,32.5,percent,contraception,mics-indicators,Northern (pre 2022),True,DHS,5.0
+Northern,2014,unmet_need,27.8,percent,contraception,mics-indicators,Northern (pre 2022),True,DHS,6.0
+Northern,2016,unmet_need,,percent,contraception,mics-indicators,,False,MIS,2.0
+Northern,2019,unmet_need,,percent,contraception,mics-indicators,,False,MIS,3.0
+Northern,2022,unmet_need,22.3,percent,contraception,mics-indicators,Northern(post 2022),True,DHS,3.0
+Savannah,1988,unmet_need,,percent,contraception,mics-indicators,,False,DHS,
+Savannah,1993,unmet_need,30.6,percent,contraception,mics-indicators,Northern (pre 2022),True,DHS,5.0
+Savannah,1998,unmet_need,31.4,percent,contraception,mics-indicators,Northern (pre 2022),True,DHS,5.0
+Savannah,2003,unmet_need,35.3,percent,contraception,mics-indicators,Northern (pre 2022),True,DHS,5.0
+Savannah,2008,unmet_need,32.5,percent,contraception,mics-indicators,Northern (pre 2022),True,DHS,5.0
+Savannah,2014,unmet_need,27.8,percent,contraception,mics-indicators,Northern (pre 2022),True,DHS,6.0
+Savannah,2016,unmet_need,,percent,contraception,mics-indicators,,False,MIS,2.0
+Savannah,2019,unmet_need,,percent,contraception,mics-indicators,,False,MIS,3.0
+Savannah,2022,unmet_need,21.4,percent,contraception,mics-indicators,Savannah,False,DHS,3.0
+North East,1988,unmet_need,,percent,contraception,mics-indicators,,False,DHS,
+North East,1993,unmet_need,30.6,percent,contraception,mics-indicators,Northern (pre 2022),True,DHS,5.0
+North East,1998,unmet_need,31.4,percent,contraception,mics-indicators,Northern (pre 2022),True,DHS,5.0
+North East,2003,unmet_need,35.3,percent,contraception,mics-indicators,Northern (pre 2022),True,DHS,5.0
+North East,2008,unmet_need,32.5,percent,contraception,mics-indicators,Northern (pre 2022),True,DHS,5.0
+North East,2014,unmet_need,27.8,percent,contraception,mics-indicators,Northern (pre 2022),True,DHS,6.0
+North East,2016,unmet_need,,percent,contraception,mics-indicators,,False,MIS,2.0
+North East,2019,unmet_need,,percent,contraception,mics-indicators,,False,MIS,3.0
+North East,2022,unmet_need,22.5,percent,contraception,mics-indicators,Northeast,True,DHS,3.0
+Ashanti,1988,edu_secondary_women,,percent,covariate,select-education-indicators,,False,DHS,
+Ashanti,1993,edu_secondary_women,7.7,percent,covariate,select-education-indicators,Ashanti,False,DHS,5.0
+Ashanti,1998,edu_secondary_women,60.8,percent,covariate,select-education-indicators,Ashanti,False,DHS,5.0
+Ashanti,2003,edu_secondary_women,64.2,percent,covariate,select-education-indicators,Ashanti,False,DHS,5.0
+Ashanti,2008,edu_secondary_women,70.9,percent,covariate,select-education-indicators,Ashanti,False,DHS,5.0
+Ashanti,2014,edu_secondary_women,73.8,percent,covariate,select-education-indicators,Ashanti,False,DHS,6.0
+Ashanti,2016,edu_secondary_women,76.0,percent,covariate,select-education-indicators,Ashanti,False,MIS,2.0
+Ashanti,2019,edu_secondary_women,70.8,percent,covariate,select-education-indicators,Ashanti,False,MIS,3.0
+Ashanti,2022,edu_secondary_women,79.8,percent,covariate,select-education-indicators,Ashanti,False,DHS,3.0
+Central,1988,edu_secondary_women,,percent,covariate,select-education-indicators,,False,DHS,
+Central,1993,edu_secondary_women,7.5,percent,covariate,select-education-indicators,Central,False,DHS,5.0
+Central,1998,edu_secondary_women,53.0,percent,covariate,select-education-indicators,Central,False,DHS,5.0
+Central,2003,edu_secondary_women,46.7,percent,covariate,select-education-indicators,Central,False,DHS,5.0
+Central,2008,edu_secondary_women,57.0,percent,covariate,select-education-indicators,Central,False,DHS,5.0
+Central,2014,edu_secondary_women,67.0,percent,covariate,select-education-indicators,Central,False,DHS,6.0
+Central,2016,edu_secondary_women,62.9,percent,covariate,select-education-indicators,Central,False,MIS,2.0
+Central,2019,edu_secondary_women,69.1,percent,covariate,select-education-indicators,Central,False,MIS,3.0
+Central,2022,edu_secondary_women,76.6,percent,covariate,select-education-indicators,Central,False,DHS,3.0
+Greater Accra,1988,edu_secondary_women,,percent,covariate,select-education-indicators,,False,DHS,
+Greater Accra,1993,edu_secondary_women,28.2,percent,covariate,select-education-indicators,Greater Accra,False,DHS,5.0
+Greater Accra,1998,edu_secondary_women,69.6,percent,covariate,select-education-indicators,Greater Accra,False,DHS,5.0
+Greater Accra,2003,edu_secondary_women,71.2,percent,covariate,select-education-indicators,Greater Accra,False,DHS,5.0
+Greater Accra,2008,edu_secondary_women,77.6,percent,covariate,select-education-indicators,Greater Accra,False,DHS,5.0
+Greater Accra,2014,edu_secondary_women,77.5,percent,covariate,select-education-indicators,Greater Accra,False,DHS,6.0
+Greater Accra,2016,edu_secondary_women,76.5,percent,covariate,select-education-indicators,Greater Accra,False,MIS,2.0
+Greater Accra,2019,edu_secondary_women,78.0,percent,covariate,select-education-indicators,Greater Accra,False,MIS,3.0
+Greater Accra,2022,edu_secondary_women,84.6,percent,covariate,select-education-indicators,Greater Accra,False,DHS,3.0
+Eastern,1988,edu_secondary_women,,percent,covariate,select-education-indicators,,False,DHS,
+Eastern,1993,edu_secondary_women,10.6,percent,covariate,select-education-indicators,Eastern,False,DHS,5.0
+Eastern,1998,edu_secondary_women,62.7,percent,covariate,select-education-indicators,Eastern,False,DHS,5.0
+Eastern,2003,edu_secondary_women,60.6,percent,covariate,select-education-indicators,Eastern,False,DHS,5.0
+Eastern,2008,edu_secondary_women,65.4,percent,covariate,select-education-indicators,Eastern,False,DHS,5.0
+Eastern,2014,edu_secondary_women,68.0,percent,covariate,select-education-indicators,Eastern,False,DHS,6.0
+Eastern,2016,edu_secondary_women,69.8,percent,covariate,select-education-indicators,Eastern,False,MIS,2.0
+Eastern,2019,edu_secondary_women,75.4,percent,covariate,select-education-indicators,Eastern,False,MIS,3.0
+Eastern,2022,edu_secondary_women,75.5,percent,covariate,select-education-indicators,Eastern,False,DHS,3.0
+Upper East,1988,edu_secondary_women,,percent,covariate,select-education-indicators,,False,DHS,
+Upper East,1993,edu_secondary_women,8.3,percent,covariate,select-education-indicators,Upper East,False,DHS,5.0
+Upper East,1998,edu_secondary_women,16.3,percent,covariate,select-education-indicators,Upper East,False,DHS,5.0
+Upper East,2003,edu_secondary_women,15.8,percent,covariate,select-education-indicators,Upper East,False,DHS,5.0
+Upper East,2008,edu_secondary_women,27.0,percent,covariate,select-education-indicators,Upper East,False,DHS,5.0
+Upper East,2014,edu_secondary_women,32.9,percent,covariate,select-education-indicators,Upper East,False,DHS,6.0
+Upper East,2016,edu_secondary_women,38.3,percent,covariate,select-education-indicators,Upper East,False,MIS,2.0
+Upper East,2019,edu_secondary_women,41.8,percent,covariate,select-education-indicators,Upper East,False,MIS,3.0
+Upper East,2022,edu_secondary_women,56.8,percent,covariate,select-education-indicators,Upper East,False,DHS,3.0
+Upper West,1988,edu_secondary_women,,percent,covariate,select-education-indicators,,False,DHS,
+Upper West,1993,edu_secondary_women,3.1,percent,covariate,select-education-indicators,Upper West,False,DHS,5.0
+Upper West,1998,edu_secondary_women,16.1,percent,covariate,select-education-indicators,Upper West,False,DHS,5.0
+Upper West,2003,edu_secondary_women,21.5,percent,covariate,select-education-indicators,Upper West,False,DHS,5.0
+Upper West,2008,edu_secondary_women,28.4,percent,covariate,select-education-indicators,Upper West,False,DHS,5.0
+Upper West,2014,edu_secondary_women,31.3,percent,covariate,select-education-indicators,Upper West,False,DHS,6.0
+Upper West,2016,edu_secondary_women,42.3,percent,covariate,select-education-indicators,Upper West,False,MIS,2.0
+Upper West,2019,edu_secondary_women,37.6,percent,covariate,select-education-indicators,Upper West,False,MIS,3.0
+Upper West,2022,edu_secondary_women,47.2,percent,covariate,select-education-indicators,Upper West,False,DHS,3.0
+Western,1988,edu_secondary_women,,percent,covariate,select-education-indicators,,False,DHS,
+Western,1993,edu_secondary_women,9.5,percent,covariate,select-education-indicators,Western (pre 2022),True,DHS,5.0
+Western,1998,edu_secondary_women,50.9,percent,covariate,select-education-indicators,Western (pre 2022),True,DHS,5.0
+Western,2003,edu_secondary_women,53.2,percent,covariate,select-education-indicators,Western (pre 2022),True,DHS,5.0
+Western,2008,edu_secondary_women,61.7,percent,covariate,select-education-indicators,Western (pre 2022),True,DHS,5.0
+Western,2014,edu_secondary_women,65.9,percent,covariate,select-education-indicators,Western (pre 2022),True,DHS,6.0
+Western,2016,edu_secondary_women,64.6,percent,covariate,select-education-indicators,Western (pre 2022),True,MIS,2.0
+Western,2019,edu_secondary_women,71.7,percent,covariate,select-education-indicators,Western (pre 2022),True,MIS,3.0
+Western,2022,edu_secondary_women,76.9,percent,covariate,select-education-indicators,Western (post 2022),True,DHS,3.0
+Western North,1988,edu_secondary_women,,percent,covariate,select-education-indicators,,False,DHS,
+Western North,1993,edu_secondary_women,9.5,percent,covariate,select-education-indicators,Western (pre 2022),True,DHS,5.0
+Western North,1998,edu_secondary_women,50.9,percent,covariate,select-education-indicators,Western (pre 2022),True,DHS,5.0
+Western North,2003,edu_secondary_women,53.2,percent,covariate,select-education-indicators,Western (pre 2022),True,DHS,5.0
+Western North,2008,edu_secondary_women,61.7,percent,covariate,select-education-indicators,Western (pre 2022),True,DHS,5.0
+Western North,2014,edu_secondary_women,65.9,percent,covariate,select-education-indicators,Western (pre 2022),True,DHS,6.0
+Western North,2016,edu_secondary_women,64.6,percent,covariate,select-education-indicators,Western (pre 2022),True,MIS,2.0
+Western North,2019,edu_secondary_women,71.7,percent,covariate,select-education-indicators,Western (pre 2022),True,MIS,3.0
+Western North,2022,edu_secondary_women,71.1,percent,covariate,select-education-indicators,Western North,False,DHS,3.0
+Volta,1988,edu_secondary_women,,percent,covariate,select-education-indicators,,False,DHS,
+Volta,1993,edu_secondary_women,7.1,percent,covariate,select-education-indicators,Volta (pre 2022),True,DHS,5.0
+Volta,1998,edu_secondary_women,54.6,percent,covariate,select-education-indicators,Volta (pre 2022),True,DHS,5.0
+Volta,2003,edu_secondary_women,52.0,percent,covariate,select-education-indicators,Volta (pre 2022),True,DHS,5.0
+Volta,2008,edu_secondary_women,52.4,percent,covariate,select-education-indicators,Volta (pre 2022),True,DHS,5.0
+Volta,2014,edu_secondary_women,58.7,percent,covariate,select-education-indicators,Volta (pre 2022),True,DHS,6.0
+Volta,2016,edu_secondary_women,62.3,percent,covariate,select-education-indicators,Volta (pre 2022),True,MIS,2.0
+Volta,2019,edu_secondary_women,58.1,percent,covariate,select-education-indicators,Volta (pre 2022),True,MIS,3.0
+Volta,2022,edu_secondary_women,76.4,percent,covariate,select-education-indicators,Volta (post 2022),True,DHS,3.0
+Oti,1988,edu_secondary_women,,percent,covariate,select-education-indicators,,False,DHS,
+Oti,1993,edu_secondary_women,7.1,percent,covariate,select-education-indicators,Volta (pre 2022),True,DHS,5.0
+Oti,1998,edu_secondary_women,54.6,percent,covariate,select-education-indicators,Volta (pre 2022),True,DHS,5.0
+Oti,2003,edu_secondary_women,52.0,percent,covariate,select-education-indicators,Volta (pre 2022),True,DHS,5.0
+Oti,2008,edu_secondary_women,52.4,percent,covariate,select-education-indicators,Volta (pre 2022),True,DHS,5.0
+Oti,2014,edu_secondary_women,58.7,percent,covariate,select-education-indicators,Volta (pre 2022),True,DHS,6.0
+Oti,2016,edu_secondary_women,62.3,percent,covariate,select-education-indicators,Volta (pre 2022),True,MIS,2.0
+Oti,2019,edu_secondary_women,58.1,percent,covariate,select-education-indicators,Volta (pre 2022),True,MIS,3.0
+Oti,2022,edu_secondary_women,48.9,percent,covariate,select-education-indicators,Oti,False,DHS,3.0
+Ahafo,1988,edu_secondary_women,,percent,covariate,select-education-indicators,,False,DHS,
+Ahafo,1993,edu_secondary_women,6.8,percent,covariate,select-education-indicators,Brong-Ahafo,True,DHS,5.0
+Ahafo,1998,edu_secondary_women,50.6,percent,covariate,select-education-indicators,Brong-Ahafo,True,DHS,5.0
+Ahafo,2003,edu_secondary_women,49.7,percent,covariate,select-education-indicators,Brong-Ahafo,True,DHS,5.0
+Ahafo,2008,edu_secondary_women,55.3,percent,covariate,select-education-indicators,Brong-Ahafo,True,DHS,5.0
+Ahafo,2014,edu_secondary_women,57.0,percent,covariate,select-education-indicators,Brong-Ahafo,True,DHS,6.0
+Ahafo,2016,edu_secondary_women,62.7,percent,covariate,select-education-indicators,Brong-Ahafo,True,MIS,2.0
+Ahafo,2019,edu_secondary_women,65.6,percent,covariate,select-education-indicators,Brong-Ahafo,True,MIS,3.0
+Ahafo,2022,edu_secondary_women,70.7,percent,covariate,select-education-indicators,Ahafo,False,DHS,3.0
+Bono,1988,edu_secondary_women,,percent,covariate,select-education-indicators,,False,DHS,
+Bono,1993,edu_secondary_women,6.8,percent,covariate,select-education-indicators,Brong-Ahafo,True,DHS,5.0
+Bono,1998,edu_secondary_women,50.6,percent,covariate,select-education-indicators,Brong-Ahafo,True,DHS,5.0
+Bono,2003,edu_secondary_women,49.7,percent,covariate,select-education-indicators,Brong-Ahafo,True,DHS,5.0
+Bono,2008,edu_secondary_women,55.3,percent,covariate,select-education-indicators,Brong-Ahafo,True,DHS,5.0
+Bono,2014,edu_secondary_women,57.0,percent,covariate,select-education-indicators,Brong-Ahafo,True,DHS,6.0
+Bono,2016,edu_secondary_women,62.7,percent,covariate,select-education-indicators,Brong-Ahafo,True,MIS,2.0
+Bono,2019,edu_secondary_women,65.6,percent,covariate,select-education-indicators,Brong-Ahafo,True,MIS,3.0
+Bono,2022,edu_secondary_women,77.4,percent,covariate,select-education-indicators,Bono,False,DHS,3.0
+Bono East,1988,edu_secondary_women,,percent,covariate,select-education-indicators,,False,DHS,
+Bono East,1993,edu_secondary_women,6.8,percent,covariate,select-education-indicators,Brong-Ahafo,True,DHS,5.0
+Bono East,1998,edu_secondary_women,50.6,percent,covariate,select-education-indicators,Brong-Ahafo,True,DHS,5.0
+Bono East,2003,edu_secondary_women,49.7,percent,covariate,select-education-indicators,Brong-Ahafo,True,DHS,5.0
+Bono East,2008,edu_secondary_women,55.3,percent,covariate,select-education-indicators,Brong-Ahafo,True,DHS,5.0
+Bono East,2014,edu_secondary_women,57.0,percent,covariate,select-education-indicators,Brong-Ahafo,True,DHS,6.0
+Bono East,2016,edu_secondary_women,62.7,percent,covariate,select-education-indicators,Brong-Ahafo,True,MIS,2.0
+Bono East,2019,edu_secondary_women,65.6,percent,covariate,select-education-indicators,Brong-Ahafo,True,MIS,3.0
+Bono East,2022,edu_secondary_women,57.8,percent,covariate,select-education-indicators,Bono East,False,DHS,3.0
+Northern,1988,edu_secondary_women,,percent,covariate,select-education-indicators,,False,DHS,
+Northern,1993,edu_secondary_women,3.4,percent,covariate,select-education-indicators,Northern (pre 2022),True,DHS,5.0
+Northern,1998,edu_secondary_women,11.3,percent,covariate,select-education-indicators,Northern (pre 2022),True,DHS,5.0
+Northern,2003,edu_secondary_women,12.7,percent,covariate,select-education-indicators,Northern (pre 2022),True,DHS,5.0
+Northern,2008,edu_secondary_women,23.6,percent,covariate,select-education-indicators,Northern (pre 2022),True,DHS,5.0
+Northern,2014,edu_secondary_women,23.1,percent,covariate,select-education-indicators,Northern (pre 2022),True,DHS,6.0
+Northern,2016,edu_secondary_women,27.4,percent,covariate,select-education-indicators,Northern (pre 2022),True,MIS,2.0
+Northern,2019,edu_secondary_women,27.6,percent,covariate,select-education-indicators,Northern (pre 2022),True,MIS,3.0
+Northern,2022,edu_secondary_women,37.8,percent,covariate,select-education-indicators,Northern(post 2022),True,DHS,3.0
+Savannah,1988,edu_secondary_women,,percent,covariate,select-education-indicators,,False,DHS,
+Savannah,1993,edu_secondary_women,3.4,percent,covariate,select-education-indicators,Northern (pre 2022),True,DHS,5.0
+Savannah,1998,edu_secondary_women,11.3,percent,covariate,select-education-indicators,Northern (pre 2022),True,DHS,5.0
+Savannah,2003,edu_secondary_women,12.7,percent,covariate,select-education-indicators,Northern (pre 2022),True,DHS,5.0
+Savannah,2008,edu_secondary_women,23.6,percent,covariate,select-education-indicators,Northern (pre 2022),True,DHS,5.0
+Savannah,2014,edu_secondary_women,23.1,percent,covariate,select-education-indicators,Northern (pre 2022),True,DHS,6.0
+Savannah,2016,edu_secondary_women,27.4,percent,covariate,select-education-indicators,Northern (pre 2022),True,MIS,2.0
+Savannah,2019,edu_secondary_women,27.6,percent,covariate,select-education-indicators,Northern (pre 2022),True,MIS,3.0
+Savannah,2022,edu_secondary_women,31.8,percent,covariate,select-education-indicators,Savannah,False,DHS,3.0
+North East,1988,edu_secondary_women,,percent,covariate,select-education-indicators,,False,DHS,
+North East,1993,edu_secondary_women,3.4,percent,covariate,select-education-indicators,Northern (pre 2022),True,DHS,5.0
+North East,1998,edu_secondary_women,11.3,percent,covariate,select-education-indicators,Northern (pre 2022),True,DHS,5.0
+North East,2003,edu_secondary_women,12.7,percent,covariate,select-education-indicators,Northern (pre 2022),True,DHS,5.0
+North East,2008,edu_secondary_women,23.6,percent,covariate,select-education-indicators,Northern (pre 2022),True,DHS,5.0
+North East,2014,edu_secondary_women,23.1,percent,covariate,select-education-indicators,Northern (pre 2022),True,DHS,6.0
+North East,2016,edu_secondary_women,27.4,percent,covariate,select-education-indicators,Northern (pre 2022),True,MIS,2.0
+North East,2019,edu_secondary_women,27.6,percent,covariate,select-education-indicators,Northern (pre 2022),True,MIS,3.0
+North East,2022,edu_secondary_women,33.2,percent,covariate,select-education-indicators,Northeast,True,DHS,3.0
+Ashanti,1988,age_first_birth,19.3,years,covariate,dhs-mobile,Ashanti,False,DHS,
+Ashanti,1993,age_first_birth,19.9,years,covariate,dhs-mobile,Ashanti,False,DHS,5.0
+Ashanti,1998,age_first_birth,19.9,years,covariate,dhs-mobile,Ashanti,False,DHS,5.0
+Ashanti,2003,age_first_birth,20.2,years,covariate,dhs-mobile,Ashanti,False,DHS,5.0
+Ashanti,2008,age_first_birth,20.8,years,covariate,dhs-mobile,Ashanti,False,DHS,5.0
+Ashanti,2014,age_first_birth,21.5,years,covariate,dhs-mobile,Ashanti,False,DHS,6.0
+Ashanti,2016,age_first_birth,,years,covariate,dhs-mobile,,False,MIS,2.0
+Ashanti,2019,age_first_birth,,years,covariate,dhs-mobile,,False,MIS,3.0
+Ashanti,2022,age_first_birth,22.2,years,covariate,dhs-mobile,Ashanti,False,DHS,3.0
+Central,1988,age_first_birth,19.3,years,covariate,dhs-mobile,Central,False,DHS,
+Central,1993,age_first_birth,19.7,years,covariate,dhs-mobile,Central,False,DHS,5.0
+Central,1998,age_first_birth,20.0,years,covariate,dhs-mobile,Central,False,DHS,5.0
+Central,2003,age_first_birth,20.1,years,covariate,dhs-mobile,Central,False,DHS,5.0
+Central,2008,age_first_birth,20.2,years,covariate,dhs-mobile,Central,False,DHS,5.0
+Central,2014,age_first_birth,20.5,years,covariate,dhs-mobile,Central,False,DHS,6.0
+Central,2016,age_first_birth,,years,covariate,dhs-mobile,,False,MIS,2.0
+Central,2019,age_first_birth,,years,covariate,dhs-mobile,,False,MIS,3.0
+Central,2022,age_first_birth,21.4,years,covariate,dhs-mobile,Central,False,DHS,3.0
+Greater Accra,1988,age_first_birth,20.5,years,covariate,dhs-mobile,Greater Accra,False,DHS,
+Greater Accra,1993,age_first_birth,21.6,years,covariate,dhs-mobile,Greater Accra,False,DHS,5.0
+Greater Accra,1998,age_first_birth,22.0,years,covariate,dhs-mobile,Greater Accra,False,DHS,5.0
+Greater Accra,2003,age_first_birth,21.8,years,covariate,dhs-mobile,Greater Accra,False,DHS,5.0
+Greater Accra,2008,age_first_birth,23.2,years,covariate,dhs-mobile,Greater Accra,False,DHS,5.0
+Greater Accra,2014,age_first_birth,24.0,years,covariate,dhs-mobile,Greater Accra,False,DHS,6.0
+Greater Accra,2016,age_first_birth,,years,covariate,dhs-mobile,,False,MIS,2.0
+Greater Accra,2019,age_first_birth,,years,covariate,dhs-mobile,,False,MIS,3.0
+Greater Accra,2022,age_first_birth,24.5,years,covariate,dhs-mobile,Greater Accra,False,DHS,3.0
+Eastern,1988,age_first_birth,19.2,years,covariate,dhs-mobile,Eastern,False,DHS,
+Eastern,1993,age_first_birth,20.4,years,covariate,dhs-mobile,Eastern,False,DHS,5.0
+Eastern,1998,age_first_birth,20.0,years,covariate,dhs-mobile,Eastern,False,DHS,5.0
+Eastern,2003,age_first_birth,20.3,years,covariate,dhs-mobile,Eastern,False,DHS,5.0
+Eastern,2008,age_first_birth,20.2,years,covariate,dhs-mobile,Eastern,False,DHS,5.0
+Eastern,2014,age_first_birth,20.7,years,covariate,dhs-mobile,Eastern,False,DHS,6.0
+Eastern,2016,age_first_birth,,years,covariate,dhs-mobile,,False,MIS,2.0
+Eastern,2019,age_first_birth,,years,covariate,dhs-mobile,,False,MIS,3.0
+Eastern,2022,age_first_birth,21.8,years,covariate,dhs-mobile,Eastern,False,DHS,3.0
+Upper East,1988,age_first_birth,19.3,years,covariate,dhs-mobile,"Northern, Upper West, Upper East",True,DHS,
+Upper East,1993,age_first_birth,20.1,years,covariate,dhs-mobile,Upper East,False,DHS,5.0
+Upper East,1998,age_first_birth,20.8,years,covariate,dhs-mobile,Upper East,False,DHS,5.0
+Upper East,2003,age_first_birth,19.9,years,covariate,dhs-mobile,Upper East,False,DHS,5.0
+Upper East,2008,age_first_birth,19.5,years,covariate,dhs-mobile,Upper East,False,DHS,5.0
+Upper East,2014,age_first_birth,20.2,years,covariate,dhs-mobile,Upper East,False,DHS,6.0
+Upper East,2016,age_first_birth,,years,covariate,dhs-mobile,,False,MIS,2.0
+Upper East,2019,age_first_birth,,years,covariate,dhs-mobile,,False,MIS,3.0
+Upper East,2022,age_first_birth,21.0,years,covariate,dhs-mobile,Upper East,False,DHS,3.0
+Upper West,1988,age_first_birth,19.3,years,covariate,dhs-mobile,"Northern, Upper West, Upper East",True,DHS,
+Upper West,1993,age_first_birth,21.0,years,covariate,dhs-mobile,Upper West,False,DHS,5.0
+Upper West,1998,age_first_birth,21.2,years,covariate,dhs-mobile,Upper West,False,DHS,5.0
+Upper West,2003,age_first_birth,20.5,years,covariate,dhs-mobile,Upper West,False,DHS,5.0
+Upper West,2008,age_first_birth,19.5,years,covariate,dhs-mobile,Upper West,False,DHS,5.0
+Upper West,2014,age_first_birth,20.5,years,covariate,dhs-mobile,Upper West,False,DHS,6.0
+Upper West,2016,age_first_birth,,years,covariate,dhs-mobile,,False,MIS,2.0
+Upper West,2019,age_first_birth,,years,covariate,dhs-mobile,,False,MIS,3.0
+Upper West,2022,age_first_birth,22.1,years,covariate,dhs-mobile,Upper West,False,DHS,3.0
+Western,1988,age_first_birth,19.2,years,covariate,dhs-mobile,Western (pre 2022),True,DHS,
+Western,1993,age_first_birth,19.1,years,covariate,dhs-mobile,Western (pre 2022),True,DHS,5.0
+Western,1998,age_first_birth,19.7,years,covariate,dhs-mobile,Western (pre 2022),True,DHS,5.0
+Western,2003,age_first_birth,20.0,years,covariate,dhs-mobile,Western (pre 2022),True,DHS,5.0
+Western,2008,age_first_birth,21.0,years,covariate,dhs-mobile,Western (pre 2022),True,DHS,5.0
+Western,2014,age_first_birth,21.3,years,covariate,dhs-mobile,Western (pre 2022),True,DHS,6.0
+Western,2016,age_first_birth,,years,covariate,dhs-mobile,,False,MIS,2.0
+Western,2019,age_first_birth,,years,covariate,dhs-mobile,,False,MIS,3.0
+Western,2022,age_first_birth,21.6,years,covariate,dhs-mobile,Western (post 2022),True,DHS,3.0
+Western North,1988,age_first_birth,19.2,years,covariate,dhs-mobile,Western (pre 2022),True,DHS,
+Western North,1993,age_first_birth,19.1,years,covariate,dhs-mobile,Western (pre 2022),True,DHS,5.0
+Western North,1998,age_first_birth,19.7,years,covariate,dhs-mobile,Western (pre 2022),True,DHS,5.0
+Western North,2003,age_first_birth,20.0,years,covariate,dhs-mobile,Western (pre 2022),True,DHS,5.0
+Western North,2008,age_first_birth,21.0,years,covariate,dhs-mobile,Western (pre 2022),True,DHS,5.0
+Western North,2014,age_first_birth,21.3,years,covariate,dhs-mobile,Western (pre 2022),True,DHS,6.0
+Western North,2016,age_first_birth,,years,covariate,dhs-mobile,,False,MIS,2.0
+Western North,2019,age_first_birth,,years,covariate,dhs-mobile,,False,MIS,3.0
+Western North,2022,age_first_birth,21.1,years,covariate,dhs-mobile,Western North,False,DHS,3.0
+Volta,1988,age_first_birth,20.0,years,covariate,dhs-mobile,Volta (pre 2022),True,DHS,
+Volta,1993,age_first_birth,20.0,years,covariate,dhs-mobile,Volta (pre 2022),True,DHS,5.0
+Volta,1998,age_first_birth,20.4,years,covariate,dhs-mobile,Volta (pre 2022),True,DHS,5.0
+Volta,2003,age_first_birth,20.7,years,covariate,dhs-mobile,Volta (pre 2022),True,DHS,5.0
+Volta,2008,age_first_birth,20.4,years,covariate,dhs-mobile,Volta (pre 2022),True,DHS,5.0
+Volta,2014,age_first_birth,21.1,years,covariate,dhs-mobile,Volta (pre 2022),True,DHS,6.0
+Volta,2016,age_first_birth,,years,covariate,dhs-mobile,,False,MIS,2.0
+Volta,2019,age_first_birth,,years,covariate,dhs-mobile,,False,MIS,3.0
+Volta,2022,age_first_birth,22.2,years,covariate,dhs-mobile,Volta (post 2022),True,DHS,3.0
+Oti,1988,age_first_birth,20.0,years,covariate,dhs-mobile,Volta (pre 2022),True,DHS,
+Oti,1993,age_first_birth,20.0,years,covariate,dhs-mobile,Volta (pre 2022),True,DHS,5.0
+Oti,1998,age_first_birth,20.4,years,covariate,dhs-mobile,Volta (pre 2022),True,DHS,5.0
+Oti,2003,age_first_birth,20.7,years,covariate,dhs-mobile,Volta (pre 2022),True,DHS,5.0
+Oti,2008,age_first_birth,20.4,years,covariate,dhs-mobile,Volta (pre 2022),True,DHS,5.0
+Oti,2014,age_first_birth,21.1,years,covariate,dhs-mobile,Volta (pre 2022),True,DHS,6.0
+Oti,2016,age_first_birth,,years,covariate,dhs-mobile,,False,MIS,2.0
+Oti,2019,age_first_birth,,years,covariate,dhs-mobile,,False,MIS,3.0
+Oti,2022,age_first_birth,20.6,years,covariate,dhs-mobile,Oti,False,DHS,3.0
+Ahafo,1988,age_first_birth,19.6,years,covariate,dhs-mobile,Brong-Ahafo,True,DHS,
+Ahafo,1993,age_first_birth,19.6,years,covariate,dhs-mobile,Brong-Ahafo,True,DHS,5.0
+Ahafo,1998,age_first_birth,19.6,years,covariate,dhs-mobile,Brong-Ahafo,True,DHS,5.0
+Ahafo,2003,age_first_birth,20.2,years,covariate,dhs-mobile,Brong-Ahafo,True,DHS,5.0
+Ahafo,2008,age_first_birth,20.2,years,covariate,dhs-mobile,Brong-Ahafo,True,DHS,5.0
+Ahafo,2014,age_first_birth,20.8,years,covariate,dhs-mobile,Brong-Ahafo,True,DHS,6.0
+Ahafo,2016,age_first_birth,,years,covariate,dhs-mobile,,False,MIS,2.0
+Ahafo,2019,age_first_birth,,years,covariate,dhs-mobile,,False,MIS,3.0
+Ahafo,2022,age_first_birth,21.1,years,covariate,dhs-mobile,Ahafo,False,DHS,3.0
+Bono,1988,age_first_birth,19.6,years,covariate,dhs-mobile,Brong-Ahafo,True,DHS,
+Bono,1993,age_first_birth,19.6,years,covariate,dhs-mobile,Brong-Ahafo,True,DHS,5.0
+Bono,1998,age_first_birth,19.6,years,covariate,dhs-mobile,Brong-Ahafo,True,DHS,5.0
+Bono,2003,age_first_birth,20.2,years,covariate,dhs-mobile,Brong-Ahafo,True,DHS,5.0
+Bono,2008,age_first_birth,20.2,years,covariate,dhs-mobile,Brong-Ahafo,True,DHS,5.0
+Bono,2014,age_first_birth,20.8,years,covariate,dhs-mobile,Brong-Ahafo,True,DHS,6.0
+Bono,2016,age_first_birth,,years,covariate,dhs-mobile,,False,MIS,2.0
+Bono,2019,age_first_birth,,years,covariate,dhs-mobile,,False,MIS,3.0
+Bono,2022,age_first_birth,22.4,years,covariate,dhs-mobile,Bono,False,DHS,3.0
+Bono East,1988,age_first_birth,19.6,years,covariate,dhs-mobile,Brong-Ahafo,True,DHS,
+Bono East,1993,age_first_birth,19.6,years,covariate,dhs-mobile,Brong-Ahafo,True,DHS,5.0
+Bono East,1998,age_first_birth,19.6,years,covariate,dhs-mobile,Brong-Ahafo,True,DHS,5.0
+Bono East,2003,age_first_birth,20.2,years,covariate,dhs-mobile,Brong-Ahafo,True,DHS,5.0
+Bono East,2008,age_first_birth,20.2,years,covariate,dhs-mobile,Brong-Ahafo,True,DHS,5.0
+Bono East,2014,age_first_birth,20.8,years,covariate,dhs-mobile,Brong-Ahafo,True,DHS,6.0
+Bono East,2016,age_first_birth,,years,covariate,dhs-mobile,,False,MIS,2.0
+Bono East,2019,age_first_birth,,years,covariate,dhs-mobile,,False,MIS,3.0
+Bono East,2022,age_first_birth,20.8,years,covariate,dhs-mobile,Bono East,False,DHS,3.0
+Northern,1988,age_first_birth,19.3,years,covariate,dhs-mobile,"Northern, Upper West, Upper East",True,DHS,
+Northern,1993,age_first_birth,20.8,years,covariate,dhs-mobile,Northern (pre 2022),True,DHS,5.0
+Northern,1998,age_first_birth,20.2,years,covariate,dhs-mobile,Northern (pre 2022),True,DHS,5.0
+Northern,2003,age_first_birth,21.1,years,covariate,dhs-mobile,Northern (pre 2022),True,DHS,5.0
+Northern,2008,age_first_birth,20.7,years,covariate,dhs-mobile,Northern (pre 2022),True,DHS,5.0
+Northern,2014,age_first_birth,20.2,years,covariate,dhs-mobile,Northern (pre 2022),True,DHS,6.0
+Northern,2016,age_first_birth,,years,covariate,dhs-mobile,,False,MIS,2.0
+Northern,2019,age_first_birth,,years,covariate,dhs-mobile,,False,MIS,3.0
+Northern,2022,age_first_birth,21.9,years,covariate,dhs-mobile,Northern(post 2022),True,DHS,3.0
+Savannah,1988,age_first_birth,19.3,years,covariate,dhs-mobile,"Northern, Upper West, Upper East",True,DHS,
+Savannah,1993,age_first_birth,20.8,years,covariate,dhs-mobile,Northern (pre 2022),True,DHS,5.0
+Savannah,1998,age_first_birth,20.2,years,covariate,dhs-mobile,Northern (pre 2022),True,DHS,5.0
+Savannah,2003,age_first_birth,21.1,years,covariate,dhs-mobile,Northern (pre 2022),True,DHS,5.0
+Savannah,2008,age_first_birth,20.7,years,covariate,dhs-mobile,Northern (pre 2022),True,DHS,5.0
+Savannah,2014,age_first_birth,20.2,years,covariate,dhs-mobile,Northern (pre 2022),True,DHS,6.0
+Savannah,2016,age_first_birth,,years,covariate,dhs-mobile,,False,MIS,2.0
+Savannah,2019,age_first_birth,,years,covariate,dhs-mobile,,False,MIS,3.0
+Savannah,2022,age_first_birth,20.9,years,covariate,dhs-mobile,Savannah,False,DHS,3.0
+North East,1988,age_first_birth,19.3,years,covariate,dhs-mobile,"Northern, Upper West, Upper East",True,DHS,
+North East,1993,age_first_birth,20.8,years,covariate,dhs-mobile,Northern (pre 2022),True,DHS,5.0
+North East,1998,age_first_birth,20.2,years,covariate,dhs-mobile,Northern (pre 2022),True,DHS,5.0
+North East,2003,age_first_birth,21.1,years,covariate,dhs-mobile,Northern (pre 2022),True,DHS,5.0
+North East,2008,age_first_birth,20.7,years,covariate,dhs-mobile,Northern (pre 2022),True,DHS,5.0
+North East,2014,age_first_birth,20.2,years,covariate,dhs-mobile,Northern (pre 2022),True,DHS,6.0
+North East,2016,age_first_birth,,years,covariate,dhs-mobile,,False,MIS,2.0
+North East,2019,age_first_birth,,years,covariate,dhs-mobile,,False,MIS,3.0
+North East,2022,age_first_birth,20.5,years,covariate,dhs-mobile,Northeast,True,DHS,3.0
+Ashanti,1988,age_first_marriage,17.5,years,covariate,dhs-mobile,Ashanti,False,DHS,
+Ashanti,1993,age_first_marriage,18.6,years,covariate,dhs-mobile,Ashanti,False,DHS,5.0
+Ashanti,1998,age_first_marriage,18.8,years,covariate,dhs-mobile,Ashanti,False,DHS,5.0
+Ashanti,2003,age_first_marriage,18.9,years,covariate,dhs-mobile,Ashanti,False,DHS,5.0
+Ashanti,2008,age_first_marriage,19.5,years,covariate,dhs-mobile,Ashanti,False,DHS,5.0
+Ashanti,2014,age_first_marriage,20.8,years,covariate,dhs-mobile,Ashanti,False,DHS,6.0
+Ashanti,2016,age_first_marriage,,years,covariate,dhs-mobile,,False,MIS,2.0
+Ashanti,2019,age_first_marriage,,years,covariate,dhs-mobile,,False,MIS,3.0
+Ashanti,2022,age_first_marriage,21.3,years,covariate,dhs-mobile,Ashanti,False,DHS,3.0
+Central,1988,age_first_marriage,18.3,years,covariate,dhs-mobile,Central,False,DHS,
+Central,1993,age_first_marriage,18.5,years,covariate,dhs-mobile,Central,False,DHS,5.0
+Central,1998,age_first_marriage,19.3,years,covariate,dhs-mobile,Central,False,DHS,5.0
+Central,2003,age_first_marriage,19.1,years,covariate,dhs-mobile,Central,False,DHS,5.0
+Central,2008,age_first_marriage,19.7,years,covariate,dhs-mobile,Central,False,DHS,5.0
+Central,2014,age_first_marriage,20.0,years,covariate,dhs-mobile,Central,False,DHS,6.0
+Central,2016,age_first_marriage,,years,covariate,dhs-mobile,,False,MIS,2.0
+Central,2019,age_first_marriage,,years,covariate,dhs-mobile,,False,MIS,3.0
+Central,2022,age_first_marriage,21.3,years,covariate,dhs-mobile,Central,False,DHS,3.0
+Greater Accra,1988,age_first_marriage,18.8,years,covariate,dhs-mobile,Greater Accra,False,DHS,
+Greater Accra,1993,age_first_marriage,20.1,years,covariate,dhs-mobile,Greater Accra,False,DHS,5.0
+Greater Accra,1998,age_first_marriage,20.4,years,covariate,dhs-mobile,Greater Accra,False,DHS,5.0
+Greater Accra,2003,age_first_marriage,20.9,years,covariate,dhs-mobile,Greater Accra,False,DHS,5.0
+Greater Accra,2008,age_first_marriage,22.9,years,covariate,dhs-mobile,Greater Accra,False,DHS,5.0
+Greater Accra,2014,age_first_marriage,23.7,years,covariate,dhs-mobile,Greater Accra,False,DHS,6.0
+Greater Accra,2016,age_first_marriage,,years,covariate,dhs-mobile,,False,MIS,2.0
+Greater Accra,2019,age_first_marriage,,years,covariate,dhs-mobile,,False,MIS,3.0
+Greater Accra,2022,age_first_marriage,24.7,years,covariate,dhs-mobile,Greater Accra,False,DHS,3.0
+Eastern,1988,age_first_marriage,18.4,years,covariate,dhs-mobile,Eastern,False,DHS,
+Eastern,1993,age_first_marriage,19.1,years,covariate,dhs-mobile,Eastern,False,DHS,5.0
+Eastern,1998,age_first_marriage,18.7,years,covariate,dhs-mobile,Eastern,False,DHS,5.0
+Eastern,2003,age_first_marriage,19.8,years,covariate,dhs-mobile,Eastern,False,DHS,5.0
+Eastern,2008,age_first_marriage,19.9,years,covariate,dhs-mobile,Eastern,False,DHS,5.0
+Eastern,2014,age_first_marriage,20.4,years,covariate,dhs-mobile,Eastern,False,DHS,6.0
+Eastern,2016,age_first_marriage,,years,covariate,dhs-mobile,,False,MIS,2.0
+Eastern,2019,age_first_marriage,,years,covariate,dhs-mobile,,False,MIS,3.0
+Eastern,2022,age_first_marriage,22.1,years,covariate,dhs-mobile,Eastern,False,DHS,3.0
+Upper East,1988,age_first_marriage,17.8,years,covariate,dhs-mobile,"Northern, Upper West, Upper East",True,DHS,
+Upper East,1993,age_first_marriage,18.3,years,covariate,dhs-mobile,Upper East,False,DHS,5.0
+Upper East,1998,age_first_marriage,18.8,years,covariate,dhs-mobile,Upper East,False,DHS,5.0
+Upper East,2003,age_first_marriage,18.3,years,covariate,dhs-mobile,Upper East,False,DHS,5.0
+Upper East,2008,age_first_marriage,17.8,years,covariate,dhs-mobile,Upper East,False,DHS,5.0
+Upper East,2014,age_first_marriage,18.9,years,covariate,dhs-mobile,Upper East,False,DHS,6.0
+Upper East,2016,age_first_marriage,,years,covariate,dhs-mobile,,False,MIS,2.0
+Upper East,2019,age_first_marriage,,years,covariate,dhs-mobile,,False,MIS,3.0
+Upper East,2022,age_first_marriage,20.0,years,covariate,dhs-mobile,Upper East,False,DHS,3.0
+Upper West,1988,age_first_marriage,17.8,years,covariate,dhs-mobile,"Northern, Upper West, Upper East",True,DHS,
+Upper West,1993,age_first_marriage,18.8,years,covariate,dhs-mobile,Upper West,False,DHS,5.0
+Upper West,1998,age_first_marriage,19.2,years,covariate,dhs-mobile,Upper West,False,DHS,5.0
+Upper West,2003,age_first_marriage,19.1,years,covariate,dhs-mobile,Upper West,False,DHS,5.0
+Upper West,2008,age_first_marriage,18.1,years,covariate,dhs-mobile,Upper West,False,DHS,5.0
+Upper West,2014,age_first_marriage,18.9,years,covariate,dhs-mobile,Upper West,False,DHS,6.0
+Upper West,2016,age_first_marriage,,years,covariate,dhs-mobile,,False,MIS,2.0
+Upper West,2019,age_first_marriage,,years,covariate,dhs-mobile,,False,MIS,3.0
+Upper West,2022,age_first_marriage,21.1,years,covariate,dhs-mobile,Upper West,False,DHS,3.0
+Western,1988,age_first_marriage,18.0,years,covariate,dhs-mobile,Western (pre 2022),True,DHS,
+Western,1993,age_first_marriage,18.3,years,covariate,dhs-mobile,Western (pre 2022),True,DHS,5.0
+Western,1998,age_first_marriage,19.2,years,covariate,dhs-mobile,Western (pre 2022),True,DHS,5.0
+Western,2003,age_first_marriage,19.5,years,covariate,dhs-mobile,Western (pre 2022),True,DHS,5.0
+Western,2008,age_first_marriage,20.3,years,covariate,dhs-mobile,Western (pre 2022),True,DHS,5.0
+Western,2014,age_first_marriage,19.8,years,covariate,dhs-mobile,Western (pre 2022),True,DHS,6.0
+Western,2016,age_first_marriage,,years,covariate,dhs-mobile,,False,MIS,2.0
+Western,2019,age_first_marriage,,years,covariate,dhs-mobile,,False,MIS,3.0
+Western,2022,age_first_marriage,23.5,years,covariate,dhs-mobile,Western (post 2022),True,DHS,3.0
+Western North,1988,age_first_marriage,18.0,years,covariate,dhs-mobile,Western (pre 2022),True,DHS,
+Western North,1993,age_first_marriage,18.3,years,covariate,dhs-mobile,Western (pre 2022),True,DHS,5.0
+Western North,1998,age_first_marriage,19.2,years,covariate,dhs-mobile,Western (pre 2022),True,DHS,5.0
+Western North,2003,age_first_marriage,19.5,years,covariate,dhs-mobile,Western (pre 2022),True,DHS,5.0
+Western North,2008,age_first_marriage,20.3,years,covariate,dhs-mobile,Western (pre 2022),True,DHS,5.0
+Western North,2014,age_first_marriage,19.8,years,covariate,dhs-mobile,Western (pre 2022),True,DHS,6.0
+Western North,2016,age_first_marriage,,years,covariate,dhs-mobile,,False,MIS,2.0
+Western North,2019,age_first_marriage,,years,covariate,dhs-mobile,,False,MIS,3.0
+Western North,2022,age_first_marriage,20.4,years,covariate,dhs-mobile,Western North,False,DHS,3.0
+Volta,1988,age_first_marriage,18.7,years,covariate,dhs-mobile,Volta (pre 2022),True,DHS,
+Volta,1993,age_first_marriage,18.9,years,covariate,dhs-mobile,Volta (pre 2022),True,DHS,5.0
+Volta,1998,age_first_marriage,18.9,years,covariate,dhs-mobile,Volta (pre 2022),True,DHS,5.0
+Volta,2003,age_first_marriage,19.5,years,covariate,dhs-mobile,Volta (pre 2022),True,DHS,5.0
+Volta,2008,age_first_marriage,19.2,years,covariate,dhs-mobile,Volta (pre 2022),True,DHS,5.0
+Volta,2014,age_first_marriage,20.5,years,covariate,dhs-mobile,Volta (pre 2022),True,DHS,6.0
+Volta,2016,age_first_marriage,,years,covariate,dhs-mobile,,False,MIS,2.0
+Volta,2019,age_first_marriage,,years,covariate,dhs-mobile,,False,MIS,3.0
+Volta,2022,age_first_marriage,21.7,years,covariate,dhs-mobile,Volta (post 2022),True,DHS,3.0
+Oti,1988,age_first_marriage,18.7,years,covariate,dhs-mobile,Volta (pre 2022),True,DHS,
+Oti,1993,age_first_marriage,18.9,years,covariate,dhs-mobile,Volta (pre 2022),True,DHS,5.0
+Oti,1998,age_first_marriage,18.9,years,covariate,dhs-mobile,Volta (pre 2022),True,DHS,5.0
+Oti,2003,age_first_marriage,19.5,years,covariate,dhs-mobile,Volta (pre 2022),True,DHS,5.0
+Oti,2008,age_first_marriage,19.2,years,covariate,dhs-mobile,Volta (pre 2022),True,DHS,5.0
+Oti,2014,age_first_marriage,20.5,years,covariate,dhs-mobile,Volta (pre 2022),True,DHS,6.0
+Oti,2016,age_first_marriage,,years,covariate,dhs-mobile,,False,MIS,2.0
+Oti,2019,age_first_marriage,,years,covariate,dhs-mobile,,False,MIS,3.0
+Oti,2022,age_first_marriage,20.7,years,covariate,dhs-mobile,Oti,False,DHS,3.0
+Ahafo,1988,age_first_marriage,18.0,years,covariate,dhs-mobile,Brong-Ahafo,True,DHS,
+Ahafo,1993,age_first_marriage,18.3,years,covariate,dhs-mobile,Brong-Ahafo,True,DHS,5.0
+Ahafo,1998,age_first_marriage,18.2,years,covariate,dhs-mobile,Brong-Ahafo,True,DHS,5.0
+Ahafo,2003,age_first_marriage,18.9,years,covariate,dhs-mobile,Brong-Ahafo,True,DHS,5.0
+Ahafo,2008,age_first_marriage,18.4,years,covariate,dhs-mobile,Brong-Ahafo,True,DHS,5.0
+Ahafo,2014,age_first_marriage,21.5,years,covariate,dhs-mobile,Brong-Ahafo,True,DHS,6.0
+Ahafo,2016,age_first_marriage,,years,covariate,dhs-mobile,,False,MIS,2.0
+Ahafo,2019,age_first_marriage,,years,covariate,dhs-mobile,,False,MIS,3.0
+Ahafo,2022,age_first_marriage,20.5,years,covariate,dhs-mobile,Ahafo,False,DHS,3.0
+Bono,1988,age_first_marriage,18.0,years,covariate,dhs-mobile,Brong-Ahafo,True,DHS,
+Bono,1993,age_first_marriage,18.3,years,covariate,dhs-mobile,Brong-Ahafo,True,DHS,5.0
+Bono,1998,age_first_marriage,18.2,years,covariate,dhs-mobile,Brong-Ahafo,True,DHS,5.0
+Bono,2003,age_first_marriage,18.9,years,covariate,dhs-mobile,Brong-Ahafo,True,DHS,5.0
+Bono,2008,age_first_marriage,18.4,years,covariate,dhs-mobile,Brong-Ahafo,True,DHS,5.0
+Bono,2014,age_first_marriage,21.5,years,covariate,dhs-mobile,Brong-Ahafo,True,DHS,6.0
+Bono,2016,age_first_marriage,,years,covariate,dhs-mobile,,False,MIS,2.0
+Bono,2019,age_first_marriage,,years,covariate,dhs-mobile,,False,MIS,3.0
+Bono,2022,age_first_marriage,23.1,years,covariate,dhs-mobile,Bono,False,DHS,3.0
+Bono East,1988,age_first_marriage,18.0,years,covariate,dhs-mobile,Brong-Ahafo,True,DHS,
+Bono East,1993,age_first_marriage,18.3,years,covariate,dhs-mobile,Brong-Ahafo,True,DHS,5.0
+Bono East,1998,age_first_marriage,18.2,years,covariate,dhs-mobile,Brong-Ahafo,True,DHS,5.0
+Bono East,2003,age_first_marriage,18.9,years,covariate,dhs-mobile,Brong-Ahafo,True,DHS,5.0
+Bono East,2008,age_first_marriage,18.4,years,covariate,dhs-mobile,Brong-Ahafo,True,DHS,5.0
+Bono East,2014,age_first_marriage,21.5,years,covariate,dhs-mobile,Brong-Ahafo,True,DHS,6.0
+Bono East,2016,age_first_marriage,,years,covariate,dhs-mobile,,False,MIS,2.0
+Bono East,2019,age_first_marriage,,years,covariate,dhs-mobile,,False,MIS,3.0
+Bono East,2022,age_first_marriage,20.7,years,covariate,dhs-mobile,Bono East,False,DHS,3.0
+Northern,1988,age_first_marriage,17.8,years,covariate,dhs-mobile,"Northern, Upper West, Upper East",True,DHS,
+Northern,1993,age_first_marriage,19.4,years,covariate,dhs-mobile,Northern (pre 2022),True,DHS,5.0
+Northern,1998,age_first_marriage,18.7,years,covariate,dhs-mobile,Northern (pre 2022),True,DHS,5.0
+Northern,2003,age_first_marriage,19.2,years,covariate,dhs-mobile,Northern (pre 2022),True,DHS,5.0
+Northern,2008,age_first_marriage,19.3,years,covariate,dhs-mobile,Northern (pre 2022),True,DHS,5.0
+Northern,2014,age_first_marriage,18.7,years,covariate,dhs-mobile,Northern (pre 2022),True,DHS,6.0
+Northern,2016,age_first_marriage,,years,covariate,dhs-mobile,,False,MIS,2.0
+Northern,2019,age_first_marriage,,years,covariate,dhs-mobile,,False,MIS,3.0
+Northern,2022,age_first_marriage,20.4,years,covariate,dhs-mobile,Northern(post 2022),True,DHS,3.0
+Savannah,1988,age_first_marriage,17.8,years,covariate,dhs-mobile,"Northern, Upper West, Upper East",True,DHS,
+Savannah,1993,age_first_marriage,19.4,years,covariate,dhs-mobile,Northern (pre 2022),True,DHS,5.0
+Savannah,1998,age_first_marriage,18.7,years,covariate,dhs-mobile,Northern (pre 2022),True,DHS,5.0
+Savannah,2003,age_first_marriage,19.2,years,covariate,dhs-mobile,Northern (pre 2022),True,DHS,5.0
+Savannah,2008,age_first_marriage,19.3,years,covariate,dhs-mobile,Northern (pre 2022),True,DHS,5.0
+Savannah,2014,age_first_marriage,18.7,years,covariate,dhs-mobile,Northern (pre 2022),True,DHS,6.0
+Savannah,2016,age_first_marriage,,years,covariate,dhs-mobile,,False,MIS,2.0
+Savannah,2019,age_first_marriage,,years,covariate,dhs-mobile,,False,MIS,3.0
+Savannah,2022,age_first_marriage,20.2,years,covariate,dhs-mobile,Savannah,False,DHS,3.0
+North East,1988,age_first_marriage,17.8,years,covariate,dhs-mobile,"Northern, Upper West, Upper East",True,DHS,
+North East,1993,age_first_marriage,19.4,years,covariate,dhs-mobile,Northern (pre 2022),True,DHS,5.0
+North East,1998,age_first_marriage,18.7,years,covariate,dhs-mobile,Northern (pre 2022),True,DHS,5.0
+North East,2003,age_first_marriage,19.2,years,covariate,dhs-mobile,Northern (pre 2022),True,DHS,5.0
+North East,2008,age_first_marriage,19.3,years,covariate,dhs-mobile,Northern (pre 2022),True,DHS,5.0
+North East,2014,age_first_marriage,18.7,years,covariate,dhs-mobile,Northern (pre 2022),True,DHS,6.0
+North East,2016,age_first_marriage,,years,covariate,dhs-mobile,,False,MIS,2.0
+North East,2019,age_first_marriage,,years,covariate,dhs-mobile,,False,MIS,3.0
+North East,2022,age_first_marriage,19.4,years,covariate,dhs-mobile,Northeast,True,DHS,3.0

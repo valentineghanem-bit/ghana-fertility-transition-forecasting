@@ -1,0 +1,9 @@
+# Ghana subnational fertility transition — pinned dependencies (pure-Python; no R/GPU)
+numpy==2.2.5
+scipy==1.17.1
+pandas==2.2.3
+scikit-learn==1.8.0
+matplotlib==3.10.1
+python-docx==1.2.0
+pytest
+ruff

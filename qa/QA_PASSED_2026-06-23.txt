@@ -1,0 +1,4 @@
+QA_PASSED (CONDITIONAL) — Project 15 — 2026-06-23
+Subnational Fertility Transition & Adolescent RH, Ghana
+Phase 9: epid-council 5-advisor review (priority edits applied) + /qa cross-artefact reconciliation PASS.
+Pending gate: Phase 10 (14-section README + /github-publish PRE-COMMIT 9-gate + push; manuscript never pushed).

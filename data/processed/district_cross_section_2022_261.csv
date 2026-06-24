@@ -1,0 +1,262 @@
+district,region,class,lat,lon,poverty_rate,poverty_intensity,illiteracy_rate,uninsured_rate,employed_share,under15_share,women_15_64_share,total_population,geojson_district,match_method,is_structural_gap,tfr_15_49_region,asfr_15_19_region,mcpr_married_region,unmet_need_region,edu_secondary_women_region
+Asunafo North Municipal,Ahafo,Municipal,6.81509969999999,-2.67736640122449,26.1,42.0,26.32,14.24,34.12,35.83,29.68,151258,ASUNAFO NORTH MUNICIPAL,exact_normalized,False,4.3,60.0,35.8,24.1,70.7
+Asunafo South,Ahafo,District,6.56280465,-2.53279356335542,26.2,42.7,28.89,47.5,35.63,36.92,28.89,91693,ASUNAFO SOUTH,exact_normalized,False,4.3,60.0,35.8,24.1,70.7
+Asutifi North,Ahafo,District,7.07651835,-2.52531850396715,26.6,43.1,25.55,17.3,33.2,35.41,29.34,73556,ASUTIFI NORTH,exact_normalized,False,4.3,60.0,35.8,24.1,70.7
+Asutifi South,Ahafo,District,6.84924284999999,-2.46125343688365,23.2,42.4,29.26,21.67,32.05,37.0,29.07,67334,ASUTIFI SOUTH,exact_normalized,False,4.3,60.0,35.8,24.1,70.7
+Tano North Municipal,Ahafo,Municipal,7.19329065,-2.2080833699397,21.6,42.3,23.45,14.1,33.5,34.95,30.8,93838,TANO NORTH MUNICIPAL,exact_normalized,False,4.3,60.0,35.8,24.1,70.7
+Tano South Municipal,Ahafo,Municipal,7.16093674999999,-1.99681708617696,23.7,42.6,27.91,20.45,33.34,36.6,30.23,86989,TANO SOUTH MUNICIPAL,exact_normalized,False,4.3,60.0,35.8,24.1,70.7
+Adansi Asokwa,Ashanti,District,6.2467263,-1.50841,32.4,43.3,28.26,50.15,32.78,36.82,29.7,71844,ADANSI ASOKWA,exact_normalized,False,3.5,62.0,32.1,23.0,79.8
+Adansi North,Ashanti,District,6.3006124,-1.5897139446089,19.7,42.8,18.16,27.63,32.15,33.69,31.3,54155,ADANSI NORTH,exact_normalized,False,3.5,62.0,32.1,23.0,79.8
+Adansi South,Ashanti,District,6.00427495,-1.39314032189093,35.0,43.2,27.07,46.09,34.78,36.73,29.75,85200,ADANSI SOUTH,exact_normalized,False,3.5,62.0,32.1,23.0,79.8
+Afigya Kwabre North,Ashanti,District,7.03891495,-1.62667127242319,25.2,43.7,23.98,30.12,29.11,39.61,28.75,73330,AFIGYA KWABRE NORTH,exact_normalized,False,3.5,62.0,32.1,23.0,79.8
+Afigya Kwabre South,Ashanti,District,6.83998064999999,-1.60957900170106,13.0,43.3,13.42,24.97,31.97,36.95,30.95,234667,AFIGYA KWABRE SOUTH,exact_normalized,False,3.5,62.0,32.1,23.0,79.8
+Ahafo Ano North Municipal,Ashanti,Municipal,6.90966445,-2.23301229669742,26.5,41.2,24.92,30.64,36.02,36.67,29.66,92742,AHAFO ANO NORTH,exact_normalized,False,3.5,62.0,32.1,23.0,79.8
+Ahafo Ano South East,Ashanti,District,6.94633355,-1.90095355028736,31.8,42.5,32.24,32.34,32.39,39.68,27.72,63468,AHAFO ANO SOUTH EAST,exact_normalized,False,3.5,62.0,32.1,23.0,79.8
+Ahafo Ano South West,Ashanti,District,6.8289788,-2.00038660056909,31.9,41.8,31.43,37.52,34.76,37.49,28.46,65770,AHAFO ANO SOUTH WEST,exact_normalized,False,3.5,62.0,32.1,23.0,79.8
+Akrofuom,Ashanti,District,6.03262245,-1.67136425707588,37.0,44.2,30.03,42.84,32.7,35.49,27.44,49291,ADANSI AKROFUOM,manual_resolved,False,3.5,62.0,32.1,23.0,79.8
+Amansie Central,Ashanti,District,6.20744165,-1.82814118592735,28.6,43.3,29.44,33.99,36.09,34.83,28.47,93052,AMANSIE CENTRAL,exact_normalized,False,3.5,62.0,32.1,23.0,79.8
+Amansie South,Ashanti,District,6.30802585,-2.01186652006877,30.3,44.4,30.17,48.14,36.24,33.37,29.21,113155,AMANSIE SOUTH,exact_normalized,False,3.5,62.0,32.1,23.0,79.8
+Amansie West,Ashanti,District,6.43975084999999,-1.85237045719587,31.0,44.7,27.0,43.02,30.33,36.54,28.48,112627,AMANSIE WEST,exact_normalized,False,3.5,62.0,32.1,23.0,79.8
+Asante Akim Central Municipal,Ashanti,Municipal,6.56465915,-1.25347851347396,16.9,42.6,17.22,19.68,32.13,34.25,31.88,91673,ASANTE AKIM CENTRAL MUNICIPAL,exact_normalized,False,3.5,62.0,32.1,23.0,79.8
+Asante Akim North Municipal,Ashanti,Municipal,6.906722,-0.958978,26.0,42.1,23.85,34.0,35.04,33.72,31.56,85202,ASANTE AKIM NORTH,exact_normalized,False,3.5,62.0,32.1,23.0,79.8
+Asante Akim South Municipal,Ashanti,Municipal,6.46141735,-1.11533920112058,24.6,42.2,25.62,32.61,35.18,37.36,28.84,123633,ASANTE AKIM SOUTH,exact_normalized,False,3.5,62.0,32.1,23.0,79.8
+Asokore Mampong Municipal,Ashanti,Municipal,6.7077852,-1.5665013,11.3,42.7,19.35,20.28,34.59,32.82,32.49,191402,ASOKORE MAMPONG MUNICIPAL,exact_normalized,False,3.5,62.0,32.1,23.0,79.8
+Asokwa Municipal,Ashanti,Municipal,6.6739843,-1.6026178,6.3,41.4,10.73,14.25,38.44,31.27,33.26,125642,ASOKWA  MUNICIPAL,exact_normalized,False,3.5,62.0,32.1,23.0,79.8
+Atwima Kwanwoma,Ashanti,District,6.65,-1.73333,13.8,43.3,13.57,26.15,31.92,36.17,31.4,234846,ATWIMA KWANWOMA,exact_normalized,False,3.5,62.0,32.1,23.0,79.8
+Atwima Mponua,Ashanti,District,6.5558963,-2.17659077213842,25.1,42.4,29.22,24.13,35.16,37.76,27.87,155254,ATWIMA MPONUA,exact_normalized,False,3.5,62.0,32.1,23.0,79.8
+Atwima Nwabiagya North,Ashanti,District,6.87764335,-1.74489585317473,13.5,43.1,15.74,21.41,31.33,36.17,30.46,155025,ATWIMA NWABIAGYA NORTH,exact_normalized,False,3.5,62.0,32.1,23.0,79.8
+Atwima Nwabiagya South Municipal,Ashanti,Municipal,7.0689359,-2.0226618,12.5,43.0,13.83,23.44,33.54,34.99,32.24,161893,ATWIMA NWABIAGYA SOUTH,exact_normalized,False,3.5,62.0,32.1,23.0,79.8
+Bekwai Municipal,Ashanti,Municipal,6.43631235,-1.59282285301503,19.4,43.6,17.87,27.7,31.9,34.85,31.31,137967,BEKWAI MUNICIPAL,exact_normalized,False,3.5,62.0,32.1,23.0,79.8
+Bosome Freho,Ashanti,District,6.3681227,-1.36632312680072,31.3,41.0,28.55,49.05,36.76,38.22,28.17,62259,BOSOME FREHO,exact_normalized,False,3.5,62.0,32.1,23.0,79.8
+Bosomtwi,Ashanti,District,6.1777503,-0.1969922,16.1,43.8,13.87,28.31,31.89,36.1,31.2,165180,BOSOMTWE,manual_resolved,False,3.5,62.0,32.1,23.0,79.8
+Ejisu Municipal,Ashanti,Municipal,6.7139918,-1.4665782,13.5,43.6,14.91,21.69,32.43,34.41,31.93,180723,EJISU MUNICIPAL,exact_normalized,False,3.5,62.0,32.1,23.0,79.8
+Ejura Sekyedumase Municipal,Ashanti,Municipal,7.38567515,-1.39945747215309,25.0,42.2,35.88,33.58,31.95,39.9,28.67,137672,EJURA-SEKYEDUMASE,exact_normalized,False,3.5,62.0,32.1,23.0,79.8
+Juaben Municipal,Ashanti,Municipal,6.0721368,-0.260652306105858,20.9,43.1,21.97,30.42,33.24,37.14,29.92,63929,JUABEN MUNICIPAL,exact_normalized,False,3.5,62.0,32.1,23.0,79.8
+"Kumasi Metropolitan Area (KMA)-Bantama, Manhyia North, Manhyia South, Nhyiaeso, & Subin",Ashanti,Metropolitan,6.698152,-1.621229,8.9,42.3,10.82,22.55,37.06,28.39,35.06,443945,KUMASI METROPOLITAN,manual_resolved,False,3.5,62.0,32.1,23.0,79.8
+Kwabre East,Ashanti,Municipal,6.7897864,-1.53792852576917,10.6,43.3,12.89,24.41,33.64,36.23,31.6,296814,KWABRE EAST,exact_normalized,False,3.5,62.0,32.1,23.0,79.8
+Kwadaso Municipal,Ashanti,Municipal,6.68059249999999,-1.67467000057054,9.5,42.4,8.43,21.67,34.47,29.44,34.23,154526,KWADASO MUNICIPAL,exact_normalized,False,3.5,62.0,32.1,23.0,79.8
+Mampong Municipal,Ashanti,Municipal,7.056139,-1.40425,22.5,42.6,20.67,29.79,30.54,34.24,31.5,116632,MAMPONG MUNICIPAL,exact_normalized,False,3.5,62.0,32.1,23.0,79.8
+Obuasi East,Ashanti,Municipal,6.1796409,-1.60356394182495,13.1,42.7,15.48,17.4,32.05,34.21,32.4,92401,OBUASI EAST,exact_normalized,False,3.5,62.0,32.1,23.0,79.8
+Obuasi Municipal,Ashanti,Municipal,6.211542,-1.6894045,11.1,42.8,12.32,19.66,34.62,32.0,32.68,104297,OBUASI MUNICIPAL,exact_normalized,False,3.5,62.0,32.1,23.0,79.8
+Offinso Municipal,Ashanti,Municipal,7.05794129999999,-1.73462655987467,23.5,42.8,24.85,30.81,30.63,37.34,30.86,137272,OFFINSO MUNICIPAL,exact_normalized,False,3.5,62.0,32.1,23.0,79.8
+Offinso North,Ashanti,District,7.27974815,-1.79832745610104,34.3,41.5,37.39,33.47,33.92,39.65,29.27,83440,OFFINSO NORTH,exact_normalized,False,3.5,62.0,32.1,23.0,79.8
+Oforikrom Municipal,Ashanti,Municipal,6.672717,-1.5504236985326,10.0,42.8,10.1,23.01,30.16,24.95,35.24,213126,OFORIKROM MUNICIPAL,exact_normalized,False,3.5,62.0,32.1,23.0,79.8
+Old Tafo Municipal,Ashanti,Municipal,6.74083555,-1.60465968075918,9.2,42.9,11.73,24.65,37.08,32.2,33.67,114368,OLD TAFO MUNICIPAL,exact_normalized,False,3.5,62.0,32.1,23.0,79.8
+Sekyere Afram Plains,Ashanti,District,7.20286155,-0.592081996515861,50.5,40.8,51.7,63.4,32.68,43.29,24.63,33226,SEKYERE AFRAM PLAINS NORTH,manual_resolved,False,3.5,62.0,32.1,23.0,79.8
+Sekyere Central,Ashanti,District,7.21625465,-1.09955606489201,39.8,42.4,33.02,52.34,32.51,37.83,28.49,73228,SEKYERE CENTRAL,exact_normalized,False,3.5,62.0,32.1,23.0,79.8
+Sekyere East,Ashanti,District,6.77947295,-1.29935419961981,17.3,42.5,17.21,23.59,31.7,35.64,31.8,74789,SEKYERE EAST,exact_normalized,False,3.5,62.0,32.1,23.0,79.8
+Sekyere Kumawu,Ashanti,District,6.9098849,-1.23942940155571,23.9,42.9,20.33,35.78,31.23,36.98,29.86,64396,SEKYERE KUMAWU,exact_normalized,False,3.5,62.0,32.1,23.0,79.8
+Sekyere South,Ashanti,District,6.99532965,-1.50292100938884,22.6,42.8,17.74,26.93,30.52,35.32,31.23,120076,SEKYERE SOUTH,exact_normalized,False,3.5,62.0,32.1,23.0,79.8
+Suame Municipal,Ashanti,Municipal,6.738487,-1.62476687694823,8.7,42.7,10.34,23.69,38.17,32.45,33.91,136290,SUAME MUNICIPAL,exact_normalized,False,3.5,62.0,32.1,23.0,79.8
+Banda,Bono,District,8.1645269,-2.3569966,35.7,43.7,41.63,23.59,27.49,36.94,27.18,28179,BANDA,exact_normalized,False,3.7,36.0,28.3,23.7,77.4
+Berekum East Municipal,Bono,Municipal,7.4848835,-2.56459096524003,12.6,41.7,14.74,11.53,33.04,32.08,34.03,106252,BEREKUM EAST MUNICIPAL,exact_normalized,False,3.7,36.0,28.3,23.7,77.4
+Berekum West,Bono,District,7.47199419999999,-2.71078914019081,14.8,41.6,22.9,12.49,32.67,33.8,32.26,49464,BEREKUM WEST,exact_normalized,False,3.7,36.0,28.3,23.7,77.4
+Dormaa Central Municipal,Bono,Municipal,7.23948645,-2.85657511014467,15.8,41.7,22.18,17.34,35.01,33.79,31.34,112702,DORMAA MUNICIPAL,manual_resolved,False,3.7,36.0,28.3,23.7,77.4
+Dormaa East,Bono,District,7.26432845,-2.64146295349265,19.5,41.7,24.68,13.64,33.24,33.97,31.03,67899,DORMAA EAST,exact_normalized,False,3.7,36.0,28.3,23.7,77.4
+Dormaa West,Bono,District,6.97538415,-2.9463116043167,23.2,40.8,30.1,20.34,36.98,37.08,27.6,47913,DORMAA WEST,exact_normalized,False,3.7,36.0,28.3,23.7,77.4
+Jaman North,Bono,District,7.9132614,-2.69723280400663,14.5,42.4,26.41,7.06,31.0,35.66,30.09,116529,JAMAN NORTH,exact_normalized,False,3.7,36.0,28.3,23.7,77.4
+Jaman South,Bono,Municipal,7.62036559999999,-2.7963718064665,15.6,42.1,26.35,8.82,32.63,35.47,31.26,109768,JAMAN SOUTH MUNICIPAL,exact_normalized,False,3.7,36.0,28.3,23.7,77.4
+Sunyani Municipal,Bono,Municipal,7.3384389,-2.3309226,10.9,41.5,14.47,11.18,33.47,31.33,32.78,193595,SUNYANI MUNICIPAL,exact_normalized,False,3.7,36.0,28.3,23.7,77.4
+Sunyani West Municipal,Bono,Municipal,7.35779433737633,-2.34687996021684,17.6,43.1,20.83,15.61,30.05,32.05,32.35,136022,SUNYANI WEST,exact_normalized,False,3.7,36.0,28.3,23.7,77.4
+Tain,Bono,District,7.9614185,-2.1422727,21.5,41.9,36.55,19.06,33.9,36.44,29.19,115568,TAIN,exact_normalized,False,3.7,36.0,28.3,23.7,77.4
+Wenchi Municipal,Bono,Municipal,7.80281055,-2.08141333112632,23.6,42.2,33.76,20.26,30.89,37.41,30.0,124758,WENCHI MUNICIPAL,exact_normalized,False,3.7,36.0,28.3,23.7,77.4
+Atebubu Amantin Municipal,Bono East,Municipal,7.72813859999999,-1.09550967027384,28.8,41.5,40.99,25.49,32.8,40.38,28.12,144947,ATEBUBU AMANTIN,exact_normalized,False,4.7,92.0,20.7,29.6,57.8
+Kintampo North Municipal,Bono East,Municipal,8.053714,-1.728919,28.1,43.4,40.52,21.6,28.54,38.77,29.01,140250,KINTAMPO NORTH MUNICIPAL,exact_normalized,False,4.7,92.0,20.7,29.6,57.8
+Kintampo South,Bono East,District,7.94321545,-1.73400515142892,26.0,42.3,40.52,18.55,32.73,38.86,27.79,88384,KINTAMPO SOUTH,exact_normalized,False,4.7,92.0,20.7,29.6,57.8
+Nkoranza North,Bono East,District,7.7184776,-1.64389618122841,25.8,41.4,34.75,17.75,33.35,37.23,28.26,56468,NKORANZA NORTH,exact_normalized,False,4.7,92.0,20.7,29.6,57.8
+Nkoranza South Municipal,Bono East,Municipal,7.45296465,-1.67701851419084,18.0,41.6,29.96,14.69,33.68,36.69,30.09,114642,NKORANZA SOUTH,exact_normalized,False,4.7,92.0,20.7,29.6,57.8
+Pru East,Bono East,District,7.9636217,-0.9549861,30.3,41.2,43.86,28.24,32.63,40.39,28.53,100840,PRU EAST,exact_normalized,False,4.7,92.0,20.7,29.6,57.8
+Pru West,Bono East,District,8.03487795,-1.31329234137589,38.3,40.8,47.34,41.22,33.56,40.1,27.69,69820,PRU WEST,exact_normalized,False,4.7,92.0,20.7,29.6,57.8
+Sene East,Bono East,District,7.6658435,-0.182426172494555,49.5,41.5,49.9,43.63,32.21,42.92,25.09,72081,SENE EAST,exact_normalized,False,4.7,92.0,20.7,29.6,57.8
+Sene West,Bono East,District,7.74897775,-0.618112944814146,26.8,41.0,47.63,20.33,37.02,39.65,27.71,70104,SENE WEST,exact_normalized,False,4.7,92.0,20.7,29.6,57.8
+Techiman Municipal,Bono East,Municipal,7.5279454,-1.97466940505838,9.8,41.4,23.61,11.53,36.65,35.38,31.74,243335,TECHIMAN MUNICIPAL,exact_normalized,False,4.7,92.0,20.7,29.6,57.8
+Techiman North,Bono East,District,7.70365499999999,-1.98577027897075,15.0,41.8,26.88,14.99,33.48,35.54,31.15,102529,TECHIMAN NORTH,exact_normalized,False,4.7,92.0,20.7,29.6,57.8
+Abura Asebu Kwamankese,Central,District,5.2698722,-1.18890498156872,28.0,44.1,26.92,35.54,31.57,36.13,30.47,124465,ABURA-ASEBU-KWAMANKESE,exact_normalized,False,3.6,60.0,34.5,21.3,76.6
+Agona East,Central,District,5.63553575,-0.654757357749996,25.9,43.6,22.75,53.92,33.13,34.5,31.53,98637,AGONA EAST,exact_normalized,False,3.6,60.0,34.5,21.3,76.6
+Agona West Municipal,Central,Municipal,4.8901537,-1.9664135,21.0,43.7,19.49,36.45,34.44,33.63,32.36,136569,AGONA WEST MUNICIPAL,exact_normalized,False,3.6,60.0,34.5,21.3,76.6
+Ajumako Enyan Essiam,Central,District,5.41243515,-0.984801059019988,29.6,43.5,24.18,40.74,31.9,36.1,30.56,120586,AJUMAKO-ENYAN-ESSIAM,exact_normalized,False,3.6,60.0,34.5,21.3,76.6
+Asikuma Odoben Brakwa,Central,District,5.62649825,-1.02551876426311,29.0,42.3,25.36,36.64,34.25,37.0,30.08,126993,ASIKUMA-ODOBEN-BRAKWA,exact_normalized,False,3.6,60.0,34.5,21.3,76.6
+Assin Central Municipal,Central,Municipal,5.73294244999999,-1.31730368183195,18.1,42.8,14.64,34.53,35.08,35.63,31.18,88753,ASSIN FOSU,manual_resolved,False,3.6,60.0,34.5,21.3,76.6
+Assin North,Central,District,5.82545685,-1.37392719579152,31.9,42.0,27.51,47.2,36.78,36.57,29.35,80539,ASSIN NORTH,exact_normalized,False,3.6,60.0,34.5,21.3,76.6
+Assin South,Central,District,5.52889644999999,-1.2709401638536,27.4,41.7,25.67,36.3,33.77,37.97,29.39,105995,ASSIN SOUTH,exact_normalized,False,3.6,60.0,34.5,21.3,76.6
+Awutu Senya West,Central,District,5.61965885,-0.520145612112832,22.5,44.5,25.3,57.33,34.05,37.85,30.43,161460,,structural_gap,True,3.6,60.0,34.5,21.3,76.6
+Awutu Senya East Municipal,Central,Municipal,5.40379055,-0.518157686947431,10.6,42.9,10.35,41.97,35.81,33.7,32.78,236527,AWUTU SENYA EAST,exact_normalized,False,3.6,60.0,34.5,21.3,76.6
+Cape Cape Metropolitan Area (CCMA)-Cape Coast South & Cape Coast North,Central,Metropolitan,5.1115501,-1.2484127,12.9,44.3,10.95,27.52,36.06,29.23,34.53,187365,CAPE COAST METROPOLITAN,manual_resolved,False,3.6,60.0,34.5,21.3,76.6
+Effutu Municipal,Central,Municipal,5.38339225,-0.597395635326539,21.7,44.2,18.59,29.94,25.29,26.15,33.54,108816,EFFUTU MUNICIPAL,exact_normalized,False,3.6,60.0,34.5,21.3,76.6
+Ekumfi,Central,District,5.28914455,-0.908864632637807,31.5,45.6,32.59,59.34,30.08,37.6,29.86,56741,EKUMFI,exact_normalized,False,3.6,60.0,34.5,21.3,76.6
+Gomoa Central,Central,District,5.47699369999999,-0.589745989100534,18.8,44.1,21.23,45.73,34.28,36.57,31.64,82592,GOMOA CENTRAL,exact_normalized,False,3.6,60.0,34.5,21.3,76.6
+Gomoa East,Central,District,5.47699369999999,-0.589745989100534,14.4,43.7,14.0,44.5,33.02,36.01,31.41,308697,GOMOA EAST,exact_normalized,False,3.6,60.0,34.5,21.3,76.6
+Gomoa West,Central,District,5.38725545,-0.833638570821268,28.3,44.4,30.44,50.47,32.19,36.83,31.35,129512,GOMOA WEST,exact_normalized,False,3.6,60.0,34.5,21.3,76.6
+Komenda Edina Eguafo Abirem Municipal,Central,Municipal,5.1302015,-1.43995928979516,25.1,44.2,26.06,45.3,32.02,36.04,30.18,166017,KOMENDA-EDINA-EGUAFO-ABIREM MUNICIPAL,exact_normalized,False,3.6,60.0,34.5,21.3,76.6
+Mfantsiman Municipal,Central,Municipal,5.27644145,-1.03472089878279,24.0,44.8,23.38,39.69,31.47,35.49,32.91,168905,MFANTSEMAN MUNICIPAL,manual_resolved,False,3.6,60.0,34.5,21.3,76.6
+Twifo Ati Morkwa,Central,District,5.61529845,-1.57822136908747,34.1,42.7,27.22,44.01,31.44,38.01,29.9,100851,TWIFO ATTI-MORKWA,manual_resolved,False,3.6,60.0,34.5,21.3,76.6
+Twifo Heman Lower Denkyira,Central,District,5.49471475,-1.53636464977824,32.1,42.4,25.88,55.39,34.28,36.85,29.76,66075,TWIFO HEMANG LOWER DENKYIRA,manual_resolved,False,3.6,60.0,34.5,21.3,76.6
+Upper Denkyira East Municipal,Central,Municipal,5.83523424999999,-1.73920835777296,24.3,43.8,21.21,27.9,31.53,35.91,30.2,110141,UPPER DENKYIRA EAST MUNICIPAL,exact_normalized,False,3.6,60.0,34.5,21.3,76.6
+Upper Denkyira West,Central,District,6.10783305,-2.06931071266353,24.5,43.6,28.16,48.34,36.62,35.02,28.28,91025,UPPER DENKYIRA WEST,exact_normalized,False,3.6,60.0,34.5,21.3,76.6
+Abuakwa North Municipal,Eastern,Municipal,6.2336986,-0.382588987736012,15.7,42.9,14.47,20.35,32.92,31.86,32.3,76195,ABUAKWA NORTH,exact_normalized,False,3.5,65.0,28.6,27.3,75.5
+Abuakwa South Municipal,Eastern,Municipal,6.1727705,-0.470361048613095,21.1,43.4,19.44,21.98,33.19,31.86,31.03,89051,ABUAKWA SOUTH,exact_normalized,False,3.5,65.0,28.6,27.3,75.5
+Achiase,Eastern,District,5.8354534,-0.9966928,29.9,44.6,25.7,31.76,30.85,35.91,30.36,56348,ACHIASE,exact_normalized,False,3.5,65.0,28.6,27.3,75.5
+Akwapim North Municipal,Eastern,Municipal,5.9014961,-0.14597334325382,20.1,43.2,14.53,21.47,29.11,30.08,33.83,105315,AKWAPEM NORTH,manual_resolved,False,3.5,65.0,28.6,27.3,75.5
+Akwapim South Municipal,Eastern,Municipal,8.25846,0.508747,19.4,43.5,15.17,30.66,33.4,30.57,33.83,76922,AKWAPEM SOUTH,manual_resolved,False,3.5,65.0,28.6,27.3,75.5
+Akyemansa,Eastern,District,6.0815994,-1.11546439579942,23.6,42.4,27.68,26.48,35.88,36.4,29.31,91038,AKYEM MANSA,manual_resolved,False,3.5,65.0,28.6,27.3,75.5
+Asene Manso Akroso,Eastern,District,5.85516295,-0.8089562448565,25.7,42.5,24.11,30.19,33.81,35.83,30.29,77498,ASENE AKROSO MANSO,manual_resolved,False,3.5,65.0,28.6,27.3,75.5
+Asuogyaman,Eastern,District,6.36279085,0.0952598707485648,21.8,43.1,18.67,21.4,32.48,32.77,32.14,101256,ASUOGYAMAN,exact_normalized,False,3.5,65.0,28.6,27.3,75.5
+Atiwa East,Eastern,District,6.3954833,-0.597296233359515,18.4,42.4,20.07,17.86,34.75,35.82,29.09,64647,ATIWA EAST,exact_normalized,False,3.5,65.0,28.6,27.3,75.5
+Atiwa West,Eastern,District,6.20778059999999,-0.635808682575408,18.9,42.5,20.46,29.79,36.89,35.56,28.15,61219,ATIWA WEST,exact_normalized,False,3.5,65.0,28.6,27.3,75.5
+Ayensuano,Eastern,District,5.94469995,-0.449937193103216,29.1,42.9,27.38,46.51,36.51,36.28,28.93,94594,AYENSUANO,exact_normalized,False,3.5,65.0,28.6,27.3,75.5
+Birim Central Municipal,Eastern,Municipal,5.97391735,-1.00480959493596,11.9,41.9,13.04,12.18,33.13,31.84,34.08,76302,BIRIM CENTRAL MUNICIPAL,exact_normalized,False,3.5,65.0,28.6,27.3,75.5
+Birim North,Eastern,District,6.3681437,-1.02271793293055,18.3,42.6,21.3,17.16,34.95,35.62,29.91,82669,BIRIM NORTH,exact_normalized,False,3.5,65.0,28.6,27.3,75.5
+Birim South,Eastern,District,5.9375343,-1.0087951,24.9,43.6,20.44,29.4,32.56,34.03,31.11,35654,BIRIM SOUTH,exact_normalized,False,3.5,65.0,28.6,27.3,75.5
+Denkyembuor,Eastern,District,6.05,-0.8,18.1,42.3,19.87,12.96,31.28,32.85,32.14,77029,DENKYEMBOUR,manual_resolved,False,3.5,65.0,28.6,27.3,75.5
+Fanteakwa North,Eastern,District,6.49761694999999,-0.362546050326661,28.9,41.9,28.56,30.99,37.43,35.2,29.31,56987,FANTEAKWA NORTH,exact_normalized,False,3.5,65.0,28.6,27.3,75.5
+Fanteakwa South,Eastern,District,6.37117379999999,-0.311872167608319,21.7,41.7,17.87,24.61,36.79,33.23,29.96,54634,FANTEAKWA SOUTH,exact_normalized,False,3.5,65.0,28.6,27.3,75.5
+Kwaebibirem Municipal,Eastern,Municipal,6.23359759999999,-0.87590978580917,19.6,42.9,20.38,20.02,34.73,34.73,30.55,121698,KWAEBIBIREM,exact_normalized,False,3.5,65.0,28.6,27.3,75.5
+Kwahu Afram Plains North,Eastern,District,6.8753584,0.00474561233398435,48.5,41.9,42.23,48.1,37.57,38.14,26.92,66555,KWAHU AFRAM PLAINS NORTH,exact_normalized,False,3.5,65.0,28.6,27.3,75.5
+Kwahu Afram Plains South,Eastern,District,6.8854777,-0.460380290065423,39.1,41.6,40.55,44.69,37.89,38.98,26.76,74002,KWAHU AFRAM PLAINS SOUTH,exact_normalized,False,3.5,65.0,28.6,27.3,75.5
+Kwahu East,Eastern,District,6.73342465,-0.81009459846416,29.4,42.0,23.88,31.3,34.08,33.6,28.89,80233,KWAHU EAST,exact_normalized,False,3.5,65.0,28.6,27.3,75.5
+Kwahu South Municipal,Eastern,Municipal,8.25846,0.508747,28.8,43.4,23.7,28.58,32.17,35.01,30.62,79851,KWAHU SOUTH,exact_normalized,False,3.5,65.0,28.6,27.3,75.5
+Kwahu West Municipal,Eastern,Municipal,6.49118254999999,-0.728456087972531,15.1,41.9,16.51,16.52,35.08,35.88,30.77,145429,KWAHU WEST,exact_normalized,False,3.5,65.0,28.6,27.3,75.5
+Lower Manya Krobo Municipal,Eastern,Municipal,6.2127831,-0.0404975690174626,19.8,43.4,19.84,20.49,29.85,30.32,34.83,121849,LOWER MANYA,manual_resolved,False,3.5,65.0,28.6,27.3,75.5
+New Juaben North Municipal,Eastern,Municipal,6.1364245,-0.312846157003848,10.6,41.7,9.87,11.26,32.66,28.42,33.13,88716,NEW JUABEN NORTH MUNICIPAL,exact_normalized,False,3.5,65.0,28.6,27.3,75.5
+New Juaben South Municipal,Eastern,Municipal,6.0721368,-0.260652306105858,8.5,41.1,9.11,12.52,37.42,27.38,34.56,129741,NEW JUABEN SOUTH MUNICIPAL,exact_normalized,False,3.5,65.0,28.6,27.3,75.5
+Nsawam Adoagyiri Municipal,Eastern,Municipal,5.81791215,-0.36426765,13.0,43.4,15.54,29.26,35.67,33.15,31.85,155597,NSAWAM ADOAGYIRI,exact_normalized,False,3.5,65.0,28.6,27.3,75.5
+Okere,Eastern,District,6.04034605,-0.127770489495342,24.0,42.4,21.53,35.07,34.97,33.03,31.43,51675,OKERE,exact_normalized,False,3.5,65.0,28.6,27.3,75.5
+Suhum Municipal,Eastern,Municipal,6.035885,-0.4552751,17.6,42.0,18.91,28.55,38.83,33.71,31.79,126403,SUHUM MUNICIPAL,exact_normalized,False,3.5,65.0,28.6,27.3,75.5
+Upper Manya Krobo,Eastern,District,6.40201115,-0.134429386146108,32.7,40.5,35.31,38.15,40.95,36.0,29.39,70612,UPPER MANYA,manual_resolved,False,3.5,65.0,28.6,27.3,75.5
+Upper West Akim,Eastern,District,5.80678025,-0.540057196199224,29.7,43.7,28.33,49.22,35.07,36.69,29.63,95855,UPPER WEST AKIM,exact_normalized,False,3.5,65.0,28.6,27.3,75.5
+West Akim Municipal,Eastern,Municipal,5.9070609,-0.68318054757923,23.7,43.0,23.19,28.11,34.26,34.54,31.23,117681,WEST AKIM,exact_normalized,False,3.5,65.0,28.6,27.3,75.5
+Yilo Krobo Municipal,Eastern,Municipal,6.1564095,-0.167401779755807,21.5,42.1,21.14,29.42,36.83,33.44,31.67,122398,YILO KROBO,exact_normalized,False,3.5,65.0,28.6,27.3,75.5
+Ablekuma Central Municipal,Greater Accra,Municipal,5.5541808,-0.24078224491606,9.4,45.2,11.92,36.53,42.56,28.14,34.58,169145,ABLEKUMA CENTRAL MUNICIPAL,exact_normalized,False,2.9,39.0,23.8,26.0,84.6
+Ablekuma North Municipal,Greater Accra,Municipal,5.58719365,-0.263259064824942,8.3,42.9,7.15,36.66,43.48,28.06,35.49,159208,ABLEKUMA NORTH MUNICIPAL,exact_normalized,False,2.9,39.0,23.8,26.0,84.6
+Ablekuma West Municipal,Greater Accra,Municipal,5.5431939,-0.26615017413473,8.9,43.0,8.15,39.41,40.13,29.87,34.54,153490,ABLEKUMA WEST MUNICIPAL,exact_normalized,False,2.9,39.0,23.8,26.0,84.6
+"Accra Metropolitan Area (AMA)-Ablekuma South, Ashiedu Keteke & Okaikoi South",Greater Accra,Metropolitan,5.55381875,-0.205849787615075,11.1,43.9,16.66,38.04,43.72,25.71,38.55,276997,ACCRA METROPOLIS,manual_resolved,False,2.9,39.0,23.8,26.0,84.6
+Ada East,Greater Accra,District,5.8761016,0.549568161630084,28.2,44.2,29.29,42.91,30.96,36.48,30.17,76411,ADA EAST,exact_normalized,False,2.9,39.0,23.8,26.0,84.6
+Ada West,Greater Accra,District,5.9040093,0.420370257026968,40.1,44.7,33.13,59.26,29.69,40.75,28.47,76087,ADA WEST,exact_normalized,False,2.9,39.0,23.8,26.0,84.6
+Adentan Municipal,Greater Accra,Municipal,5.7042433,-0.1690967,8.3,41.8,7.13,37.46,40.76,28.39,34.3,265971,ADENTA MUNICIPAL,manual_resolved,False,2.9,39.0,23.8,26.0,84.6
+Ashaiman Municipal,Greater Accra,Municipal,5.6993574,-0.0348533202566188,7.5,43.3,11.32,35.07,43.44,30.09,33.66,208060,ASHAIMAN MUNICIPAL,exact_normalized,False,2.9,39.0,23.8,26.0,84.6
+Ayawaso Central Municipal,Greater Accra,Municipal,5.59137939999999,-0.212668442666915,12.2,42.8,9.12,43.81,41.29,26.2,35.16,94831,AYAWASO CENTRAL MUNICIPAL,exact_normalized,False,2.9,39.0,23.8,26.0,84.6
+Ayawaso East Municipal,Greater Accra,Municipal,5.5828425,-0.194266228463183,15.4,44.0,19.03,38.87,34.92,27.67,34.94,53004,AYAWASO EAST MUNICIPAL,exact_normalized,False,2.9,39.0,23.8,26.0,84.6
+Ayawaso North Municipal,Greater Accra,Municipal,5.5908829,-0.199044848506062,13.9,43.8,14.26,33.99,36.2,27.31,36.03,63386,AYAWASO NORTH MUNICIPAL,exact_normalized,False,2.9,39.0,23.8,26.0,84.6
+Ayawaso West Municipal,Greater Accra,Municipal,5.62669775,-0.179111178909241,9.3,41.6,5.41,35.1,36.77,18.98,37.15,75303,AYAWASO WEST,exact_normalized,False,2.9,39.0,23.8,26.0,84.6
+Ga Central Municipal,Greater Accra,Municipal,5.3203951,-2.0334832,8.3,42.6,7.0,43.68,40.86,30.35,34.31,332232,GA CENTRAL MUNICIPAL,exact_normalized,False,2.9,39.0,23.8,26.0,84.6
+Ga East Municipal,Greater Accra,Municipal,5.669162,-0.333376,10.1,41.8,6.67,37.32,39.06,28.28,34.46,283379,GA EAST,exact_normalized,False,2.9,39.0,23.8,26.0,84.6
+Ga North Municipal,Greater Accra,Municipal,5.669162,-0.333376,10.5,42.3,8.04,36.7,36.98,30.44,33.59,235292,GA NORTH MUNICIPAL,exact_normalized,False,2.9,39.0,23.8,26.0,84.6
+Ga South Municipal,Greater Accra,Municipal,5.669162,-0.333376,15.8,44.1,14.28,51.14,35.73,34.78,31.91,350121,GA SOUTH MUNICIPAL,exact_normalized,False,2.9,39.0,23.8,26.0,84.6
+Ga West Municipal,Greater Accra,Municipal,5.669162,-0.333376,10.5,43.3,11.33,39.3,35.25,35.19,31.58,314299,GA WEST MUNICIPAL,exact_normalized,False,2.9,39.0,23.8,26.0,84.6
+Korle Klottey Municipal,Greater Accra,Municipal,5.55901944999999,-0.19823054970895,10.6,43.4,9.2,34.32,43.53,21.95,37.37,68633,KORLE KLOTTEY MUNICIPAL,exact_normalized,False,2.9,39.0,23.8,26.0,84.6
+Kpone Katamanso Municipal,Greater Accra,Municipal,5.77159775,-0.0733651054089466,10.5,43.1,9.26,37.86,36.79,33.89,32.03,412828,KPONE KATAMANSO,exact_normalized,False,2.9,39.0,23.8,26.0,84.6
+Krowor Municipal,Greater Accra,Municipal,5.60941925,-0.0769277820845922,12.4,42.4,7.14,43.14,38.27,26.72,35.01,143012,KROWOR MUNICIPAL,exact_normalized,False,2.9,39.0,23.8,26.0,84.6
+La Dade-Kotopon Municipal,Greater Accra,Municipal,5.58947605,-0.156988356399583,8.9,43.1,5.47,37.07,42.1,27.18,35.3,140264,LA DADE-KOTOPON,exact_normalized,False,2.9,39.0,23.8,26.0,84.6
+La Nkwantanang Madina Municipal,Greater Accra,Municipal,5.74468145,-0.172508699400876,11.3,42.7,7.71,35.27,37.97,28.3,34.51,220757,LA-NKWANTANANG-MADINA,exact_normalized,False,2.9,39.0,23.8,26.0,84.6
+Ledzokuku Municipal,Greater Accra,Municipal,5.6050983,-0.114493361214251,11.3,43.3,8.55,37.76,38.82,27.67,35.0,217304,LEDZOKUKU MUNICIPAL,exact_normalized,False,2.9,39.0,23.8,26.0,84.6
+Ningo-Prampram,Greater Accra,Municipal,5.81176965,0.146110955005239,19.4,44.0,17.4,45.17,35.0,34.6,31.01,204673,NINGO/PRAMPRAM,manual_resolved,False,2.9,39.0,23.8,26.0,84.6
+Okaikoi North Municipal,Greater Accra,Municipal,5.6104365,-0.2395459,11.1,42.4,7.96,33.88,39.43,26.66,35.45,160446,OKAIKWEI NORTH MUNICIPAL,manual_resolved,False,2.9,39.0,23.8,26.0,84.6
+Shai-Osudoku,Greater Accra,District,5.95875335,0.161872328401567,23.5,44.2,21.55,28.74,31.77,34.75,30.05,105610,SHAI OSUDOKU,exact_normalized,False,2.9,39.0,23.8,26.0,84.6
+Tema Metropolitan Area (TMA)-Tema Central & Tema East,Greater Accra,Metropolitan,5.6698,-0.01657,11.6,43.8,11.35,45.19,39.77,28.4,34.83,174494,TEMA METROPOLITAN,manual_resolved,False,2.9,39.0,23.8,26.0,84.6
+Tema West Municipal,Greater Accra,Municipal,5.65076355,-0.0688760444019398,8.2,42.0,5.49,39.21,41.58,27.63,34.6,196224,TEMA WEST MUNICIPAL,exact_normalized,False,2.9,39.0,23.8,26.0,84.6
+Weija Gbawe Municipal,Greater Accra,Municipal,5.55414475,-0.296466750643799,8.7,42.9,7.82,39.69,39.82,31.42,33.52,213674,WEIJA GBAWE MUNICIPAL,exact_normalized,False,2.9,39.0,23.8,26.0,84.6
+Bunkpurugu Nakpanduri,North East,District,10.632198,-0.180118,38.3,45.5,38.56,10.71,20.5,37.68,28.66,82384,BUNKPURUGU NAKPANDURI,exact_normalized,False,6.6,121.0,14.9,22.5,33.2
+Chereponi,North East,District,10.1792653999999,0.207987165887793,53.8,44.2,56.31,37.28,20.79,48.15,25.76,87176,CHEREPONI,exact_normalized,False,6.6,121.0,14.9,22.5,33.2
+East Mamprusi Municipal,North East,Municipal,10.45279035,-0.416678651029704,54.7,47.4,52.28,16.82,14.47,45.74,27.08,188006,EAST MAMPRUSI,exact_normalized,False,6.6,121.0,14.9,22.5,33.2
+Mamprugu Moagduri,North East,District,10.23964,-1.27428,44.5,42.4,58.87,62.55,31.38,46.18,26.14,68746,MAMPRUGU MOAGDURI,exact_normalized,False,6.6,121.0,14.9,22.5,33.2
+West Mamprusi Municipal,North East,Municipal,10.29738455,-0.764055036110824,41.5,45.8,46.8,15.36,17.82,44.42,27.52,175755,WEST MAMPRUSI MUNICIPAL,exact_normalized,False,6.6,121.0,14.9,22.5,33.2
+Yunyoo Nasuan,North East,District,10.4415225,-0.0276844142154081,56.9,47.0,58.02,33.07,18.31,48.56,24.6,56879,YUNYOO-NASUAN,exact_normalized,False,6.6,121.0,14.9,22.5,33.2
+Gushegu Municipal,Northern,Municipal,9.9185016,-0.2164706,51.5,44.3,59.79,48.12,23.43,49.62,25.6,153965,GUSHEGU,exact_normalized,False,5.6,73.0,17.2,22.3,37.8
+Karaga,Northern,District,9.9267799,-0.4316607,50.5,46.5,60.84,43.87,22.46,47.73,26.61,114225,KARAGA,exact_normalized,False,5.6,73.0,17.2,22.3,37.8
+Kpandai,Northern,District,8.4635789,-0.0119853,48.6,42.1,51.02,53.63,32.69,44.17,26.69,126213,KPANDAI,exact_normalized,False,5.6,73.0,17.2,22.3,37.8
+Kumbungu,Northern,District,9.5591282,-0.9467086,45.0,46.4,50.71,35.69,18.13,45.52,26.01,110586,KUMBUNGU,exact_normalized,False,5.6,73.0,17.2,22.3,37.8
+Mion,Northern,District,9.45284905,-0.335525511842833,53.4,44.5,60.72,42.38,25.15,47.39,25.58,94930,MION,exact_normalized,False,5.6,73.0,17.2,22.3,37.8
+Nanton,Northern,District,9.55848269999999,-0.710728600167338,39.9,45.3,55.04,38.79,23.97,46.39,26.34,50767,NANTON,exact_normalized,False,5.6,73.0,17.2,22.3,37.8
+Nanumba North Municipal,Northern,Municipal,8.92200959999999,-0.138644700894755,41.5,41.4,53.02,43.86,28.9,46.43,26.48,188680,NANUMBA NORTH,exact_normalized,False,5.6,73.0,17.2,22.3,37.8
+Nanumba South,Northern,District,8.76637935,0.0549741822848612,46.3,42.3,54.98,43.47,28.37,48.58,25.38,106374,NANUMBA SOUTH,exact_normalized,False,5.6,73.0,17.2,22.3,37.8
+Saboba,Northern,District,9.70870525,0.196098328672698,46.0,45.3,45.9,21.53,24.54,44.11,27.25,95683,SABOBA,exact_normalized,False,5.6,73.0,17.2,22.3,37.8
+Sagnarigu Municipal,Northern,Municipal,9.48585935,-0.855049753344912,18.7,43.9,27.51,18.26,25.15,38.85,29.29,341711,,structural_gap,True,5.6,73.0,17.2,22.3,37.8
+Savelugu Municipal,Northern,Municipal,9.6260647,-0.8258943,41.1,45.5,49.39,35.83,18.37,43.91,27.39,122888,SAVELUGU,exact_normalized,False,5.6,73.0,17.2,22.3,37.8
+Tamale Metropolitan Area (TMA)-Tamale Central & Tamale South,Northern,Metropolitan,9.40078,-0.8393,21.0,44.0,33.61,26.65,28.67,39.32,30.25,367324,TAMALE METROPOLITAN,manual_resolved,False,5.6,73.0,17.2,22.3,37.8
+Tatale Sanguli,Northern,District,9.34906725,0.514632473680653,52.4,43.5,54.72,48.75,27.64,46.69,25.83,74805,TATALE SANGULI,exact_normalized,False,5.6,73.0,17.2,22.3,37.8
+Tolon,Northern,District,9.555956,-1.19792230212529,57.5,46.8,56.02,52.02,18.24,44.73,26.7,118090,TOLON,exact_normalized,False,5.6,73.0,17.2,22.3,37.8
+Yendi Municipal,Northern,Municipal,9.4739214,0.022769270127783,38.3,45.3,46.25,23.76,22.72,43.0,27.38,154421,YENDI MUNICIPAL,exact_normalized,False,5.6,73.0,17.2,22.3,37.8
+Zabzugu,Northern,District,9.294058,0.367064,42.7,43.3,55.77,39.02,23.62,47.53,26.16,82846,ZABZUGU,exact_normalized,False,5.6,73.0,17.2,22.3,37.8
+Biakoye,Oti,District,7.39217985,0.262973639210098,34.2,42.2,31.34,39.0,36.64,37.56,28.29,71827,BIAKOYE,exact_normalized,False,5.2,73.0,28.5,25.7,48.9
+Guan,Oti,District,7.19092,0.60951,28.1,42.9,17.68,27.39,36.19,31.58,27.57,28238,,structural_gap,True,5.2,73.0,28.5,25.7,48.9
+Jasikan Municipal,Oti,Municipal,7.40707195,0.466071316332564,30.2,42.2,24.31,36.8,36.97,33.84,29.15,59695,JASIKAN,exact_normalized,False,5.2,73.0,28.5,25.7,48.9
+Kadjebi,Oti,District,7.7210325,0.534053201682814,27.2,41.5,28.64,28.9,36.59,37.07,28.0,73959,KADJEBI,exact_normalized,False,5.2,73.0,28.5,25.7,48.9
+Krachi East Municipal,Oti,Municipal,7.69817,0.22447,41.2,41.6,43.52,45.87,34.61,41.36,27.36,110435,KRACHI EAST MUNICIPAL,exact_normalized,False,5.2,73.0,28.5,25.7,48.9
+Krachi Nchumuru,Oti,District,8.1892008,-0.0866133771431008,47.2,40.8,47.79,60.02,36.03,42.52,26.73,79934,KRACHI NCHUMURU,exact_normalized,False,5.2,73.0,28.5,25.7,48.9
+Krachi West Municipal,Oti,Municipal,7.8,-0.01667,37.4,41.7,41.15,25.3,33.59,37.63,28.54,61128,KRACHI WEST,exact_normalized,False,5.2,73.0,28.5,25.7,48.9
+Nkwanta North (Kpassa),Oti,District,8.4892994,0.3094664,55.2,41.7,54.93,73.17,31.56,45.23,26.47,126096,NKWANTA NORTH,manual_resolved,False,5.2,73.0,28.5,25.7,48.9
+Nkwanta South Municipal,Oti,Municipal,8.25811615,0.509975335946734,42.8,41.8,44.77,52.28,34.66,41.61,27.63,135936,NKWANTA SOUTH MUNICIPAL,exact_normalized,False,5.2,73.0,28.5,25.7,48.9
+Bole,Savannah,District,8.69166865,-2.17855621492469,37.2,44.8,48.8,19.56,23.99,37.87,27.88,115800,BOLE,exact_normalized,False,5.8,116.0,19.1,21.4,31.8
+Central Gonja,Savannah,District,8.93715119999999,-1.10983922943129,61.8,46.6,56.92,46.18,16.95,46.19,25.93,142762,CENTRAL GONJA,exact_normalized,False,5.8,116.0,19.1,21.4,31.8
+East Gonja Municipal,Savannah,Municipal,8.347473,-0.7895018232454,38.8,43.1,51.28,29.47,26.8,41.16,27.31,117755,EAST GONJA MUNICIPAL,exact_normalized,False,5.8,116.0,19.1,21.4,31.8
+North East Gonja,Savannah,District,8.98787705,-0.403868101269744,60.4,45.6,59.93,58.9,21.98,47.22,25.29,39404,NORTH EAST GONJA,exact_normalized,False,5.8,116.0,19.1,21.4,31.8
+North Gonja,Savannah,District,8.98787705,-0.403868101269744,58.4,47.2,60.04,59.7,19.78,45.61,25.83,61443,NORTH GONJA,exact_normalized,False,5.8,116.0,19.1,21.4,31.8
+Sawla Tuna Kalba,Savannah,District,9.4809443,-2.41330933679435,54.2,46.9,58.73,42.85,20.16,41.62,29.35,112664,SAWLA-TUNA-KALBA,exact_normalized,False,5.8,116.0,19.1,21.4,31.8
+West Gonja,Savannah,Municipal,9.5267018,-1.5071681,39.7,44.9,40.19,8.88,16.24,38.52,28.68,63449,WEST GONJA,exact_normalized,False,5.8,116.0,19.1,21.4,31.8
+Bawku Municipal,Upper East,Municipal,11.0607602,-0.2422876,23.6,44.8,41.62,7.24,25.96,38.2,29.16,119458,BAWKU MUNICIPAL,exact_normalized,False,4.6,70.0,30.9,17.9,56.8
+Bawku West,Upper East,District,10.84277,-0.492947618512454,47.6,47.2,51.87,12.63,20.99,40.64,27.71,144189,BAWKU WEST,exact_normalized,False,4.6,70.0,30.9,17.9,56.8
+Binduri,Upper East,District,10.9694889,-0.3062234,53.8,47.8,52.68,14.26,17.92,39.58,27.92,76679,BINDURI,exact_normalized,False,4.6,70.0,30.9,17.9,56.8
+Bolgatanga East,Upper East,District,10.7853963,-0.8487322,24.9,44.0,32.21,7.41,25.22,34.6,30.48,38824,BOLGA  EAST,manual_resolved,False,4.6,70.0,30.9,17.9,56.8
+Bolgatanga Municipal,Upper East,Municipal,10.7853963,-0.8487322,20.2,44.8,28.31,8.78,28.9,34.41,32.5,142509,BOLGATANGA MUNICIPAL,exact_normalized,False,4.6,70.0,30.9,17.9,56.8
+Bongo,Upper East,District,10.9166838999999,-0.805767855895511,54.0,48.5,44.64,17.02,14.25,37.4,30.2,116431,BONGO,exact_normalized,False,4.6,70.0,30.9,17.9,56.8
+Builsa North Municipal,Upper East,Municipal,10.73472,-1.29056,39.7,46.8,39.93,11.47,22.7,34.6,28.54,56571,BUILSA NORTH,exact_normalized,False,4.6,70.0,30.9,17.9,56.8
+Builsa South,Upper East,District,10.53032385,-1.26246582508358,55.1,47.7,51.08,21.89,19.0,37.3,28.06,36575,BUILSA SOUTH,exact_normalized,False,4.6,70.0,30.9,17.9,56.8
+Garu,Upper East,District,10.76975475,-0.21182067584702,44.7,47.7,51.4,19.94,21.58,40.64,27.25,71774,GARU,exact_normalized,False,4.6,70.0,30.9,17.9,56.8
+Kasena Nankana Municipal,Upper East,Municipal,10.895598,-1.30768,33.8,47.1,32.68,12.46,23.11,32.83,31.16,99895,KASENA NANKANA EAST,manual_resolved,False,4.6,70.0,30.9,17.9,56.8
+Kasena Nankana West,Upper East,District,10.895598,-1.30768,53.6,47.4,41.15,13.6,16.55,36.19,29.2,90735,KASENA NANKANA WEST,exact_normalized,False,4.6,70.0,30.9,17.9,56.8
+Nabdam,Upper East,District,10.8469045,-0.661562047243897,68.6,51.2,46.53,19.84,10.09,34.89,30.41,53039,NABDAM,exact_normalized,False,4.6,70.0,30.9,17.9,56.8
+Pusiga,Upper East,District,11.0854045,-0.1276855,40.8,45.4,54.83,8.45,19.64,42.35,27.45,80533,PUSIGA,exact_normalized,False,4.6,70.0,30.9,17.9,56.8
+Talensi,Upper East,District,10.6451057499999,-0.62587443176215,56.2,48.9,40.69,18.85,17.45,37.15,27.88,87021,TALENSI,exact_normalized,False,4.6,70.0,30.9,17.9,56.8
+Tempane,Upper East,District,10.9030714,-0.0914351270233069,50.7,48.1,54.79,18.29,18.42,41.07,27.66,86993,TEMPANE,exact_normalized,False,4.6,70.0,30.9,17.9,56.8
+Daffiama Bussie Issa,Upper West,District,10.36748405,-2.26222672458466,38.7,44.4,55.65,26.29,25.98,38.68,28.3,38754,DAFFIAMA BUSSIE ISSA,exact_normalized,False,4.5,57.0,33.8,17.8,47.2
+Jirapa Municipal,Upper West,Municipal,10.5366328,-2.7008646,50.1,47.4,49.11,12.44,16.66,36.88,30.61,91279,JIRAPA,exact_normalized,False,4.5,57.0,33.8,17.8,47.2
+Lambussie Karni,Upper West,District,10.846747,-2.708741,44.2,46.0,50.17,11.42,21.05,40.07,28.03,51118,LAMBUSSIE-KARNI,exact_normalized,False,4.5,57.0,33.8,17.8,47.2
+Lawra Municipal,Upper West,Municipal,10.61348995,-2.86412434170417,39.5,45.8,46.11,6.05,21.77,35.68,29.72,58433,LAWRA,exact_normalized,False,4.5,57.0,33.8,17.8,47.2
+Nadowli Kaleo,Upper West,District,10.2868347,-2.6394776056347,40.6,47.2,44.26,12.82,21.51,36.69,29.36,77057,NADOWLI-KALEO,exact_normalized,False,4.5,57.0,33.8,17.8,47.2
+Nandom,Upper West,Municipal,10.8520701,-2.760077,31.8,44.8,43.85,5.23,23.37,34.81,28.6,51328,NANDOM,exact_normalized,False,4.5,57.0,33.8,17.8,47.2
+Sissala East Municipal,Upper West,Municipal,10.59705475,-1.85050542952138,28.8,44.3,45.86,16.53,29.39,38.76,29.05,80619,SISSALA EAST,exact_normalized,False,4.5,57.0,33.8,17.8,47.2
+Sissala West,Upper West,District,10.7467085,-2.29346951572635,32.3,46.1,49.84,12.48,23.63,41.36,27.5,63828,SISSALA WEST,exact_normalized,False,4.5,57.0,33.8,17.8,47.2
+Wa East,Upper West,District,10.06069,-2.50192,48.7,45.3,58.2,31.36,26.31,41.08,26.92,91457,WA EAST,exact_normalized,False,4.5,57.0,33.8,17.8,47.2
+Wa Municipal,Upper West,Municipal,10.0623261,-2.5054273,16.5,43.4,27.15,10.89,27.81,35.11,31.31,200672,WA MUNICIPAL,exact_normalized,False,4.5,57.0,33.8,17.8,47.2
+Wa West,Upper West,District,9.8985772,-2.6832633,61.9,48.7,56.7,30.87,19.19,41.21,28.66,96957,WA WEST,exact_normalized,False,4.5,57.0,33.8,17.8,47.2
+Adaklu,Volta,District,6.4470511,0.6286474,33.2,43.6,28.62,27.03,31.89,35.86,29.48,38649,ADAKLU,exact_normalized,False,3.2,44.0,29.3,28.1,76.4
+Afadzato South,Volta,District,7.0222497,0.561946,32.5,43.7,19.28,28.94,30.05,35.01,29.02,73146,AFADZATO SOUTH,exact_normalized,False,3.2,44.0,29.3,28.1,76.4
+Agortime-Ziope,Volta,District,6.42618935,0.732357165932429,25.7,43.4,30.27,25.67,38.5,33.93,30.89,39553,AGOTIME ZIOPE,manual_resolved,False,3.2,44.0,29.3,28.1,76.4
+Akatsi North,Volta,District,6.3108306,0.876439062223793,39.3,44.4,35.49,51.12,32.57,34.98,30.57,32755,AKATSI NORTH,exact_normalized,False,3.2,44.0,29.3,28.1,76.4
+Akatsi South Municipal,Volta,District,8.25846,0.508747,30.1,44.5,29.13,31.45,31.04,34.21,31.67,92133,AKATSI SOUTH,exact_normalized,False,3.2,44.0,29.3,28.1,76.4
+Anloga,Volta,District,5.7936484,0.8984702,31.6,45.9,30.83,43.92,28.83,33.04,31.12,94895,ANLOGA,exact_normalized,False,3.2,44.0,29.3,28.1,76.4
+Central Tongu,Volta,District,6.16884364999999,0.611561745917151,36.0,44.4,35.01,31.61,29.46,36.63,30.31,83284,CENTRAL TONGU,exact_normalized,False,3.2,44.0,29.3,28.1,76.4
+Ho Municipal,Volta,Municipal,6.6126598,0.4688932,12.5,42.1,10.56,13.46,34.24,27.91,35.51,180142,HO MUNICIPAL,exact_normalized,False,3.2,44.0,29.3,28.1,76.4
+Ho West,Volta,District,6.590707,0.46714,27.9,42.7,18.88,30.91,34.14,32.09,31.04,83172,HO WEST,exact_normalized,False,3.2,44.0,29.3,28.1,76.4
+Hohoe Municipal,Volta,Municipal,7.153187,0.477735,18.8,42.8,16.05,19.34,32.54,33.36,32.06,114472,HOHOE MUNICIPAL,exact_normalized,False,3.2,44.0,29.3,28.1,76.4
+Keta Municipal,Volta,Municipal,5.9215688,0.9910728,25.2,45.0,25.13,27.29,29.43,30.42,32.69,78862,KETA MUNICIPAL,exact_normalized,False,3.2,44.0,29.3,28.1,76.4
+Ketu North Municipal,Volta,Municipal,6.192057,0.981151401381816,27.2,44.3,31.57,38.02,33.15,34.56,31.15,114993,KETU NORTH,exact_normalized,False,3.2,44.0,29.3,28.1,76.4
+Ketu South Municipal,Volta,Municipal,6.07748514999999,1.0706219725046,25.6,45.4,30.06,47.86,29.56,37.06,30.59,253122,KETU SOUTH,exact_normalized,False,3.2,44.0,29.3,28.1,76.4
+Kpando Municipal,Volta,Municipal,7.0000115,0.318327973849328,23.4,43.4,18.77,19.74,31.7,31.34,31.02,58552,KPANDO MUNICIPAL,exact_normalized,False,3.2,44.0,29.3,28.1,76.4
+North Dayi,Volta,District,6.91384645,0.22267318926127,30.1,43.6,19.33,22.86,31.9,30.94,30.29,39268,NORTH DAYI,exact_normalized,False,3.2,44.0,29.3,28.1,76.4
+North Tongu,Volta,District,6.14399495,0.297188924896433,38.4,45.4,30.74,40.91,29.84,37.79,30.08,111410,NORTH TONGU,exact_normalized,False,3.2,44.0,29.3,28.1,76.4
+South Dayi,Volta,District,6.5449087,0.240546020283373,29.0,44.3,21.28,20.93,28.69,33.48,29.96,57518,SOUTH DAYI,exact_normalized,False,3.2,44.0,29.3,28.1,76.4
+South Tongu,Volta,District,5.96577275,0.641061228110148,32.4,45.2,28.7,34.34,29.99,35.62,31.51,113114,SOUTH TONGU,exact_normalized,False,3.2,44.0,29.3,28.1,76.4
+Ahanta West Municipal,Western,Municipal,4.8514282,-1.98665461803006,27.2,44.7,24.99,46.3,32.53,36.2,30.72,153140,AHANTA WEST MUNICIPAL,exact_normalized,False,3.6,76.0,35.5,18.5,76.9
+Effia Kwesimintsim Municipal,Western,Municipal,4.96766095,-1.80360599719917,9.3,42.5,8.98,23.32,36.55,30.2,33.11,173975,EFFIA KWESIMINTSIM MUNICIPAL,exact_normalized,False,3.6,76.0,35.5,18.5,76.9
+Ellembelle,Western,District,5.14952214999999,-2.42142536190491,33.3,42.8,26.28,30.29,29.42,35.41,30.41,120893,ELLEMBELLE,exact_normalized,False,3.6,76.0,35.5,18.5,76.9
+Jomoro Municipal,Western,Municipal,5.199616,-2.61473434715296,31.2,43.7,28.7,31.75,31.53,36.11,30.7,126576,JOMORO,exact_normalized,False,3.6,76.0,35.5,18.5,76.9
+Mpohor,Western,District,4.9705877,-1.8927971,31.4,44.3,26.28,48.47,34.2,34.29,29.72,52028,MPOHOR,exact_normalized,False,3.6,76.0,35.5,18.5,76.9
+Nzema East Municipal,Western,Municipal,5.08576495,-2.22263416898707,38.2,43.0,34.41,49.09,34.76,36.13,29.12,94621,NZEMA EAST,exact_normalized,False,3.6,76.0,35.5,18.5,76.9
+Prestea/Huni Valley Municipal,Western,Municipal,5.44481979999999,-2.04050432321944,29.5,43.8,25.74,48.87,32.1,36.04,29.52,229301,PRESTEA/HUNI VALLEY,exact_normalized,False,3.6,76.0,35.5,18.5,76.9
+"Sekondi Takoradi Metropolitan Area (STMA)- Takoradi, Sekondi & Essikado-Ketan",Western,Metropolitan,4.95328,-1.73308,10.1,42.6,9.65,20.06,34.71,30.06,33.67,245382,SEKONDI TAKORADI METROPOLIS,manual_resolved,False,3.6,76.0,35.5,18.5,76.9
+Shama,Western,District,5.0606463,-1.64288365568687,22.0,44.4,20.93,30.4,32.57,36.63,30.6,117224,SHAMA,exact_normalized,False,3.6,76.0,35.5,18.5,76.9
+Tarkwa-Nsuaem Municipal,Western,Municipal,5.310935,-1.992426,18.2,43.5,17.82,28.38,33.78,32.84,30.61,219109,TARKWA NSUAEM,exact_normalized,False,3.6,76.0,35.5,18.5,76.9
+Wassa Amenfi Central,Western,District,5.7890318,-2.0839856,37.6,43.0,34.11,47.02,33.5,37.36,27.3,117999,WASSA AMENFI CENTRAL,exact_normalized,False,3.6,76.0,35.5,18.5,76.9
+Wassa Amenfi East Municipal,Western,Municipal,5.87660585,-1.98975398510416,35.5,44.4,32.21,45.97,30.84,34.27,28.78,179696,WASSA AMENFI EAST,exact_normalized,False,3.6,76.0,35.5,18.5,76.9
+Wassa Amenfi West Municipal,Western,Municipal,5.7735167,-2.5321498,24.9,42.0,29.93,27.83,37.02,35.37,28.63,131000,WASSA AMENFI WEST,exact_normalized,False,3.6,76.0,35.5,18.5,76.9
+Wassa East,Western,District,5.3622378,-1.62070954561049,38.0,42.0,31.67,53.4,37.61,37.76,28.17,99641,WASSA EAST,exact_normalized,False,3.6,76.0,35.5,18.5,76.9
+Aowin Municipal,Western North,Municipal,5.69311555,-2.7557437678514,37.1,41.9,38.74,33.75,36.28,36.24,28.49,133257,AOWIN,exact_normalized,False,3.8,56.0,29.1,22.7,71.1
+Bia East,Western North,District,6.817878,-3.00681786775424,32.9,41.5,42.63,43.89,37.93,38.63,27.16,53073,BIA EAST,exact_normalized,False,3.8,56.0,29.1,22.7,71.1
+Bia West,Western North,District,6.56894165,-3.06628883975843,24.5,41.3,10.35,7.14,33.0,37.94,28.65,115881,BIA WEST,exact_normalized,False,3.8,56.0,29.1,22.7,71.1
+Bibiani Anhwiaso Bekwai Municipal,Western North,Municipal,6.29602085,-2.23398871855776,25.8,41.9,13.49,8.9,32.7,35.5,31.02,167971,BIBIANI-ANHWIASO-BEKWAI MUNICIPAL,exact_normalized,False,3.8,56.0,29.1,22.7,71.1
+Bodi,Western North,District,6.24012575,-2.87347603617418,18.6,41.7,58.55,37.76,35.48,36.17,29.38,65748,BODI,exact_normalized,False,3.8,56.0,29.1,22.7,71.1
+Juaboso,Western North,District,6.3415722,-2.8235416,18.9,42.3,44.93,34.31,33.15,35.46,29.62,88814,JUABOSO,exact_normalized,False,3.8,56.0,29.1,22.7,71.1
+Sefwi Akontombra,Western North,District,6.0425529,-2.8760069,24.5,42.2,44.28,27.02,37.49,37.42,28.19,66689,SEFWI AKONTOMBRA,exact_normalized,False,3.8,56.0,29.1,22.7,71.1
+Sefwi Wiawso Municipal,Western North,Municipal,6.30540429999999,-2.51755838219394,33.3,42.4,28.08,24.68,34.31,34.86,30.91,151220,SEFWI-WIAWSO,exact_normalized,False,3.8,56.0,29.1,22.7,71.1
+Suaman,Western North,District,6.10824159999999,-3.00869712063798,37.5,41.3,50.34,58.99,31.83,33.96,28.8,38268,SUAMAN,exact_normalized,False,3.8,56.0,29.1,22.7,71.1
