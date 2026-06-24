@@ -1,2 +1,16 @@
+# GitHub linguist: keep the language bar reflecting the CODE (Python primary; R, Shell, Dockerfile),
+# not the generated HTML dashboards or the large data files.
 dashboard/*.html linguist-generated
-poster/*.html linguist-generated
+poster/*.html    linguist-generated
+*.geojson        linguist-generated
+data/raw/**      linguist-vendored
+outputs/**       linguist-generated
+*.md             linguist-documentation
+*.csv            linguist-detectable=false
+
+# Force-detect the analysis code so it dominates the language stats
+analysis/*.py    linguist-detectable=true
+analysis/*.R     linguist-detectable=true
+tests/*.py       linguist-detectable=true
+run_all.sh       linguist-detectable=true
+Dockerfile       linguist-detectable=true

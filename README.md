@@ -1,6 +1,6 @@
 # Subnational fertility transition and adolescent reproductive health in Ghana: regional trajectories 1988–2022 and probabilistic forecasting to 2030
 
-[![CI](https://github.com/valentineghanem-bit/ghana-fertility-transition-forecasting/actions/workflows/ci.yml/badge.svg)](https://github.com/valentineghanem-bit/ghana-fertility-transition-forecasting/actions) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) [![Python 3.12](https://img.shields.io/badge/python-3.12-blue.svg)](https://www.python.org/) [![ORCID](https://img.shields.io/badge/ORCID-0009--0002--8332--0220-green.svg)](https://orcid.org/0009-0002-8332-0220)
+[![CI](https://github.com/valentineghanem-bit/ghana-fertility-transition-forecasting/actions/workflows/ci.yml/badge.svg)](https://github.com/valentineghanem-bit/ghana-fertility-transition-forecasting/actions) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) [![Python 3.12](https://img.shields.io/badge/python-3.12-blue.svg)](https://www.python.org/) [![R 4.3+](https://img.shields.io/badge/R-4.3+-blue.svg)](https://www.r-project.org/) [![ORCID](https://img.shields.io/badge/ORCID-0009--0002--8332--0220-green.svg)](https://orcid.org/0009-0002-8332-0220)
 
 **Author:** Valentine Golden Ghanem | Ghana COCOBOD Cocoa Clinic, Accra, Ghana
 **ORCID:** [0009-0002-8332-0220](https://orcid.org/0009-0002-8332-0220)
@@ -27,6 +27,7 @@ How has subnational fertility and adolescent reproductive health changed across 
 | Statistical baselines (RWD, log-linear, linear) | Python (numpy) | Year-aware benchmark forecasters |
 | Time-aware LSTM (benchmark) | Python (numpy, BPTT) | Deep-learning comparator (gradient-checked) |
 | Global Moran's I + LISA | Python (numpy, sklearn KNN) | Spatial autocorrelation / clusters (261 districts) |
+| Global Moran's I + LISA (reference) | R 4.3 (spdep) | Independent spatial-autocorrelation cross-check |
 | Gradient boosting + permutation importance (LOROCV) | scikit-learn | District structural determinants of fertility |
 
 ## 4. Data Sources
@@ -56,7 +57,8 @@ How has subnational fertility and adolescent reproductive health changed across 
 ghana-fertility-transition-forecasting/
   analysis/          harmonize_regions, build_master_panel, build_district_cross_section,
                      spatial_lisa, bayes_hier, lee_carter, lstm_numpy, run_forecast,
-                     compare_forecasts, district_ml, make_figures, md_to_docx
+                     compare_forecasts, district_ml, make_figures, md_to_docx (Python)
+                     spatial_diagnostics.R (R/spdep spatial cross-check)
   data/raw/          DHS/MIS subnational CSVs, Census Master Sheet, district GeoJSON
   data/processed/    master_panel_long.csv, district_cross_section_2022_261.csv, datalog
   outputs/data/      master_panel_wide.csv, forecasts_2025_2030.csv
@@ -67,13 +69,13 @@ ghana-fertility-transition-forecasting/
   evidence/          section-stratified evidence extractions (28-source bank)
   qa/                QA report + badge
   tests/             pytest suite
-  README.md  CITATION.cff  LICENSE  requirements.txt  run_all.sh  .github/workflows/ci.yml
+  README.md  CITATION.cff  LICENSE  requirements.txt  run_all.sh  Dockerfile  .github/workflows/ci.yml
 ```
 
 ## 7. Reproducibility
 
 ### 7.1 Requirements
-Python 3.12 with numpy, scipy, pandas, scikit-learn, matplotlib, python-docx (see `requirements.txt`). No R or GPU required — all models are pure-NumPy.
+Python 3.12 with numpy, scipy, pandas, scikit-learn, matplotlib, python-docx (see `requirements.txt`) — all forecasting/ML models are pure-NumPy (no GPU). R 4.3+ with `spdep` is optional, used only by `analysis/spatial_diagnostics.R` to independently cross-check the spatial statistics. A `Dockerfile` provides the full Python + R environment (`docker build -t fertility-ghana .`).
 
 ### 7.2 Clone & install
 ```bash
